@@ -1,0 +1,47 @@
+name: Оновити фід Епіцентра
+
+# Епіцентр забирає файл щодня 00:00–02:00 за Києвом.
+# Запускаємось о 21:00 UTC (00:00 Київ) — за кілька хвилин до вікна,
+# щоб у фіді були найсвіжіші ціни з сайту.
+on:
+  schedule:
+    - cron: '0 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: epicentr-feed
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Згенерувати epicentr_stock.xml
+        env:
+          HS_HOST: harbuz.in.ua
+          HS_LOGIN: ${{ secrets.HS_LOGIN }}
+          HS_PASS: ${{ secrets.HS_PASS }}
+        run: python build_feed.py
+
+      - name: Закомітити, якщо змінилось
+        run: |
+          if git diff --quiet -- epicentr_stock.xml; then
+            echo "Цін і наявності не змінилось — коміт не потрібен."
+            exit 0
+          fi
+          N=$(grep -c '<offer ' epicentr_stock.xml)
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add epicentr_stock.xml
+          git commit -m "Автооновлення фіда: ${N} позицій ($(TZ=Europe/Kyiv date '+%d.%m.%Y %H:%M'))"
+          git push
