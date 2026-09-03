@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <yml_catalog>
 <offers>
-<offer id="PLX-134" available="true">
+<offer id="PLX-134" available="false">
 <price>199</price>
 </offer>
 <offer id="PLX-5017" available="false">
@@ -9889,9 +9889,6 @@
 <offer id="PLX-32-029" available="true">
 <price>359</price>
 </offer>
-<offer id="PLX-32-053" available="true">
-<price>1329</price>
-</offer>
 <offer id="PLX-54-226" available="true">
 <price>89</price>
 </offer>
@@ -16375,9 +16372,6 @@
 <offer id="PLX-895204" available="true">
 <price>3339</price>
 </offer>
-<offer id="PLX-960980" available="true">
-<price>9599</price>
-</offer>
 <offer id="PLX-899422" available="true">
 <price>2459</price>
 </offer>
@@ -16413,9 +16407,6 @@
 </offer>
 <offer id="PLX-830510" available="false">
 <price>439</price>
-</offer>
-<offer id="PLX-960766" available="true">
-<price>2209</price>
 </offer>
 <offer id="PLX-10-599" available="true">
 <price>559</price>
@@ -41355,6 +41346,15 @@
 </offer>
 <offer id="PLX-НФ-00003965" available="true">
 <price>69</price>
+</offer>
+<offer id="PLX-960980" available="true">
+<price>9599</price>
+</offer>
+<offer id="PLX-960766" available="true">
+<price>2209</price>
+</offer>
+<offer id="PLX-32-053" available="true">
+<price>1329</price>
 </offer>
 <offer id="PLX-310" available="true">
 <price>10</price>
