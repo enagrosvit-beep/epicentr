@@ -23200,7 +23200,7 @@
 <offer id="0660" available="false">
 <price>289</price>
 </offer>
-<offer id="0661" available="true">
+<offer id="0661" available="false">
 <price>439</price>
 </offer>
 <offer id="0663" available="true">
@@ -31576,7 +31576,7 @@
 <offer id="0296" available="false">
 <price>1089</price>
 </offer>
-<offer id="0297" available="true">
+<offer id="0297" available="false">
 <price>4119</price>
 </offer>
 <offer id="0298" available="false">
