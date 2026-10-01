@@ -8779,9 +8779,6 @@
 <offer id="PLX-1777" available="true">
 <price>279</price>
 </offer>
-<offer id="PLX-3311" available="true">
-<price>269</price>
-</offer>
 <offer id="PLX-5441" available="true">
 <price>199</price>
 </offer>
@@ -10852,9 +10849,6 @@
 <offer id="PLX-70-019" available="true">
 <price>429</price>
 </offer>
-<offer id="PLX-70-018" available="true">
-<price>439</price>
-</offer>
 <offer id="PLX-70-017" available="true">
 <price>499</price>
 </offer>
@@ -10878,12 +10872,6 @@
 </offer>
 <offer id="PLX-70-004" available="true">
 <price>469</price>
-</offer>
-<offer id="PLX-34-003" available="true">
-<price>209</price>
-</offer>
-<offer id="PLX-34-002" available="true">
-<price>229</price>
 </offer>
 <offer id="PLX-111-095" available="true">
 <price>359</price>
@@ -16627,9 +16615,6 @@
 <offer id="PLX-45-414" available="true">
 <price>139</price>
 </offer>
-<offer id="PLX-45-419" available="true">
-<price>99</price>
-</offer>
 <offer id="PLX-WL103" available="true">
 <price>209</price>
 </offer>
@@ -19492,9 +19477,6 @@
 <offer id="PLX-70-011" available="true">
 <price>999</price>
 </offer>
-<offer id="PLX-70-026" available="true">
-<price>1629</price>
-</offer>
 <offer id="PLX-70-015" available="true">
 <price>539</price>
 </offer>
@@ -21651,6 +21633,18 @@
 </offer>
 <offer id="PLX-2433" available="true">
 <price>89</price>
+</offer>
+<offer id="BB-25512" available="true">
+<price>329</price>
+</offer>
+<offer id="BB-261710" available="true">
+<price>279</price>
+</offer>
+<offer id="BB-31083" available="true">
+<price>349</price>
+</offer>
+<offer id="BB-32506" available="true">
+<price>329</price>
 </offer>
 <offer id="0001" available="true">
 <price>209</price>
@@ -31683,6 +31677,9 @@
 </offer>
 <offer id="1570" available="false">
 <price>299</price>
+</offer>
+<offer id="PLX-70-026" available="true">
+<price>1629</price>
 </offer>
 <offer id="0296" available="false">
 <price>1089</price>
@@ -50640,6 +50637,21 @@
 </offer>
 <offer id="PLX-3243" available="true">
 <price>559</price>
+</offer>
+<offer id="PLX-3311" available="true">
+<price>269</price>
+</offer>
+<offer id="PLX-34-002" available="true">
+<price>229</price>
+</offer>
+<offer id="PLX-34-003" available="true">
+<price>209</price>
+</offer>
+<offer id="PLX-45-419" available="true">
+<price>99</price>
+</offer>
+<offer id="PLX-70-018" available="true">
+<price>439</price>
 </offer>
 <offer id="PLX-310" available="true">
 <price>10</price>
