@@ -529,7 +529,7 @@
 <offer id="PLX-33304" available="true">
 <price>439</price>
 </offer>
-<offer id="PLX-33306" available="true">
+<offer id="PLX-33306" available="false">
 <price>529</price>
 </offer>
 <offer id="PLX-1970" available="true">
@@ -553,10 +553,10 @@
 <offer id="PLX-33317" available="true">
 <price>389</price>
 </offer>
-<offer id="PLX-33321" available="true">
+<offer id="PLX-33321" available="false">
 <price>739</price>
 </offer>
-<offer id="PLX-33320" available="true">
+<offer id="PLX-33320" available="false">
 <price>689</price>
 </offer>
 <offer id="PLX-35452" available="true">
@@ -4195,7 +4195,7 @@
 <offer id="PLX-СК-04-05" available="true">
 <price>35</price>
 </offer>
-<offer id="PLX-СК-04-06" available="true">
+<offer id="PLX-СК-04-06" available="false">
 <price>35</price>
 </offer>
 <offer id="PLX-СК-04-07" available="true">
@@ -4270,7 +4270,7 @@
 <offer id="PLX-СК-04-37" available="true">
 <price>10</price>
 </offer>
-<offer id="PLX-СК-04-18" available="true">
+<offer id="PLX-СК-04-18" available="false">
 <price>25</price>
 </offer>
 <offer id="PLX-СК-04-34" available="true">
@@ -4552,7 +4552,7 @@
 <offer id="PLX-R-0132" available="true">
 <price>269</price>
 </offer>
-<offer id="PLX-R-0129" available="true">
+<offer id="PLX-R-0129" available="false">
 <price>179</price>
 </offer>
 <offer id="PLX-R-0127" available="true">
@@ -14071,10 +14071,10 @@
 <offer id="PLX-201012" available="true">
 <price>45</price>
 </offer>
-<offer id="PLX-201017" available="true">
+<offer id="PLX-201017" available="false">
 <price>129</price>
 </offer>
-<offer id="PLX-201019" available="true">
+<offer id="PLX-201019" available="false">
 <price>139</price>
 </offer>
 <offer id="PLX-201024" available="true">
@@ -18885,6 +18885,9 @@
 </offer>
 <offer id="vt-ARHC2801RC" available="true">
 <price>229</price>
+</offer>
+<offer id="vt-KM-8847" available="true">
+<price>189</price>
 </offer>
 <offer id="0001" available="true">
 <price>259</price>
@@ -24390,6 +24393,54 @@
 </offer>
 <offer id="PLX-70-026" available="true">
 <price>1659</price>
+</offer>
+<offer id="hc-000408" available="true">
+<price>329</price>
+</offer>
+<offer id="hc-004500" available="true">
+<price>539</price>
+</offer>
+<offer id="hc-HECHT401" available="true">
+<price>219</price>
+</offer>
+<offer id="hc-HECHT405" available="true">
+<price>749</price>
+</offer>
+<offer id="hc-HECHT4050" available="true">
+<price>1499</price>
+</offer>
+<offer id="hc-HECHT408" available="true">
+<price>969</price>
+</offer>
+<offer id="hc-HECHT410ACCU" available="true">
+<price>5029</price>
+</offer>
+<offer id="hc-HECHT415V" available="true">
+<price>429</price>
+</offer>
+<offer id="hc-HECHT4166" available="true">
+<price>1609</price>
+</offer>
+<offer id="hc-HECHT416ACCU" available="true">
+<price>5349</price>
+</offer>
+<offer id="hc-HECHT433" available="true">
+<price>13909</price>
+</offer>
+<offer id="hc-HECHT443" available="true">
+<price>12839</price>
+</offer>
+<offer id="hc-HECHT4500" available="true">
+<price>1069</price>
+</offer>
+<offer id="hc-HECHT459" available="true">
+<price>14979</price>
+</offer>
+<offer id="hc-HECHT9415" available="true">
+<price>5349</price>
+</offer>
+<offer id="hc-HECHT1740" available="true">
+<price>3749</price>
 </offer>
 <offer id="0312" available="true">
 <price>439</price>
@@ -36046,9 +36097,6 @@
 <offer id="vt-KM0918" available="true">
 <price>449</price>
 </offer>
-<offer id="vt-KM-8847" available="true">
-<price>189</price>
-</offer>
 <offer id="vt-0435D BS" available="true">
 <price>979</price>
 </offer>
@@ -40122,6 +40170,819 @@
 </offer>
 <offer id="00000969" available="true">
 <price>499</price>
+</offer>
+<offer id="hc-018KB" available="true">
+<price>889</price>
+</offer>
+<offer id="hc-018LGG" available="true">
+<price>1069</price>
+</offer>
+<offer id="hc-020AKB" available="true">
+<price>949</price>
+</offer>
+<offer id="hc-020ALGG" available="true">
+<price>1179</price>
+</offer>
+<offer id="hc-023-2W" available="true">
+<price>609</price>
+</offer>
+<offer id="hc-050GAH9L" available="true">
+<price>1819</price>
+</offer>
+<offer id="hc-050TAH9L" available="true">
+<price>1719</price>
+</offer>
+<offer id="hc-060AH9L" available="true">
+<price>1399</price>
+</offer>
+<offer id="hc-420CC" available="true">
+<price>329</price>
+</offer>
+<offer id="hc-434DLA08" available="true">
+<price>649</price>
+</offer>
+<offer id="hc-435HB2L" available="true">
+<price>659</price>
+</offer>
+<offer id="hc-493A" available="true">
+<price>489</price>
+</offer>
+<offer id="hc-494ADN" available="true">
+<price>709</price>
+</offer>
+<offer id="hc-G02FHN" available="true">
+<price>1069</price>
+</offer>
+<offer id="hc-HECHT176GT" available="true">
+<price>649</price>
+</offer>
+<offer id="hc-HECHT600101" available="true">
+<price>649</price>
+</offer>
+<offer id="hc-HECHT600112" available="true">
+<price>329</price>
+</offer>
+<offer id="hc-HECHT600118" available="true">
+<price>429</price>
+</offer>
+<offer id="hc-HECHT600123" available="true">
+<price>429</price>
+</offer>
+<offer id="hc-HECHT600635" available="true">
+<price>649</price>
+</offer>
+<offer id="hc-HECHT600636" available="true">
+<price>1069</price>
+</offer>
+<offer id="hc-HECHT600904" available="true">
+<price>859</price>
+</offer>
+<offer id="hc-HECHT600905" available="true">
+<price>749</price>
+</offer>
+<offer id="hc-HECHT600906" available="true">
+<price>859</price>
+</offer>
+<offer id="hc-HECHT900200" available="true">
+<price>219</price>
+</offer>
+<offer id="hc-HECHT900300" available="true">
+<price>189</price>
+</offer>
+<offer id="hc-HECHT900376" available="true">
+<price>969</price>
+</offer>
+<offer id="hc-HECHT900400" available="true">
+<price>219</price>
+</offer>
+<offer id="hc-HECHT909200" available="true">
+<price>1929</price>
+</offer>
+<offer id="hc-M4B1" available="true">
+<price>859</price>
+</offer>
+<offer id="hc-M4T2A" available="true">
+<price>859</price>
+</offer>
+<offer id="hc-HECHT900444" available="true">
+<price>1519</price>
+</offer>
+<offer id="hc-HECHT900570" available="true">
+<price>1269</price>
+</offer>
+<offer id="hc-HECHT900600" available="true">
+<price>609</price>
+</offer>
+<offer id="hc-HECHT900680" available="true">
+<price>649</price>
+</offer>
+<offer id="hc-HECHT900700" available="true">
+<price>1949</price>
+</offer>
+<offer id="hc-HECHT900800" available="true">
+<price>2269</price>
+</offer>
+<offer id="hc-HECHT900901" available="true">
+<price>1609</price>
+</offer>
+<offer id="hc-HECHT900950" available="true">
+<price>1749</price>
+</offer>
+<offer id="hc-HECHT901000" available="true">
+<price>799</price>
+</offer>
+<offer id="hc-HECHT901001" available="true">
+<price>779</price>
+</offer>
+<offer id="hc-HECHT901170" available="true">
+<price>1909</price>
+</offer>
+<offer id="hc-HECHT901201" available="true">
+<price>869</price>
+</offer>
+<offer id="hc-HECHT901500" available="true">
+<price>1179</price>
+</offer>
+<offer id="hc-HECHT901550" available="true">
+<price>2279</price>
+</offer>
+<offer id="hc-HECHT902000" available="true">
+<price>1159</price>
+</offer>
+<offer id="hc-HECHT902550" available="true">
+<price>3209</price>
+</offer>
+<offer id="hc-HECHT903600" available="true">
+<price>1819</price>
+</offer>
+<offer id="hc-HECHT908500" available="true">
+<price>1609</price>
+</offer>
+<offer id="hc-HECHT909100" available="true">
+<price>1449</price>
+</offer>
+<offer id="hc-HECHT6261" available="true">
+<price>59919</price>
+</offer>
+<offer id="hc-HECHT9014" available="true">
+<price>7169</price>
+</offer>
+<offer id="hc-HECHT9015" available="true">
+<price>6959</price>
+</offer>
+<offer id="hc-HECHT9040" available="true">
+<price>17119</price>
+</offer>
+<offer id="hc-HECHT9200" available="true">
+<price>9209</price>
+</offer>
+<offer id="hc-HECHT9201E" available="true">
+<price>13909</price>
+</offer>
+<offer id="hc-HECHT9235" available="true">
+<price>10699</price>
+</offer>
+<offer id="hc-HECHT9334SQ" available="true">
+<price>98439</price>
+</offer>
+<offer id="hc-HECHT9534SQ" available="true">
+<price>133749</price>
+</offer>
+<offer id="hc-HECHT9542SQ" available="true">
+<price>119839</price>
+</offer>
+<offer id="hc-HECHT9555" available="true">
+<price>26749</price>
+</offer>
+<offer id="hc-HECHT9555SE" available="true">
+<price>32099</price>
+</offer>
+<offer id="hc-HECHT9661" available="true">
+<price>46009</price>
+</offer>
+<offer id="hc-HECHT9661SE" available="true">
+<price>59919</price>
+</offer>
+<offer id="hc-HECHT9666" available="true">
+<price>86669</price>
+</offer>
+<offer id="hc-HECHT9676" available="true">
+<price>78109</price>
+</offer>
+<offer id="hc-HECHT000650" available="true">
+<price>2139</price>
+</offer>
+<offer id="hc-HECHT000651" available="true">
+<price>2139</price>
+</offer>
+<offer id="hc-HECHT000670" available="true">
+<price>2139</price>
+</offer>
+<offer id="hc-HECHT000671" available="true">
+<price>2139</price>
+</offer>
+<offer id="hc-HECHT006060" available="true">
+<price>2139</price>
+</offer>
+<offer id="hc-HECHT006070" available="true">
+<price>2139</price>
+</offer>
+<offer id="hc-HECHT6060" available="true">
+<price>32099</price>
+</offer>
+<offer id="hc-HECHT6070" available="true">
+<price>34239</price>
+</offer>
+<offer id="hc-HECHT6110" available="true">
+<price>48149</price>
+</offer>
+<offer id="hc-HECHT6121" available="true">
+<price>48149</price>
+</offer>
+<offer id="hc-HECHT6422" available="true">
+<price>111279</price>
+</offer>
+<offer id="hc-HECHT6500" available="true">
+<price>17119</price>
+</offer>
+<offer id="hc-HECHT670" available="true">
+<price>19259</price>
+</offer>
+<offer id="hc-HECHT676" available="true">
+<price>21399</price>
+</offer>
+<offer id="hc-HECHT6810" available="true">
+<price>35309</price>
+</offer>
+<offer id="hc-HECHT6910" available="true">
+<price>39589</price>
+</offer>
+<offer id="hc-HECHT8220" available="true">
+<price>22469</price>
+</offer>
+<offer id="hc-HECHT8300" available="true">
+<price>40659</price>
+</offer>
+<offer id="hc-HECHT900" available="true">
+<price>2139</price>
+</offer>
+<offer id="hc-HECHT901" available="true">
+<price>3429</price>
+</offer>
+<offer id="hc-HECHT902" available="true">
+<price>4279</price>
+</offer>
+<offer id="hc-HECHT2039" available="true">
+<price>3639</price>
+</offer>
+<offer id="hc-HECHT2250" available="true">
+<price>5349</price>
+</offer>
+<offer id="hc-HECHT2416QT" available="true">
+<price>5679</price>
+</offer>
+<offer id="hc-HECHT2439" available="true">
+<price>6099</price>
+</offer>
+<offer id="hc-HECHT45" available="true">
+<price>5999</price>
+</offer>
+<offer id="hc-HECHT50" available="true">
+<price>6209</price>
+</offer>
+<offer id="hc-HECHT600618" available="true">
+<price>329</price>
+</offer>
+<offer id="hc-HECHT600621" available="true">
+<price>379</price>
+</offer>
+<offer id="hc-HECHT6294" available="true">
+<price>8559</price>
+</offer>
+<offer id="hc-HECHT900025" available="true">
+<price>1289</price>
+</offer>
+<offer id="hc-HECHT900375" available="true">
+<price>1399</price>
+</offer>
+<offer id="hc-HECHT900813" available="true">
+<price>649</price>
+</offer>
+<offer id="hc-HECHT901018" available="true">
+<price>369</price>
+</offer>
+<offer id="hc-HECHT9025" available="true">
+<price>4819</price>
+</offer>
+<offer id="hc-HECHT920" available="true">
+<price>4819</price>
+</offer>
+<offer id="hc-HECHT9260" available="true">
+<price>16049</price>
+</offer>
+<offer id="hc-HECHT945" available="true">
+<price>8349</price>
+</offer>
+<offer id="hc-HECHT946" available="true">
+<price>5349</price>
+</offer>
+<offer id="hc-HECHT950" available="true">
+<price>8889</price>
+</offer>
+<offer id="hc-HECHT956" available="true">
+<price>9629</price>
+</offer>
+<offer id="hc-HECHT962" available="true">
+<price>16049</price>
+</offer>
+<offer id="hc-HECHT971W" available="true">
+<price>4279</price>
+</offer>
+<offer id="hc-HECHT9750" available="true">
+<price>4929</price>
+</offer>
+<offer id="hc-HECHT99125" available="true">
+<price>2569</price>
+</offer>
+<offer id="hc-HECHT99126" available="true">
+<price>8029</price>
+</offer>
+<offer id="hc-HECHT9919" available="true">
+<price>2139</price>
+</offer>
+<offer id="hc-HECHT9920" available="true">
+<price>3959</price>
+</offer>
+<offer id="hc-HECHT9922" available="true">
+<price>2469</price>
+</offer>
+<offer id="hc-HECHTJZN200" available="true">
+<price>3209</price>
+</offer>
+<offer id="hc-HECHTJZN356" available="true">
+<price>5349</price>
+</offer>
+<offer id="hc-HECHT1010" available="true">
+<price>4279</price>
+</offer>
+<offer id="hc-HECHT1233" available="true">
+<price>3639</price>
+</offer>
+<offer id="hc-HECHT1434" available="true">
+<price>5029</price>
+</offer>
+<offer id="hc-HECHT1445" available="true">
+<price>5349</price>
+</offer>
+<offer id="hc-HECHT1638R" available="true">
+<price>6419</price>
+</offer>
+<offer id="hc-HECHT1640" available="true">
+<price>11239</price>
+</offer>
+<offer id="hc-HECHT1641" available="true">
+<price>10919</price>
+</offer>
+<offer id="hc-HECHT1802S" available="true">
+<price>14979</price>
+</offer>
+<offer id="hc-HECHT1803S5IN1" available="true">
+<price>13909</price>
+</offer>
+<offer id="hc-HECHT1844" available="true">
+<price>7489</price>
+</offer>
+<offer id="hc-HECHT1845" available="true">
+<price>12839</price>
+</offer>
+<offer id="hc-HECHT5030" available="true">
+<price>4279</price>
+</offer>
+<offer id="hc-HECHT5036" available="true">
+<price>2359</price>
+</offer>
+<offer id="hc-HECHT504" available="true">
+<price>4389</price>
+</offer>
+<offer id="hc-HECHT50437" available="true">
+<price>1069</price>
+</offer>
+<offer id="hc-HECHT5051S" available="true">
+<price>25679</price>
+</offer>
+<offer id="hc-HECHT514PROFI" available="true">
+<price>8669</price>
+</offer>
+<offer id="hc-HECHT530" available="true">
+<price>1929</price>
+</offer>
+<offer id="hc-HECHT540" available="true">
+<price>10699</price>
+</offer>
+<offer id="hc-HECHT5408" available="true">
+<price>8349</price>
+</offer>
+<offer id="hc-HECHT543" available="true">
+<price>14019</price>
+</offer>
+<offer id="hc-HECHT543SW5IN1" available="true">
+<price>20759</price>
+</offer>
+<offer id="hc-HECHT543SWE5IN1" available="true">
+<price>26749</price>
+</offer>
+<offer id="hc-HECHT547SWE" available="true">
+<price>19049</price>
+</offer>
+<offer id="hc-HECHT5483SWE5in1" available="true">
+<price>26749</price>
+</offer>
+<offer id="hc-HECHT551XRC" available="true">
+<price>171199</price>
+</offer>
+<offer id="hc-HECHT551XRCAKU" available="true">
+<price>181899</price>
+</offer>
+<offer id="hc-HECHT5534SWE5IN1" available="true">
+<price>26749</price>
+</offer>
+<offer id="hc-HECHT5564SX5IN1" available="true">
+<price>29959</price>
+</offer>
+<offer id="hc-HECHT5600" available="true">
+<price>27819</price>
+</offer>
+<offer id="hc-HECHT5601" available="true">
+<price>34239</price>
+</offer>
+<offer id="hc-HECHT5602" available="true">
+<price>36379</price>
+</offer>
+<offer id="hc-HECHT6210" available="true">
+<price>6319</price>
+</offer>
+<offer id="hc-HECHT630" available="true">
+<price>2569</price>
+</offer>
+<offer id="hc-HECHT005102" available="true">
+<price>4819</price>
+</offer>
+<offer id="hc-HECHT005103" available="true">
+<price>4819</price>
+</offer>
+<offer id="hc-HECHT005186" available="true">
+<price>4819</price>
+</offer>
+<offer id="hc-HECHT5060" available="true">
+<price>71689</price>
+</offer>
+<offer id="hc-HECHT5107" available="true">
+<price>288899</price>
+</offer>
+<offer id="hc-HECHT5108TWIN" available="true">
+<price>288899</price>
+</offer>
+<offer id="hc-HECHT5115" available="true">
+<price>128399</price>
+</offer>
+<offer id="hc-HECHT5118" available="true">
+<price>171199</price>
+</offer>
+<offer id="hc-HECHT5167" available="true">
+<price>96299</price>
+</offer>
+<offer id="hc-HECHT5168" available="true">
+<price>106999</price>
+</offer>
+<offer id="hc-HECHT5198" available="true">
+<price>171199</price>
+</offer>
+<offer id="hc-HECHT5202TWIN" available="true">
+<price>192599</price>
+</offer>
+<offer id="hc-HECHT5286" available="true">
+<price>149799</price>
+</offer>
+<offer id="hc-HECHT5292" available="true">
+<price>171199</price>
+</offer>
+<offer id="hc-HECHT5386" available="true">
+<price>160499</price>
+</offer>
+<offer id="hc-HECHT5812" available="true">
+<price>160499</price>
+</offer>
+<offer id="hc-HECHT587" available="true">
+<price>42799</price>
+</offer>
+<offer id="hc-HECHT7025" available="true">
+<price>5349</price>
+</offer>
+<offer id="hc-HECHT7026" available="true">
+<price>7489</price>
+</offer>
+<offer id="hc-HECHT732" available="true">
+<price>4609</price>
+</offer>
+<offer id="hc-HECHT738" available="true">
+<price>5889</price>
+</offer>
+<offer id="hc-HECHT7445" available="true">
+<price>7489</price>
+</offer>
+<offer id="hc-HECHT745" available="true">
+<price>6749</price>
+</offer>
+<offer id="hc-HECHT746" available="true">
+<price>17119</price>
+</offer>
+<offer id="hc-HECHT747" available="true">
+<price>17119</price>
+</offer>
+<offer id="hc-HECHT748" available="true">
+<price>6959</price>
+</offer>
+<offer id="hc-HECHT750" available="true">
+<price>36379</price>
+</offer>
+<offer id="hc-HECHT752" available="true">
+<price>8559</price>
+</offer>
+<offer id="hc-HECHT761" available="true">
+<price>16049</price>
+</offer>
+<offer id="hc-HECHT785" available="true">
+<price>24609</price>
+</offer>
+<offer id="hc-KKT_HECHT_1" available="true">
+<price>63129</price>
+</offer>
+<offer id="hc-HECHT6173" available="true">
+<price>28889</price>
+</offer>
+<offer id="hc-HECHT6206" available="true">
+<price>32099</price>
+</offer>
+<offer id="hc-HECHT6208" available="true">
+<price>36379</price>
+</offer>
+<offer id="hc-HECHT626BOX" available="true">
+<price>9099</price>
+</offer>
+<offer id="hc-HECHT627Silent" available="true">
+<price>10699</price>
+</offer>
+<offer id="hc-HECHT628" available="true">
+<price>5889</price>
+</offer>
+<offer id="hc-HECHT6284XL" available="true">
+<price>10699</price>
+</offer>
+<offer id="hc-HECHT6300XLSilent" available="true">
+<price>12839</price>
+</offer>
+<offer id="hc-HECHT630BOX" available="true">
+<price>7919</price>
+</offer>
+<offer id="hc-HECHT6421" available="true">
+<price>42799</price>
+</offer>
+<offer id="hc-HECHT6645" available="true">
+<price>117699</price>
+</offer>
+<offer id="hc-HECHT8514" available="true">
+<price>42799</price>
+</offer>
+<offer id="hc-HECHT8574" available="true">
+<price>74899</price>
+</offer>
+<offer id="hc-HECHT9250" available="true">
+<price>3749</price>
+</offer>
+<offer id="hc-HECHT9254" available="true">
+<price>7489</price>
+</offer>
+<offer id="hc-HECHT9280" available="true">
+<price>7279</price>
+</offer>
+<offer id="hc-HECHT94402IN1" available="true">
+<price>4709</price>
+</offer>
+<offer id="hc-HECHT952" available="true">
+<price>10699</price>
+</offer>
+<offer id="hc-HECHT972PROFI" available="true">
+<price>17119</price>
+</offer>
+<offer id="hc-HECHT9764T" available="true">
+<price>14979</price>
+</offer>
+<offer id="hc-000320A" available="true">
+<price>679</price>
+</offer>
+<offer id="hc-HECHT0000324" available="true">
+<price>539</price>
+</offer>
+<offer id="hc-HECHT000318" available="true">
+<price>569</price>
+</offer>
+<offer id="hc-HECHT322" available="true">
+<price>3959</price>
+</offer>
+<offer id="hc-HECHT3231" available="true">
+<price>21399</price>
+</offer>
+<offer id="hc-HECHT333" available="true">
+<price>6419</price>
+</offer>
+<offer id="hc-HECHT334" available="true">
+<price>8029</price>
+</offer>
+<offer id="hc-HECHT336" available="true">
+<price>13379</price>
+</offer>
+<offer id="hc-HECHTH318326" available="true">
+<price>189</price>
+</offer>
+<offer id="hc-HECHT3011" available="true">
+<price>3569</price>
+</offer>
+<offer id="hc-HECHT3101Inox" available="true">
+<price>6959</price>
+</offer>
+<offer id="hc-HECHT3131" available="true">
+<price>5679</price>
+</offer>
+<offer id="hc-HECHT3166" available="true">
+<price>2789</price>
+</offer>
+<offer id="hc-HECHT3301" available="true">
+<price>1719</price>
+</offer>
+<offer id="hc-HECHT3331INOX" available="true">
+<price>10489</price>
+</offer>
+<offer id="hc-HECHT3400" available="true">
+<price>2139</price>
+</offer>
+<offer id="hc-HECHT3415" available="true">
+<price>2569</price>
+</offer>
+<offer id="hc-HECHT3520" available="true">
+<price>9959</price>
+</offer>
+<offer id="hc-HECHT3635" available="true">
+<price>9959</price>
+</offer>
+<offer id="hc-HECHT3680" available="true">
+<price>16049</price>
+</offer>
+<offer id="hc-HECHT3775" available="true">
+<price>3209</price>
+</offer>
+<offer id="hc-HECHT00144160" available="true">
+<price>1819</price>
+</offer>
+<offer id="hc-HECHT1352" available="true">
+<price>12099</price>
+</offer>
+<offer id="hc-HECHT5013" available="true">
+<price>1819</price>
+</offer>
+<offer id="hc-HECHT610" available="true">
+<price>3639</price>
+</offer>
+<offer id="hc-HECHT611" available="true">
+<price>3959</price>
+</offer>
+<offer id="hc-HECHT6225" available="true">
+<price>5349</price>
+</offer>
+<offer id="hc-HECHT6504" available="true">
+<price>5349</price>
+</offer>
+<offer id="hc-HECHT655" available="true">
+<price>3429</price>
+</offer>
+<offer id="hc-HECHT675" available="true">
+<price>6319</price>
+</offer>
+<offer id="hc-HECHT6903IN1" available="true">
+<price>9099</price>
+</offer>
+<offer id="hc-HECHT695" available="true">
+<price>5349</price>
+</offer>
+<offer id="hc-HECHT9275PROFI" available="true">
+<price>11769</price>
+</offer>
+<offer id="hc-HECHT1384" available="true">
+<price>12839</price>
+</offer>
+<offer id="hc-HECHT14202IN1" available="true">
+<price>5569</price>
+</offer>
+<offer id="hc-HECHT16832IN1" available="true">
+<price>6749</price>
+</offer>
+<offer id="hc-HECHT18482IN1" available="true">
+<price>7489</price>
+</offer>
+<offer id="hc-HECHT19482IN1" available="true">
+<price>8349</price>
+</offer>
+<offer id="hc-HECHT19992in1" available="true">
+<price>10169</price>
+</offer>
+<offer id="hc-HECHT5645" available="true">
+<price>19259</price>
+</offer>
+<offer id="hc-HECHT5676" available="true">
+<price>27819</price>
+</offer>
+<offer id="hc-HECHT445" available="true">
+<price>6419</price>
+</offer>
+<offer id="hc-HECHT8065" available="true">
+<price>6419</price>
+</offer>
+<offer id="hc-HECHT8101" available="true">
+<price>58849</price>
+</offer>
+<offer id="hc-HECHT8101BS" available="true">
+<price>71689</price>
+</offer>
+<offer id="hc-HECHT8101S" available="true">
+<price>64199</price>
+</offer>
+<offer id="hc-HECHT8105" available="true">
+<price>10699</price>
+</offer>
+<offer id="hc-HECHT8615" available="true">
+<price>39589</price>
+</offer>
+<offer id="hc-HECHT8616SE" available="true">
+<price>50289</price>
+</offer>
+<offer id="hc-HECHT8680SE" available="true">
+<price>56709</price>
+</offer>
+<offer id="hc-HECHT8680SESET" available="true">
+<price>87739</price>
+</offer>
+<offer id="hc-HECHT8680SESET2" available="true">
+<price>75969</price>
+</offer>
+<offer id="hc-hecht8101bsset" available="true">
+<price>89879</price>
+</offer>
+<offer id="hc-hecht8101set" available="true">
+<price>82389</price>
+</offer>
+<offer id="hc-hecht8101set1" available="true">
+<price>77039</price>
+</offer>
+<offer id="hc-hecht8616SEset" available="true">
+<price>78109</price>
+</offer>
+<offer id="hc-hecht8616seset1" available="true">
+<price>64199</price>
+</offer>
+<offer id="hc-hecht8616seset2" available="true">
+<price>68479</price>
+</offer>
+<offer id="hc-hecht8616seset3" available="true">
+<price>71689</price>
+</offer>
+<offer id="hc-HECHTGG10000" available="true">
+<price>64199</price>
+</offer>
+<offer id="hc-HECHTGG11000" available="true">
+<price>74899</price>
+</offer>
+<offer id="hc-HECHTGG6500" available="true">
+<price>38519</price>
+</offer>
+<offer id="hc-HECHTGG8000" available="true">
+<price>57779</price>
+</offer>
+<offer id="hc-HECHTGG950" available="true">
+<price>5569</price>
+</offer>
+<offer id="hc-HECHTIG1101" available="true">
+<price>13909</price>
+</offer>
+<offer id="hc-HECHTIG2201" available="true">
+<price>23539</price>
+</offer>
+<offer id="hc-HECHTIG3601" available="true">
+<price>21399</price>
+</offer>
+<offer id="hc-HECHTIG4500" available="true">
+<price>53499</price>
+</offer>
+<offer id="hc-HECHTSuperSilentDualPower" available="true">
+<price>310299</price>
 </offer>
 <offer id="PLX-310" available="true">
 <price>10</price>
