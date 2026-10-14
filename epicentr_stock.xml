@@ -172,9 +172,6 @@
 <offer id="PLX-101518" available="true">
 <price>339</price>
 </offer>
-<offer id="PLX-101519" available="false">
-<price>259</price>
-</offer>
 <offer id="PLX-101678" available="true">
 <price>189</price>
 </offer>
@@ -246,9 +243,6 @@
 </offer>
 <offer id="PLX-FRS-0472" available="true">
 <price>259</price>
-</offer>
-<offer id="PLX-HRS-0413" available="false">
-<price>389</price>
 </offer>
 <offer id="PLX-LN-0586" available="true">
 <price>359</price>
@@ -775,9 +769,6 @@
 <offer id="PLX-90016296" available="true">
 <price>599</price>
 </offer>
-<offer id="PLX-90016226" available="false">
-<price>379</price>
-</offer>
 <offer id="PLX-90016294" available="true">
 <price>579</price>
 </offer>
@@ -814,9 +805,6 @@
 <offer id="PLX-90016562" available="true">
 <price>229</price>
 </offer>
-<offer id="PLX-90016561" available="false">
-<price>229</price>
-</offer>
 <offer id="PLX-27963" available="true">
 <price>989</price>
 </offer>
@@ -825,9 +813,6 @@
 </offer>
 <offer id="PLX-27965" available="true">
 <price>929</price>
-</offer>
-<offer id="PLX-27966" available="false">
-<price>1059</price>
 </offer>
 <offer id="PLX-27967" available="true">
 <price>1059</price>
@@ -2017,9 +2002,6 @@
 <offer id="PLX-12-435" available="true">
 <price>139</price>
 </offer>
-<offer id="PLX-12-433" available="false">
-<price>139</price>
-</offer>
 <offer id="PLX-12-428" available="true">
 <price>339</price>
 </offer>
@@ -2046,9 +2028,6 @@
 </offer>
 <offer id="PLX-09-358" available="true">
 <price>89</price>
-</offer>
-<offer id="PLX-09-359" available="false">
-<price>109</price>
 </offer>
 <offer id="PLX-11-202" available="true">
 <price>35</price>
@@ -2203,9 +2182,6 @@
 <offer id="PLX-01-22-008" available="true">
 <price>25</price>
 </offer>
-<offer id="PLX-01-22-019" available="false">
-<price>59</price>
-</offer>
 <offer id="PLX-01-22-009" available="true">
 <price>25</price>
 </offer>
@@ -2345,9 +2321,6 @@
 <price>449</price>
 </offer>
 <offer id="PLX-K84072" available="true">
-<price>449</price>
-</offer>
-<offer id="PLX-K84073" available="false">
 <price>449</price>
 </offer>
 <offer id="PLX-K078158" available="true">
@@ -3148,9 +3121,6 @@
 <offer id="PLX-11-294" available="true">
 <price>269</price>
 </offer>
-<offer id="PLX-11-575" available="false">
-<price>439</price>
-</offer>
 <offer id="PLX-11-576" available="true">
 <price>449</price>
 </offer>
@@ -3201,9 +3171,6 @@
 </offer>
 <offer id="PLX-R-0501" available="true">
 <price>269</price>
-</offer>
-<offer id="PLX-0252PL" available="false">
-<price>319</price>
 </offer>
 <offer id="PLX-0498PL" available="true">
 <price>399</price>
@@ -3262,9 +3229,6 @@
 <offer id="PLX-90026755" available="true">
 <price>539</price>
 </offer>
-<offer id="PLX-90026752" available="false">
-<price>559</price>
-</offer>
 <offer id="PLX-90026753" available="true">
 <price>559</price>
 </offer>
@@ -3318,9 +3282,6 @@
 </offer>
 <offer id="PLX-90026705" available="true">
 <price>599</price>
-</offer>
-<offer id="PLX-90026750" available="false">
-<price>729</price>
 </offer>
 <offer id="PLX-90026709" available="true">
 <price>599</price>
@@ -3817,9 +3778,6 @@
 <offer id="PLX-16-02-004" available="true">
 <price>259</price>
 </offer>
-<offer id="PLX-16-29-001" available="false">
-<price>129</price>
-</offer>
 <offer id="PLX-16-17-001" available="true">
 <price>369</price>
 </offer>
@@ -3858,9 +3816,6 @@
 </offer>
 <offer id="PLX-16-01-003" available="true">
 <price>249</price>
-</offer>
-<offer id="PLX-12-398" available="false">
-<price>449</price>
 </offer>
 <offer id="PLX-128855" available="true">
 <price>89</price>
@@ -3934,9 +3889,6 @@
 <offer id="PLX-148920" available="true">
 <price>109</price>
 </offer>
-<offer id="PLX-148925" available="false">
-<price>109</price>
-</offer>
 <offer id="PLX-18481" available="true">
 <price>89</price>
 </offer>
@@ -3954,9 +3906,6 @@
 </offer>
 <offer id="PLX-4302-Б" available="true">
 <price>35</price>
-</offer>
-<offer id="PLX-4303-Б" available="false">
-<price>45</price>
 </offer>
 <offer id="PLX-СК-01-01" available="true">
 <price>89</price>
@@ -4003,9 +3952,6 @@
 <offer id="PLX-R-0145" available="true">
 <price>35</price>
 </offer>
-<offer id="PLX-R-0146" available="false">
-<price>35</price>
-</offer>
 <offer id="PLX-R-0393" available="true">
 <price>35</price>
 </offer>
@@ -4041,9 +3987,6 @@
 </offer>
 <offer id="PLX-R-0280" available="true">
 <price>99</price>
-</offer>
-<offer id="PLX-10-658" available="false">
-<price>189</price>
 </offer>
 <offer id="PLX-R-0949" available="true">
 <price>179</price>
@@ -4237,9 +4180,6 @@
 <offer id="PLX-СК-03-04" available="true">
 <price>339</price>
 </offer>
-<offer id="PLX-СК-03-21" available="false">
-<price>209</price>
-</offer>
 <offer id="PLX-СК-03-05" available="true">
 <price>209</price>
 </offer>
@@ -4348,12 +4288,6 @@
 <offer id="PLX-СК-04-03" available="true">
 <price>10</price>
 </offer>
-<offer id="PLX-R-0815" available="false">
-<price>179</price>
-</offer>
-<offer id="PLX-R-0808" available="false">
-<price>199</price>
-</offer>
 <offer id="PLX-R-0813" available="true">
 <price>249</price>
 </offer>
@@ -4371,9 +4305,6 @@
 </offer>
 <offer id="PLX-R-0262" available="true">
 <price>139</price>
-</offer>
-<offer id="PLX-R-0911" available="false">
-<price>169</price>
 </offer>
 <offer id="PLX-R-0264" available="true">
 <price>149</price>
@@ -4431,15 +4362,6 @@
 </offer>
 <offer id="PLX-П-32" available="true">
 <price>209</price>
-</offer>
-<offer id="PLX-П-36" available="false">
-<price>319</price>
-</offer>
-<offer id="PLX-П-40" available="false">
-<price>389</price>
-</offer>
-<offer id="PLX-11843" available="false">
-<price>109</price>
 </offer>
 <offer id="PLX-3567" available="true">
 <price>189</price>
@@ -4545,9 +4467,6 @@
 </offer>
 <offer id="PLX-СК-05-33" available="true">
 <price>139</price>
-</offer>
-<offer id="PLX-СК-05-36" available="false">
-<price>109</price>
 </offer>
 <offer id="PLX-СК-05-37" available="true">
 <price>119</price>
@@ -4732,9 +4651,6 @@
 <offer id="PLX-СК-07-45" available="true">
 <price>149</price>
 </offer>
-<offer id="PLX-СК-07-46" available="false">
-<price>79</price>
-</offer>
 <offer id="PLX-СК-07-06" available="true">
 <price>169</price>
 </offer>
@@ -4746,9 +4662,6 @@
 </offer>
 <offer id="PLX-СК-07-10" available="true">
 <price>179</price>
-</offer>
-<offer id="PLX-СК-07-11" available="false">
-<price>259</price>
 </offer>
 <offer id="PLX-СК-07-24" available="true">
 <price>239</price>
@@ -4774,9 +4687,6 @@
 <offer id="PLX-R-0599" available="true">
 <price>169</price>
 </offer>
-<offer id="PLX-R-0597" available="false">
-<price>149</price>
-</offer>
 <offer id="PLX-R-0600" available="true">
 <price>169</price>
 </offer>
@@ -4785,9 +4695,6 @@
 </offer>
 <offer id="PLX-R-0590" available="true">
 <price>189</price>
-</offer>
-<offer id="PLX-R-0591" available="false">
-<price>199</price>
 </offer>
 <offer id="PLX-R-0589" available="true">
 <price>199</price>
@@ -4839,9 +4746,6 @@
 </offer>
 <offer id="PLX-СК-08-04" available="true">
 <price>10</price>
-</offer>
-<offer id="PLX-1733" available="false">
-<price>25</price>
 </offer>
 <offer id="PLX-СК-08-05" available="true">
 <price>25</price>
@@ -5020,12 +4924,6 @@
 <offer id="PLX-B4W, RAL9005" available="true">
 <price>2019</price>
 </offer>
-<offer id="PLX-B5W, RAL9016" available="false">
-<price>2319</price>
-</offer>
-<offer id="PLX-B5W, RAL8019" available="false">
-<price>2319</price>
-</offer>
 <offer id="PLX-B5W, RAL9006" available="true">
 <price>2319</price>
 </offer>
@@ -5185,9 +5083,6 @@
 <offer id="PLX-351022" available="true">
 <price>219</price>
 </offer>
-<offer id="PLX-344022" available="false">
-<price>259</price>
-</offer>
 <offer id="PLX-347347" available="true">
 <price>179</price>
 </offer>
@@ -5284,9 +5179,6 @@
 <offer id="PLX-НФ-00000479" available="true">
 <price>35</price>
 </offer>
-<offer id="PLX-НФ-00003362" available="false">
-<price>45</price>
-</offer>
 <offer id="PLX-НФ-00003476" available="true">
 <price>35</price>
 </offer>
@@ -5314,14 +5206,8 @@
 <offer id="PLX-НФ-00003373" available="true">
 <price>589</price>
 </offer>
-<offer id="PLX-НФ-00000512" available="false">
-<price>369</price>
-</offer>
 <offer id="PLX-НФ-00001617" available="true">
 <price>649</price>
-</offer>
-<offer id="PLX-НФ-00000515" available="false">
-<price>539</price>
 </offer>
 <offer id="PLX-НФ-00000514" available="true">
 <price>589</price>
@@ -5331,9 +5217,6 @@
 </offer>
 <offer id="PLX-НФ-00001790" available="true">
 <price>709</price>
-</offer>
-<offer id="PLX-НФ-00000516" available="false">
-<price>579</price>
 </offer>
 <offer id="PLX-НФ-00001924" available="true">
 <price>839</price>
@@ -5848,9 +5731,6 @@
 <offer id="PLX-105-075" available="true">
 <price>199</price>
 </offer>
-<offer id="PLX-НФ-00001217" available="false">
-<price>109</price>
-</offer>
 <offer id="PLX-НФ-00001654" available="true">
 <price>169</price>
 </offer>
@@ -5887,17 +5767,11 @@
 <offer id="PLX-НФ-00001650" available="true">
 <price>299</price>
 </offer>
-<offer id="PLX-НФ-00001224" available="false">
-<price>249</price>
-</offer>
 <offer id="PLX-105-115" available="true">
 <price>359</price>
 </offer>
 <offer id="PLX-НФ-00001225" available="true">
 <price>409</price>
-</offer>
-<offer id="PLX-105-125" available="false">
-<price>449</price>
 </offer>
 <offer id="PLX-НФ-00001226" available="true">
 <price>419</price>
@@ -5949,9 +5823,6 @@
 </offer>
 <offer id="PLX-НФ-00001293" available="true">
 <price>1369</price>
-</offer>
-<offer id="PLX-НФ-00001294" available="false">
-<price>1549</price>
 </offer>
 <offer id="PLX-HT-80226" available="true">
 <price>209</price>
@@ -6354,9 +6225,6 @@
 </offer>
 <offer id="PLX-HT-37-008" available="true">
 <price>969</price>
-</offer>
-<offer id="PLX-HT-80204" available="false">
-<price>109</price>
 </offer>
 <offer id="PLX-HT-80206" available="true">
 <price>219</price>
@@ -7367,7 +7235,7 @@
 <price>579</price>
 </offer>
 <offer id="PLX-2638" available="true">
-<price>679</price>
+<price>809</price>
 </offer>
 <offer id="PLX-2639" available="true">
 <price>879</price>
@@ -7585,23 +7453,14 @@
 <offer id="PLX-3111" available="true">
 <price>239</price>
 </offer>
-<offer id="PLX-2016" available="false">
-<price>669</price>
-</offer>
 <offer id="PLX-1810" available="true">
 <price>799</price>
 </offer>
 <offer id="PLX-2017" available="true">
 <price>909</price>
 </offer>
-<offer id="PLX-1619" available="false">
-<price>579</price>
-</offer>
 <offer id="PLX-1925" available="true">
 <price>789</price>
-</offer>
-<offer id="PLX-2069" available="false">
-<price>779</price>
 </offer>
 <offer id="PLX-1923" available="true">
 <price>599</price>
@@ -7634,9 +7493,6 @@
 <price>59</price>
 </offer>
 <offer id="PLX-54-015" available="true">
-<price>59</price>
-</offer>
-<offer id="PLX-54-016" available="false">
 <price>59</price>
 </offer>
 <offer id="PLX-54-017" available="true">
@@ -8353,9 +8209,6 @@
 <offer id="PLX-38-054" available="true">
 <price>709</price>
 </offer>
-<offer id="PLX-38-050" available="false">
-<price>469</price>
-</offer>
 <offer id="PLX-38-051" available="true">
 <price>429</price>
 </offer>
@@ -8766,9 +8619,6 @@
 </offer>
 <offer id="PLX-25-080" available="true">
 <price>299</price>
-</offer>
-<offer id="PLX-25-005" available="false">
-<price>239</price>
 </offer>
 <offer id="PLX-25-017" available="true">
 <price>339</price>
@@ -9853,9 +9703,6 @@
 <offer id="PLX-100-455" available="true">
 <price>169</price>
 </offer>
-<offer id="PLX-100-473" available="false">
-<price>219</price>
-</offer>
 <offer id="PLX-100-472" available="true">
 <price>189</price>
 </offer>
@@ -9906,9 +9753,6 @@
 </offer>
 <offer id="PLX-НФ-00000547" available="true">
 <price>269</price>
-</offer>
-<offer id="PLX-НФ-00000548" available="false">
-<price>329</price>
 </offer>
 <offer id="PLX-НФ-00000549" available="true">
 <price>499</price>
@@ -10204,9 +10048,6 @@
 <offer id="PLX-НФ-00002080" available="true">
 <price>1359</price>
 </offer>
-<offer id="PLX-НФ-00002077" available="false">
-<price>539</price>
-</offer>
 <offer id="PLX-НФ-00002078" available="true">
 <price>799</price>
 </offer>
@@ -10281,9 +10122,6 @@
 </offer>
 <offer id="PLX-НФ-00000444" available="true">
 <price>79</price>
-</offer>
-<offer id="PLX-НФ-00001511" available="false">
-<price>69</price>
 </offer>
 <offer id="PLX-НФ-00001513" available="true">
 <price>69</price>
@@ -10366,18 +10204,6 @@
 <offer id="PLX-НФ-00001434" available="true">
 <price>2619</price>
 </offer>
-<offer id="PLX-НФ-00002647" available="false">
-<price>189</price>
-</offer>
-<offer id="PLX-НФ-00002648" available="false">
-<price>209</price>
-</offer>
-<offer id="PLX-НФ-00002649" available="false">
-<price>239</price>
-</offer>
-<offer id="PLX-НФ-00002650" available="false">
-<price>269</price>
-</offer>
 <offer id="PLX-НФ-00002651" available="true">
 <price>329</price>
 </offer>
@@ -10393,18 +10219,6 @@
 <offer id="PLX-НФ-00002657" available="true">
 <price>259</price>
 </offer>
-<offer id="PLX-НФ-00002658" available="false">
-<price>259</price>
-</offer>
-<offer id="PLX-НФ-00002659" available="false">
-<price>239</price>
-</offer>
-<offer id="PLX-НФ-00002660" available="false">
-<price>259</price>
-</offer>
-<offer id="PLX-НФ-00002661" available="false">
-<price>299</price>
-</offer>
 <offer id="PLX-НФ-00002662" available="true">
 <price>399</price>
 </offer>
@@ -10413,15 +10227,6 @@
 </offer>
 <offer id="PLX-НФ-00002664" available="true">
 <price>649</price>
-</offer>
-<offer id="PLX-НФ-00002667" available="false">
-<price>279</price>
-</offer>
-<offer id="PLX-НФ-00002668" available="false">
-<price>319</price>
-</offer>
-<offer id="PLX-НФ-00002669" available="false">
-<price>339</price>
 </offer>
 <offer id="PLX-НФ-00002670" available="true">
 <price>519</price>
@@ -10434,9 +10239,6 @@
 </offer>
 <offer id="PLX-НФ-00002673" available="true">
 <price>749</price>
-</offer>
-<offer id="PLX-НФ-00002676" available="false">
-<price>359</price>
 </offer>
 <offer id="PLX-НФ-00002678" available="true">
 <price>579</price>
@@ -10491,9 +10293,6 @@
 </offer>
 <offer id="PLX-НФ-00002702" available="true">
 <price>1239</price>
-</offer>
-<offer id="PLX-НФ-00002703" available="false">
-<price>1199</price>
 </offer>
 <offer id="PLX-НФ-00002706" available="true">
 <price>1049</price>
@@ -10573,9 +10372,6 @@
 <offer id="PLX-НФ-00002639" available="true">
 <price>179</price>
 </offer>
-<offer id="PLX-НФ-00002640" available="false">
-<price>209</price>
-</offer>
 <offer id="PLX-НФ-00002642" available="true">
 <price>249</price>
 </offer>
@@ -10600,23 +10396,8 @@
 <offer id="PLX-НФ-00001494" available="true">
 <price>1729</price>
 </offer>
-<offer id="PLX-НФ-00000583" available="false">
-<price>149</price>
-</offer>
 <offer id="PLX-НФ-00000577" available="true">
 <price>179</price>
-</offer>
-<offer id="PLX-НФ-00000587" available="false">
-<price>199</price>
-</offer>
-<offer id="PLX-НФ-00000593" available="false">
-<price>229</price>
-</offer>
-<offer id="PLX-НФ-00000599" available="false">
-<price>279</price>
-</offer>
-<offer id="PLX-НФ-00001464" available="false">
-<price>259</price>
 </offer>
 <offer id="PLX-НФ-00001475" available="true">
 <price>389</price>
@@ -10630,9 +10411,6 @@
 <offer id="PLX-НФ-00000584" available="true">
 <price>199</price>
 </offer>
-<offer id="PLX-НФ-00000578" available="false">
-<price>179</price>
-</offer>
 <offer id="PLX-НФ-00000588" available="true">
 <price>229</price>
 </offer>
@@ -10642,29 +10420,14 @@
 <offer id="PLX-НФ-00000600" available="true">
 <price>299</price>
 </offer>
-<offer id="PLX-НФ-00001465" available="false">
-<price>259</price>
-</offer>
 <offer id="PLX-НФ-00001476" available="true">
 <price>409</price>
-</offer>
-<offer id="PLX-НФ-00000617" available="false">
-<price>439</price>
 </offer>
 <offer id="PLX-НФ-00001489" available="true">
 <price>859</price>
 </offer>
 <offer id="PLX-НФ-00000629" available="true">
 <price>1189</price>
-</offer>
-<offer id="PLX-НФ-00000579" available="false">
-<price>229</price>
-</offer>
-<offer id="PLX-НФ-00000589" available="false">
-<price>269</price>
-</offer>
-<offer id="PLX-НФ-00000595" available="false">
-<price>259</price>
 </offer>
 <offer id="PLX-НФ-00000601" available="true">
 <price>359</price>
@@ -10684,32 +10447,17 @@
 <offer id="PLX-НФ-00000630" available="true">
 <price>1359</price>
 </offer>
-<offer id="PLX-НФ-00000590" available="false">
-<price>279</price>
-</offer>
-<offer id="PLX-НФ-00000596" available="false">
-<price>289</price>
-</offer>
 <offer id="PLX-НФ-00001466" available="true">
 <price>539</price>
 </offer>
 <offer id="PLX-НФ-00001478" available="true">
 <price>639</price>
 </offer>
-<offer id="PLX-НФ-00000619" available="false">
-<price>689</price>
-</offer>
 <offer id="PLX-НФ-00001491" available="true">
 <price>1119</price>
 </offer>
 <offer id="PLX-НФ-00000631" available="true">
 <price>1599</price>
-</offer>
-<offer id="PLX-НФ-00001455" available="false">
-<price>339</price>
-</offer>
-<offer id="PLX-НФ-00001458" available="false">
-<price>369</price>
 </offer>
 <offer id="PLX-НФ-00000603" available="true">
 <price>589</price>
@@ -10720,17 +10468,11 @@
 <offer id="PLX-НФ-00001492" available="true">
 <price>1269</price>
 </offer>
-<offer id="PLX-НФ-00001456" available="false">
-<price>389</price>
-</offer>
 <offer id="PLX-НФ-00000604" available="true">
 <price>729</price>
 </offer>
 <offer id="PLX-НФ-00001469" available="true">
 <price>749</price>
-</offer>
-<offer id="PLX-НФ-00001457" available="false">
-<price>499</price>
 </offer>
 <offer id="PLX-НФ-00001460" available="true">
 <price>739</price>
@@ -10746,9 +10488,6 @@
 </offer>
 <offer id="PLX-НФ-00001471" available="true">
 <price>889</price>
-</offer>
-<offer id="PLX-НФ-00000613" available="false">
-<price>729</price>
 </offer>
 <offer id="PLX-НФ-00000623" available="true">
 <price>1399</price>
@@ -10821,15 +10560,6 @@
 </offer>
 <offer id="PLX-НФ-00001473" available="true">
 <price>349</price>
-</offer>
-<offer id="PLX-НФ-00000582" available="false">
-<price>109</price>
-</offer>
-<offer id="PLX-НФ-00000576" available="false">
-<price>109</price>
-</offer>
-<offer id="PLX-НФ-00000586" available="false">
-<price>149</price>
 </offer>
 <offer id="PLX-НФ-00000592" available="true">
 <price>189</price>
@@ -10965,9 +10695,6 @@
 </offer>
 <offer id="PLX-НФ-00001607" available="true">
 <price>129</price>
-</offer>
-<offer id="PLX-НФ-00000663" available="false">
-<price>79</price>
 </offer>
 <offer id="PLX-НФ-00001608" available="true">
 <price>129</price>
@@ -11305,9 +11032,6 @@
 <offer id="PLX-НФ-00001037" available="true">
 <price>239</price>
 </offer>
-<offer id="PLX-НФ-00000449" available="false">
-<price>119</price>
-</offer>
 <offer id="PLX-НФ-00000451" available="true">
 <price>119</price>
 </offer>
@@ -11337,9 +11061,6 @@
 </offer>
 <offer id="PLX-НФ-00000560" available="true">
 <price>109</price>
-</offer>
-<offer id="PLX-НФ-00000561" available="false">
-<price>99</price>
 </offer>
 <offer id="PLX-НФ-00000562" available="true">
 <price>99</price>
@@ -11422,17 +11143,11 @@
 <offer id="PLX-НФ-00000684" available="true">
 <price>129</price>
 </offer>
-<offer id="PLX-НФ-00001922" available="false">
-<price>189</price>
-</offer>
 <offer id="PLX-НФ-00001923" available="true">
 <price>269</price>
 </offer>
 <offer id="PLX-НФ-00000675" available="true">
 <price>35</price>
-</offer>
-<offer id="PLX-НФ-00000677" available="false">
-<price>45</price>
 </offer>
 <offer id="PLX-НФ-00000679" available="true">
 <price>59</price>
@@ -11839,9 +11554,6 @@
 <offer id="PLX-НФ-00000852" available="true">
 <price>589</price>
 </offer>
-<offer id="PLX-НФ-00001431" available="false">
-<price>539</price>
-</offer>
 <offer id="PLX-НФ-00002476" available="true">
 <price>649</price>
 </offer>
@@ -11856,12 +11568,6 @@
 </offer>
 <offer id="PLX-НФ-00002479" available="true">
 <price>689</price>
-</offer>
-<offer id="PLX-НФ-00000856" available="false">
-<price>599</price>
-</offer>
-<offer id="PLX-НФ-00002480" available="false">
-<price>639</price>
 </offer>
 <offer id="PLX-НФ-00002481" available="true">
 <price>729</price>
@@ -12061,9 +11767,6 @@
 <offer id="PLX-НФ-00000403" available="true">
 <price>119</price>
 </offer>
-<offer id="PLX-НФ-00000420" available="false">
-<price>189</price>
-</offer>
 <offer id="PLX-НФ-00000417" available="true">
 <price>329</price>
 </offer>
@@ -12180,9 +11883,6 @@
 </offer>
 <offer id="PLX-НФ-00001574" available="true">
 <price>279</price>
-</offer>
-<offer id="PLX-НФ-00000897" available="false">
-<price>269</price>
 </offer>
 <offer id="PLX-НФ-00001935" available="true">
 <price>329</price>
@@ -12478,12 +12178,6 @@
 <offer id="PLX-НФ-00000715" available="true">
 <price>279</price>
 </offer>
-<offer id="PLX-НФ-00000716" available="false">
-<price>249</price>
-</offer>
-<offer id="PLX-НФ-00000994" available="false">
-<price>279</price>
-</offer>
 <offer id="PLX-НФ-00001813" available="true">
 <price>219</price>
 </offer>
@@ -12528,9 +12222,6 @@
 </offer>
 <offer id="PLX-НФ-00001549" available="true">
 <price>1009</price>
-</offer>
-<offer id="PLX-НФ-00001550" available="false">
-<price>989</price>
 </offer>
 <offer id="PLX-НФ-00001551" available="true">
 <price>1069</price>
@@ -12691,9 +12382,6 @@
 <offer id="PLX-НФ-00003168" available="true">
 <price>729</price>
 </offer>
-<offer id="PLX-НФ-00001542" available="false">
-<price>709</price>
-</offer>
 <offer id="PLX-НФ-00002225" available="true">
 <price>749</price>
 </offer>
@@ -12748,9 +12436,6 @@
 <offer id="PLX-НФ-00001803" available="true">
 <price>379</price>
 </offer>
-<offer id="PLX-НФ-00000788" available="false">
-<price>269</price>
-</offer>
 <offer id="PLX-НФ-00000789" available="true">
 <price>269</price>
 </offer>
@@ -12777,9 +12462,6 @@
 </offer>
 <offer id="PLX-НФ-00001667" available="true">
 <price>249</price>
-</offer>
-<offer id="PLX-НФ-00000793" available="false">
-<price>639</price>
 </offer>
 <offer id="PLX-НФ-00000794" available="true">
 <price>249</price>
@@ -12859,20 +12541,11 @@
 <offer id="PLX-НФ-00002979" available="true">
 <price>689</price>
 </offer>
-<offer id="PLX-НФ-00000996" available="false">
-<price>659</price>
-</offer>
 <offer id="PLX-НФ-00002402" available="true">
 <price>729</price>
 </offer>
 <offer id="PLX-НФ-00001134" available="true">
 <price>739</price>
-</offer>
-<offer id="PLX-НФ-00001674" available="false">
-<price>739</price>
-</offer>
-<offer id="PLX-НФ-00001135" available="false">
-<price>749</price>
 </offer>
 <offer id="PLX-НФ-00001817" available="true">
 <price>839</price>
@@ -12993,9 +12666,6 @@
 </offer>
 <offer id="PLX-НФ-00001850" available="true">
 <price>399</price>
-</offer>
-<offer id="PLX-НФ-00001851" available="false">
-<price>469</price>
 </offer>
 <offer id="PLX-НФ-00001852" available="true">
 <price>549</price>
@@ -13147,9 +12817,6 @@
 <offer id="PLX-НФ-00003994" available="true">
 <price>249</price>
 </offer>
-<offer id="PLX-НФ-00003995" available="false">
-<price>259</price>
-</offer>
 <offer id="PLX-НФ-00003865" available="true">
 <price>1609</price>
 </offer>
@@ -13210,9 +12877,6 @@
 <offer id="PLX-НФ-00002264" available="true">
 <price>289</price>
 </offer>
-<offer id="PLX-НФ-00002265" available="false">
-<price>269</price>
-</offer>
 <offer id="PLX-НФ-00002266" available="true">
 <price>289</price>
 </offer>
@@ -13241,12 +12905,6 @@
 <price>259</price>
 </offer>
 <offer id="PLX-НФ-00002242" available="true">
-<price>259</price>
-</offer>
-<offer id="PLX-НФ-00002243" available="false">
-<price>259</price>
-</offer>
-<offer id="PLX-НФ-00002244" available="false">
 <price>259</price>
 </offer>
 <offer id="PLX-НФ-00002245" available="true">
@@ -13308,9 +12966,6 @@
 </offer>
 <offer id="PLX-НФ-00002277" available="true">
 <price>389</price>
-</offer>
-<offer id="PLX-НФ-00002280" available="false">
-<price>349</price>
 </offer>
 <offer id="PLX-101178" available="true">
 <price>269</price>
@@ -13648,9 +13303,6 @@
 <offer id="PLX-Ш-40" available="true">
 <price>45</price>
 </offer>
-<offer id="PLX-Ш-450" available="false">
-<price>179</price>
-</offer>
 <offer id="PLX-Ш-600" available="true">
 <price>249</price>
 </offer>
@@ -13668,9 +13320,6 @@
 </offer>
 <offer id="PLX-300/10" available="true">
 <price>119</price>
-</offer>
-<offer id="PLX-350/10" available="false">
-<price>139</price>
 </offer>
 <offer id="PLX-150/6" available="true">
 <price>69</price>
@@ -13837,9 +13486,6 @@
 <offer id="PLX-HT-31-026" available="true">
 <price>109</price>
 </offer>
-<offer id="PLX-HT-31-027" available="false">
-<price>99</price>
-</offer>
 <offer id="PLX-HT-31-028" available="true">
 <price>109</price>
 </offer>
@@ -13968,9 +13614,6 @@
 </offer>
 <offer id="PLX-11-477" available="true">
 <price>249</price>
-</offer>
-<offer id="PLX-11-480" available="false">
-<price>279</price>
 </offer>
 <offer id="PLX-11-478" available="true">
 <price>209</price>
@@ -14281,9 +13924,6 @@
 <offer id="PLX-4810АТ" available="true">
 <price>109</price>
 </offer>
-<offer id="PLX-4825АТ" available="false">
-<price>199</price>
-</offer>
 <offer id="PLX-4850АТ" available="true">
 <price>319</price>
 </offer>
@@ -14460,9 +14100,6 @@
 </offer>
 <offer id="PLX-135" available="true">
 <price>69</price>
-</offer>
-<offer id="PLX-НФ-00000184" available="false">
-<price>59</price>
 </offer>
 <offer id="PLX-10-06-002" available="true">
 <price>349</price>
@@ -15262,13 +14899,7 @@
 <offer id="PLX-04-06" available="true">
 <price>45</price>
 </offer>
-<offer id="PLX-04-19" available="false">
-<price>109</price>
-</offer>
 <offer id="PLX-19-04-004" available="true">
-<price>89</price>
-</offer>
-<offer id="PLX-19-04-001" available="false">
 <price>89</price>
 </offer>
 <offer id="PLX-4-012" available="true">
@@ -15466,9 +15097,6 @@
 <offer id="PLX-НФ-00003345" available="true">
 <price>189</price>
 </offer>
-<offer id="PLX-НФ-00003348" available="false">
-<price>209</price>
-</offer>
 <offer id="PLX-НФ-00003351" available="true">
 <price>279</price>
 </offer>
@@ -15489,9 +15117,6 @@
 </offer>
 <offer id="PLX-100-100" available="true">
 <price>239</price>
-</offer>
-<offer id="PLX-100-105с" available="false">
-<price>139</price>
 </offer>
 <offer id="PLX-100-125" available="true">
 <price>199</price>
@@ -15616,9 +15241,6 @@
 <offer id="PLX-400-142" available="true">
 <price>79</price>
 </offer>
-<offer id="PLX-400-143" available="false">
-<price>45</price>
-</offer>
 <offer id="PLX-400-144" available="true">
 <price>59</price>
 </offer>
@@ -15669,9 +15291,6 @@
 </offer>
 <offer id="PLX-HT-21-118" available="true">
 <price>259</price>
-</offer>
-<offer id="PLX-HT-46-001" available="false">
-<price>319</price>
 </offer>
 <offer id="PLX-HT-46-002" available="true">
 <price>299</price>
@@ -16567,18 +16186,6 @@
 <offer id="PLX-37-061" available="true">
 <price>69</price>
 </offer>
-<offer id="PLX-37-172" available="false">
-<price>119</price>
-</offer>
-<offer id="PLX-37-173" available="false">
-<price>119</price>
-</offer>
-<offer id="PLX-37-175" available="false">
-<price>139</price>
-</offer>
-<offer id="PLX-37-174" available="false">
-<price>129</price>
-</offer>
 <offer id="PLX-37-062" available="true">
 <price>119</price>
 </offer>
@@ -16725,9 +16332,6 @@
 </offer>
 <offer id="PLX-36-019" available="true">
 <price>449</price>
-</offer>
-<offer id="PLX-36-020" available="false">
-<price>529</price>
 </offer>
 <offer id="PLX-23-005" available="true">
 <price>249</price>
@@ -17584,9 +17188,6 @@
 <offer id="PLX-НФ-00003958" available="true">
 <price>269</price>
 </offer>
-<offer id="PLX-НФ-00003959" available="false">
-<price>259</price>
-</offer>
 <offer id="PLX-НФ-00001060" available="true">
 <price>35</price>
 </offer>
@@ -17644,9 +17245,6 @@
 <offer id="PLX-220-600" available="true">
 <price>869</price>
 </offer>
-<offer id="PLX-228-460" available="false">
-<price>1179</price>
-</offer>
 <offer id="PLX-204-160" available="true">
 <price>119</price>
 </offer>
@@ -17686,26 +17284,17 @@
 <offer id="PLX-НФ-00001096" available="true">
 <price>259</price>
 </offer>
-<offer id="PLX-НФ-00001070" available="false">
-<price>239</price>
-</offer>
 <offer id="PLX-НФ-00000438" available="true">
 <price>299</price>
 </offer>
 <offer id="PLX-НФ-00000463" available="true">
 <price>59</price>
 </offer>
-<offer id="PLX-НФ-00000855" available="false">
-<price>589</price>
-</offer>
 <offer id="PLX-НФ-00000807" available="true">
 <price>329</price>
 </offer>
 <offer id="PLX-НФ-00000818" available="true">
 <price>749</price>
-</offer>
-<offer id="PLX-НФ-00001320" available="false">
-<price>1099</price>
 </offer>
 <offer id="PLX-НФ-00001567" available="true">
 <price>199</price>
@@ -17718,9 +17307,6 @@
 </offer>
 <offer id="PLX-НФ-00000993" available="true">
 <price>359</price>
-</offer>
-<offer id="PLX-НФ-00001536" available="false">
-<price>639</price>
 </offer>
 <offer id="PLX-НФ-00002762" available="true">
 <price>1589</price>
@@ -17736,9 +17322,6 @@
 </offer>
 <offer id="PLX-101452" available="true">
 <price>509</price>
-</offer>
-<offer id="PLX-102039" available="false">
-<price>429</price>
 </offer>
 <offer id="PLX-101188" available="true">
 <price>709</price>
@@ -18514,14 +18097,8 @@
 <offer id="PLX-90026714" available="true">
 <price>599</price>
 </offer>
-<offer id="PLX-3-052-002" available="false">
-<price>69</price>
-</offer>
 <offer id="PLX-1537" available="true">
 <price>419</price>
-</offer>
-<offer id="PLX-SF-202000" available="false">
-<price>1199</price>
 </offer>
 <offer id="PLX-3-070-004" available="true">
 <price>259</price>
@@ -18594,9 +18171,6 @@
 </offer>
 <offer id="PLX-15-48-001" available="true">
 <price>259</price>
-</offer>
-<offer id="PLX-19-04-012" available="false">
-<price>89</price>
 </offer>
 <offer id="PLX-НФ-00000527" available="true">
 <price>229</price>
@@ -18717,9 +18291,6 @@
 </offer>
 <offer id="PLX-А-0260" available="true">
 <price>139</price>
-</offer>
-<offer id="PLX-HK5050TSN" available="false">
-<price>1339</price>
 </offer>
 <offer id="PLX-WS-0368" available="true">
 <price>269</price>
@@ -19317,6 +18888,9 @@
 </offer>
 <offer id="482027310" available="true">
 <price>749</price>
+</offer>
+<offer id="0287" available="true">
+<price>129</price>
 </offer>
 <offer id="0288" available="true">
 <price>419</price>
@@ -23281,6 +22855,12 @@
 <offer id="set-0023" available="true">
 <price>1179</price>
 </offer>
+<offer id="set-0287" available="true">
+<price>239</price>
+</offer>
+<offer id="set-482027319" available="true">
+<price>329</price>
+</offer>
 <offer id="set-0291" available="true">
 <price>39</price>
 </offer>
@@ -24625,6 +24205,9 @@
 <offer id="0669" available="true">
 <price>1709</price>
 </offer>
+<offer id="482027303" available="true">
+<price>59</price>
+</offer>
 <offer id="0672" available="true">
 <price>79</price>
 </offer>
@@ -25618,9 +25201,6 @@
 <offer id="vt-440376" available="true">
 <price>969</price>
 </offer>
-<offer id="vt-80229-2" available="false">
-<price>679</price>
-</offer>
 <offer id="vt-224" available="true">
 <price>279</price>
 </offer>
@@ -25664,10 +25244,7 @@
 <price>129</price>
 </offer>
 <offer id="vt-41300" available="true">
-<price>879</price>
-</offer>
-<offer id="vt-42116" available="false">
-<price>759</price>
+<price>889</price>
 </offer>
 <offer id="vt-42250" available="true">
 <price>499</price>
@@ -25711,17 +25288,11 @@
 <offer id="vt-44188" available="true">
 <price>669</price>
 </offer>
-<offer id="vt-44411" available="false">
-<price>729</price>
-</offer>
 <offer id="vt-44412" available="true">
 <price>679</price>
 </offer>
 <offer id="vt-44419" available="true">
-<price>739</price>
-</offer>
-<offer id="vt-51718" available="false">
-<price>1189</price>
+<price>749</price>
 </offer>
 <offer id="vt-52139" available="true">
 <price>169</price>
@@ -25736,7 +25307,7 @@
 <price>499</price>
 </offer>
 <offer id="vt-52810" available="true">
-<price>649</price>
+<price>659</price>
 </offer>
 <offer id="vt-52987" available="true">
 <price>469</price>
@@ -25817,7 +25388,7 @@
 <price>369</price>
 </offer>
 <offer id="vt-77361" available="true">
-<price>519</price>
+<price>529</price>
 </offer>
 <offer id="vt-77400" available="true">
 <price>129</price>
@@ -25835,16 +25406,13 @@
 <price>289</price>
 </offer>
 <offer id="vt-77501" available="true">
-<price>869</price>
+<price>879</price>
 </offer>
 <offer id="vt-77502" available="true">
 <price>1029</price>
 </offer>
 <offer id="vt-77503" available="true">
-<price>989</price>
-</offer>
-<offer id="vt-77504" available="false">
-<price>1099</price>
+<price>999</price>
 </offer>
 <offer id="vt-78677" available="true">
 <price>149</price>
@@ -25916,22 +25484,10 @@
 <price>599</price>
 </offer>
 <offer id="vt-96887" available="true">
-<price>529</price>
+<price>539</price>
 </offer>
 <offer id="vt-98396" available="true">
 <price>1519</price>
-</offer>
-<offer id="vt-119220" available="false">
-<price>1109</price>
-</offer>
-<offer id="vt-119236" available="false">
-<price>1029</price>
-</offer>
-<offer id="vt-180901" available="false">
-<price>689</price>
-</offer>
-<offer id="vt-181110" available="false">
-<price>1159</price>
 </offer>
 <offer id="vt-200802" available="true">
 <price>749</price>
@@ -25964,7 +25520,7 @@
 <price>1119</price>
 </offer>
 <offer id="vt-440186" available="true">
-<price>639</price>
+<price>649</price>
 </offer>
 <offer id="vt-440236" available="true">
 <price>1049</price>
@@ -25976,7 +25532,7 @@
 <price>1039</price>
 </offer>
 <offer id="vt-440300" available="true">
-<price>999</price>
+<price>1009</price>
 </offer>
 <offer id="vt-440303" available="true">
 <price>479</price>
@@ -26000,13 +25556,10 @@
 <price>1039</price>
 </offer>
 <offer id="vt-500217" available="true">
-<price>289</price>
+<price>299</price>
 </offer>
 <offer id="vt-512739" available="true">
 <price>319</price>
-</offer>
-<offer id="vt-520015" available="false">
-<price>1029</price>
 </offer>
 <offer id="vt-520074" available="true">
 <price>989</price>
@@ -26120,7 +25673,7 @@
 <price>349</price>
 </offer>
 <offer id="vt-23498/013" available="true">
-<price>549</price>
+<price>679</price>
 </offer>
 <offer id="vt-23419/103" available="true">
 <price>259</price>
@@ -26132,7 +25685,7 @@
 <price>1039</price>
 </offer>
 <offer id="vt-55861-2" available="true">
-<price>399</price>
+<price>409</price>
 </offer>
 <offer id="vt-2769/1" available="true">
 <price>339</price>
@@ -26144,7 +25697,7 @@
 <price>249</price>
 </offer>
 <offer id="vt-01-056" available="true">
-<price>869</price>
+<price>879</price>
 </offer>
 <offer id="vt-1247-19" available="true">
 <price>569</price>
@@ -26243,7 +25796,7 @@
 <price>559</price>
 </offer>
 <offer id="vt-ARTEMISS1" available="true">
-<price>269</price>
+<price>279</price>
 </offer>
 <offer id="vt-WTZ-35" available="true">
 <price>209</price>
@@ -26264,10 +25817,10 @@
 <price>7199</price>
 </offer>
 <offer id="vt-B050085" available="true">
-<price>749</price>
+<price>759</price>
 </offer>
 <offer id="vt-WL735-8" available="true">
-<price>529</price>
+<price>539</price>
 </offer>
 <offer id="vt-WL735-6" available="true">
 <price>549</price>
@@ -26300,10 +25853,10 @@
 <price>179</price>
 </offer>
 <offer id="vt-P3404" available="true">
-<price>729</price>
+<price>969</price>
 </offer>
 <offer id="vt-P3380" available="true">
-<price>929</price>
+<price>1129</price>
 </offer>
 <offer id="vt-85-350 Green" available="true">
 <price>629</price>
@@ -26315,7 +25868,7 @@
 <price>629</price>
 </offer>
 <offer id="vt-AU-602-1" available="true">
-<price>979</price>
+<price>989</price>
 </offer>
 <offer id="vt-20022/1  LKD-0030GLD" available="true">
 <price>1439</price>
@@ -26351,7 +25904,7 @@
 <price>1019</price>
 </offer>
 <offer id="vt-L10" available="true">
-<price>649</price>
+<price>659</price>
 </offer>
 <offer id="vt-LV-MIS 535M" available="true">
 <price>279</price>
@@ -26363,7 +25916,7 @@
 <price>179</price>
 </offer>
 <offer id="vt-44872-12 ТЕХ" available="true">
-<price>2169</price>
+<price>2179</price>
 </offer>
 <offer id="vt-44688-ТЕХ 6" available="true">
 <price>1039</price>
@@ -26408,7 +25961,7 @@
 <price>99</price>
 </offer>
 <offer id="vt-PJD076" available="true">
-<price>989</price>
+<price>999</price>
 </offer>
 <offer id="vt-LXZB19" available="true">
 <price>469</price>
@@ -26555,7 +26108,7 @@
 <price>469</price>
 </offer>
 <offer id="vt-32246" available="true">
-<price>379</price>
+<price>389</price>
 </offer>
 <offer id="vt-32247" available="true">
 <price>409</price>
@@ -26606,10 +26159,10 @@
 <price>1039</price>
 </offer>
 <offer id="vt-32236-1" available="true">
-<price>729</price>
+<price>739</price>
 </offer>
 <offer id="vt-040-01-104" available="true">
-<price>409</price>
+<price>419</price>
 </offer>
 <offer id="vt-2079-10" available="true">
 <price>229</price>
@@ -26681,7 +26234,7 @@
 <price>639</price>
 </offer>
 <offer id="vt-9099-5" available="true">
-<price>759</price>
+<price>779</price>
 </offer>
 <offer id="vt-9450-2" available="true">
 <price>809</price>
@@ -26698,14 +26251,11 @@
 <offer id="vt-9293-2" available="true">
 <price>989</price>
 </offer>
-<offer id="vt-9292-1" available="false">
-<price>1489</price>
-</offer>
 <offer id="vt-30194" available="true">
 <price>559</price>
 </offer>
 <offer id="vt-8822" available="true">
-<price>409</price>
+<price>419</price>
 </offer>
 <offer id="vt-30135-00" available="true">
 <price>209</price>
@@ -26723,7 +26273,7 @@
 <price>349</price>
 </offer>
 <offer id="vt-6028-21" available="true">
-<price>399</price>
+<price>409</price>
 </offer>
 <offer id="vt-3637-21" available="true">
 <price>409</price>
@@ -26795,16 +26345,13 @@
 <price>589</price>
 </offer>
 <offer id="vt-530156" available="true">
-<price>629</price>
+<price>639</price>
 </offer>
 <offer id="vt-530146" available="true">
 <price>359</price>
 </offer>
 <offer id="vt-53523" available="true">
 <price>409</price>
-</offer>
-<offer id="vt-530240" available="false">
-<price>839</price>
 </offer>
 <offer id="vt-530022" available="true">
 <price>329</price>
@@ -26873,10 +26420,10 @@
 <price>239</price>
 </offer>
 <offer id="vt-DEF226F" available="true">
-<price>739</price>
+<price>749</price>
 </offer>
 <offer id="vt-DEF247F" available="true">
-<price>749</price>
+<price>759</price>
 </offer>
 <offer id="vt-JM 1004DB" available="true">
 <price>559</price>
@@ -26895,9 +26442,6 @@
 </offer>
 <offer id="vt-B010848" available="true">
 <price>649</price>
-</offer>
-<offer id="vt-54903" available="false">
-<price>509</price>
 </offer>
 <offer id="vt-10351" available="true">
 <price>279</price>
@@ -26924,10 +26468,10 @@
 <price>399</price>
 </offer>
 <offer id="vt-6292" available="true">
-<price>279</price>
+<price>289</price>
 </offer>
 <offer id="vt-96889" available="true">
-<price>519</price>
+<price>529</price>
 </offer>
 <offer id="vt-96814" available="true">
 <price>349</price>
@@ -26966,7 +26510,7 @@
 <price>269</price>
 </offer>
 <offer id="vt-CT3C-DK3" available="true">
-<price>389</price>
+<price>399</price>
 </offer>
 <offer id="vt-CT115-DF6" available="true">
 <price>559</price>
@@ -27011,10 +26555,10 @@
 <price>379</price>
 </offer>
 <offer id="vt-CT51-ТS6" available="true">
-<price>289</price>
+<price>299</price>
 </offer>
 <offer id="vt-CT51-DK6" available="true">
-<price>399</price>
+<price>409</price>
 </offer>
 <offer id="vt-CT839-DF3" available="true">
 <price>529</price>
@@ -27089,7 +26633,7 @@
 <price>1089</price>
 </offer>
 <offer id="vt-77404" available="true">
-<price>279</price>
+<price>289</price>
 </offer>
 <offer id="vt-162241-012" available="true">
 <price>489</price>
@@ -27194,13 +26738,13 @@
 <price>569</price>
 </offer>
 <offer id="vt-PJ03396" available="true">
-<price>279</price>
+<price>289</price>
 </offer>
 <offer id="vt-PJ03346-1" available="true">
-<price>279</price>
+<price>289</price>
 </offer>
 <offer id="vt-PJ02889-1" available="true">
-<price>279</price>
+<price>289</price>
 </offer>
 <offer id="vt-TU1039-1" available="true">
 <price>409</price>
@@ -27347,7 +26891,7 @@
 <price>1169</price>
 </offer>
 <offer id="vt-7-546" available="true">
-<price>759</price>
+<price>779</price>
 </offer>
 <offer id="vt-EM-1345" available="true">
 <price>589</price>
@@ -27374,7 +26918,7 @@
 <price>329</price>
 </offer>
 <offer id="vt-EM-3310" available="true">
-<price>279</price>
+<price>289</price>
 </offer>
 <offer id="vt-EM-9672" available="true">
 <price>349</price>
@@ -27383,7 +26927,7 @@
 <price>629</price>
 </offer>
 <offer id="vt-ФПЛА-1" available="true">
-<price>599</price>
+<price>609</price>
 </offer>
 <offer id="vt-EM-9850" available="true">
 <price>369</price>
@@ -27416,7 +26960,7 @@
 <price>449</price>
 </offer>
 <offer id="vt-ДК-ЛОЗА" available="true">
-<price>279</price>
+<price>289</price>
 </offer>
 <offer id="vt-BG-4991-GR" available="true">
 <price>849</price>
@@ -27440,7 +26984,7 @@
 <price>509</price>
 </offer>
 <offer id="vt-КА-3,5" available="true">
-<price>649</price>
+<price>659</price>
 </offer>
 <offer id="vt-21266" available="true">
 <price>819</price>
@@ -27479,7 +27023,7 @@
 <price>239</price>
 </offer>
 <offer id="vt-3411" available="true">
-<price>649</price>
+<price>659</price>
 </offer>
 <offer id="vt-TU0472" available="true">
 <price>239</price>
@@ -27566,7 +27110,7 @@
 <price>579</price>
 </offer>
 <offer id="vt-HT12-P350" available="true">
-<price>289</price>
+<price>299</price>
 </offer>
 <offer id="vt-HT12-P600" available="true">
 <price>379</price>
@@ -27585,9 +27129,6 @@
 </offer>
 <offer id="vt-1002" available="true">
 <price>359</price>
-</offer>
-<offer id="vt-5-79" available="false">
-<price>749</price>
 </offer>
 <offer id="vt-TO-22-N" available="true">
 <price>409</price>
@@ -27648,9 +27189,6 @@
 </offer>
 <offer id="vt-TU1045-2" available="true">
 <price>589</price>
-</offer>
-<offer id="vt-TU1045-1" available="false">
-<price>529</price>
 </offer>
 <offer id="vt-TU1977-1" available="true">
 <price>529</price>
@@ -27754,9 +27292,6 @@
 <offer id="vt-00-2191" available="true">
 <price>749</price>
 </offer>
-<offer id="vt-00-1262" available="false">
-<price>599</price>
-</offer>
 <offer id="vt-00-1268" available="true">
 <price>339</price>
 </offer>
@@ -27800,13 +27335,10 @@
 <price>199</price>
 </offer>
 <offer id="vt-00-1554" available="true">
-<price>1099</price>
+<price>1109</price>
 </offer>
 <offer id="vt-00-1585" available="true">
 <price>239</price>
-</offer>
-<offer id="vt-ДК-А5" available="false">
-<price>799</price>
 </offer>
 <offer id="vt-ДК-МК-25" available="true">
 <price>749</price>
@@ -27860,10 +27392,7 @@
 <price>209</price>
 </offer>
 <offer id="vt-EM-7088" available="true">
-<price>379</price>
-</offer>
-<offer id="vt-B006-10" available="false">
-<price>569</price>
+<price>389</price>
 </offer>
 <offer id="vt-B006-12" available="true">
 <price>629</price>
@@ -27881,7 +27410,7 @@
 <price>339</price>
 </offer>
 <offer id="vt-ДК-750 Преміум" available="true">
-<price>279</price>
+<price>289</price>
 </offer>
 <offer id="vt-DF008-4" available="true">
 <price>239</price>
@@ -28396,9 +27925,6 @@
 <offer id="vt-5015" available="true">
 <price>319</price>
 </offer>
-<offer id="vt-5024" available="false">
-<price>339</price>
-</offer>
 <offer id="vt-5027" available="true">
 <price>329</price>
 </offer>
@@ -28442,9 +27968,6 @@
 <price>219</price>
 </offer>
 <offer id="vt-1531" available="true">
-<price>219</price>
-</offer>
-<offer id="vt-1529" available="false">
 <price>219</price>
 </offer>
 <offer id="vt-1140" available="true">
@@ -28651,12 +28174,6 @@
 <offer id="vt-4252" available="true">
 <price>279</price>
 </offer>
-<offer id="vt-122" available="false">
-<price>199</price>
-</offer>
-<offer id="vt-123" available="false">
-<price>199</price>
-</offer>
 <offer id="vt-4271" available="true">
 <price>279</price>
 </offer>
@@ -28672,14 +28189,8 @@
 <offer id="vt-4233" available="true">
 <price>289</price>
 </offer>
-<offer id="vt-13" available="false">
-<price>199</price>
-</offer>
 <offer id="vt-4206" available="true">
 <price>279</price>
-</offer>
-<offer id="vt-131" available="false">
-<price>199</price>
 </offer>
 <offer id="vt-4230" available="true">
 <price>319</price>
@@ -28735,20 +28246,11 @@
 <offer id="vt-4258" available="true">
 <price>279</price>
 </offer>
-<offer id="vt-120" available="false">
-<price>199</price>
-</offer>
-<offer id="vt-119" available="false">
-<price>199</price>
-</offer>
 <offer id="vt-4259" available="true">
 <price>289</price>
 </offer>
 <offer id="vt-4303" available="true">
 <price>259</price>
-</offer>
-<offer id="vt-112" available="false">
-<price>199</price>
 </offer>
 <offer id="vt-4247" available="true">
 <price>289</price>
@@ -28761,9 +28263,6 @@
 </offer>
 <offer id="vt-4511" available="true">
 <price>279</price>
-</offer>
-<offer id="vt-121" available="false">
-<price>199</price>
 </offer>
 <offer id="vt-4314" available="true">
 <price>209</price>
@@ -28790,13 +28289,13 @@
 <price>439</price>
 </offer>
 <offer id="vt-7202" available="true">
-<price>489</price>
+<price>499</price>
 </offer>
 <offer id="vt-7103" available="true">
 <price>439</price>
 </offer>
 <offer id="vt-7203" available="true">
-<price>489</price>
+<price>499</price>
 </offer>
 <offer id="vt-7204" available="true">
 <price>609</price>
@@ -28823,7 +28322,7 @@
 <price>569</price>
 </offer>
 <offer id="vt-AR0934" available="true">
-<price>349</price>
+<price>439</price>
 </offer>
 <offer id="vt-AR0933" available="true">
 <price>679</price>
@@ -28889,7 +28388,7 @@
 <price>209</price>
 </offer>
 <offer id="vt-ARHK4203B" available="true">
-<price>149</price>
+<price>169</price>
 </offer>
 <offer id="vt-ARHK4201B" available="true">
 <price>209</price>
@@ -28913,7 +28412,7 @@
 <price>319</price>
 </offer>
 <offer id="vt-AR44503G" available="true">
-<price>279</price>
+<price>289</price>
 </offer>
 <offer id="vt-AR1303BP" available="true">
 <price>149</price>
@@ -28940,7 +28439,7 @@
 <price>359</price>
 </offer>
 <offer id="vt-AR4451G" available="true">
-<price>279</price>
+<price>289</price>
 </offer>
 <offer id="vt-AR2138PG" available="true">
 <price>319</price>
@@ -28955,7 +28454,7 @@
 <price>329</price>
 </offer>
 <offer id="vt-AR4409G" available="true">
-<price>279</price>
+<price>289</price>
 </offer>
 <offer id="vt-AR2122PG" available="true">
 <price>289</price>
@@ -29012,7 +28511,7 @@
 <price>439</price>
 </offer>
 <offer id="vt-ARHK4102DR" available="true">
-<price>559</price>
+<price>719</price>
 </offer>
 <offer id="vt-ARHK4101SG" available="true">
 <price>629</price>
@@ -29039,7 +28538,7 @@
 <price>1019</price>
 </offer>
 <offer id="vt-AR4322GB" available="true">
-<price>1159</price>
+<price>1329</price>
 </offer>
 <offer id="vt-AR4350GB" available="true">
 <price>1709</price>
@@ -29051,7 +28550,7 @@
 <price>1309</price>
 </offer>
 <offer id="vt-AR4318GB" available="true">
-<price>989</price>
+<price>999</price>
 </offer>
 <offer id="vt-AR1912CGS" available="true">
 <price>5989</price>
@@ -29075,7 +28574,7 @@
 <price>1319</price>
 </offer>
 <offer id="vt-AR1928GMP" available="true">
-<price>1439</price>
+<price>1449</price>
 </offer>
 <offer id="vt-AR1926BMR" available="true">
 <price>1749</price>
@@ -29108,7 +28607,7 @@
 <price>2529</price>
 </offer>
 <offer id="vt-AR1928BML" available="true">
-<price>2639</price>
+<price>2649</price>
 </offer>
 <offer id="vt-AR1224A PREMIUM" available="true">
 <price>1899</price>
@@ -29132,7 +28631,7 @@
 <price>1929</price>
 </offer>
 <offer id="vt-AR0726BS" available="true">
-<price>2139</price>
+<price>2159</price>
 </offer>
 <offer id="vt-AR0728BS" available="true">
 <price>2339</price>
@@ -29255,7 +28754,7 @@
 <price>199</price>
 </offer>
 <offer id="vt-AR3099G" available="true">
-<price>269</price>
+<price>279</price>
 </offer>
 <offer id="vt-AR3486BL" available="true">
 <price>249</price>
@@ -29288,13 +28787,13 @@
 <price>909</price>
 </offer>
 <offer id="vt-AR2625GA" available="true">
-<price>649</price>
+<price>659</price>
 </offer>
 <offer id="vt-AR2630AR" available="true">
 <price>929</price>
 </offer>
 <offer id="vt-AR2630ARB" available="true">
-<price>649</price>
+<price>659</price>
 </offer>
 <offer id="vt-AR2630AB" available="true">
 <price>1239</price>
@@ -29360,7 +28859,7 @@
 <price>789</price>
 </offer>
 <offer id="vt-AR2635BWH" available="true">
-<price>609</price>
+<price>629</price>
 </offer>
 <offer id="vt-AR2643BH" available="true">
 <price>669</price>
@@ -29402,7 +28901,7 @@
 <price>1029</price>
 </offer>
 <offer id="vt-AR2645CML" available="true">
-<price>689</price>
+<price>889</price>
 </offer>
 <offer id="vt-AR2255BB" available="true">
 <price>349</price>
@@ -29411,7 +28910,7 @@
 <price>579</price>
 </offer>
 <offer id="vt-AR2255RO" available="true">
-<price>759</price>
+<price>779</price>
 </offer>
 <offer id="vt-AR2250PL" available="true">
 <price>469</price>
@@ -29426,7 +28925,7 @@
 <price>1279</price>
 </offer>
 <offer id="vt-AR1910FP" available="true">
-<price>979</price>
+<price>989</price>
 </offer>
 <offer id="vt-AR1935AFP" available="true">
 <price>599</price>
@@ -29486,7 +28985,7 @@
 <price>749</price>
 </offer>
 <offer id="vt-AR2648GW" available="true">
-<price>759</price>
+<price>779</price>
 </offer>
 <offer id="vt-AR2630GGR" available="true">
 <price>759</price>
@@ -29615,7 +29114,7 @@
 <price>369</price>
 </offer>
 <offer id="vt-AR3736" available="true">
-<price>399</price>
+<price>409</price>
 </offer>
 <offer id="vt-AR3554" available="true">
 <price>349</price>
@@ -29729,7 +29228,7 @@
 <price>829</price>
 </offer>
 <offer id="vt-AR1719DG" available="true">
-<price>409</price>
+<price>419</price>
 </offer>
 <offer id="vt-AR1728DG" available="true">
 <price>809</price>
@@ -29831,7 +29330,7 @@
 <price>359</price>
 </offer>
 <offer id="vt-AR5052" available="true">
-<price>2269</price>
+<price>2279</price>
 </offer>
 <offer id="vt-AR5058" available="true">
 <price>789</price>
@@ -29870,13 +29369,13 @@
 <price>249</price>
 </offer>
 <offer id="vt-AR2927AW" available="true">
-<price>409</price>
+<price>419</price>
 </offer>
 <offer id="vt-AR2927AC" available="true">
-<price>409</price>
+<price>419</price>
 </offer>
 <offer id="vt-AR2927AG" available="true">
-<price>409</price>
+<price>419</price>
 </offer>
 <offer id="vt-AR2921AC" available="true">
 <price>339</price>
@@ -29918,7 +29417,7 @@
 <price>229</price>
 </offer>
 <offer id="vt-AR2926BGC" available="true">
-<price>269</price>
+<price>279</price>
 </offer>
 <offer id="vt-AR2920BGC" available="true">
 <price>319</price>
@@ -30032,7 +29531,7 @@
 <price>409</price>
 </offer>
 <offer id="vt-AR2919MRBW" available="true">
-<price>229</price>
+<price>339</price>
 </offer>
 <offer id="vt-AR2919MRBS" available="true">
 <price>209</price>
@@ -30200,7 +29699,7 @@
 <price>2499</price>
 </offer>
 <offer id="vt-AR0704AS" available="true">
-<price>429</price>
+<price>539</price>
 </offer>
 <offer id="vt-ARHC2101BB" available="true">
 <price>819</price>
@@ -30221,13 +29720,13 @@
 <price>359</price>
 </offer>
 <offer id="vt-ARHB3154T" available="true">
-<price>279</price>
+<price>289</price>
 </offer>
 <offer id="vt-ARHB3154A" available="true">
 <price>219</price>
 </offer>
 <offer id="vt-ARHB3154B" available="true">
-<price>279</price>
+<price>289</price>
 </offer>
 <offer id="vt-ARHB3177G" available="true">
 <price>389</price>
@@ -30257,13 +29756,13 @@
 <price>749</price>
 </offer>
 <offer id="vt-ARHB3113GW" available="true">
-<price>749</price>
+<price>759</price>
 </offer>
 <offer id="vt-ARHB3106MB" available="true">
-<price>409</price>
+<price>419</price>
 </offer>
 <offer id="vt-ARHB3106TB" available="true">
-<price>409</price>
+<price>419</price>
 </offer>
 <offer id="vt-ARHB3106GB" available="true">
 <price>489</price>
@@ -30281,16 +29780,16 @@
 <price>329</price>
 </offer>
 <offer id="vt-ART2457DB" available="true">
-<price>529</price>
+<price>539</price>
 </offer>
 <offer id="vt-ART0112PB" available="true">
-<price>989</price>
+<price>999</price>
 </offer>
 <offer id="vt-ART0109PB" available="true">
 <price>979</price>
 </offer>
 <offer id="vt-ART0108PB" available="true">
-<price>1119</price>
+<price>1129</price>
 </offer>
 <offer id="vt-ART0106PB" available="true">
 <price>909</price>
@@ -30302,10 +29801,10 @@
 <price>589</price>
 </offer>
 <offer id="vt-ART0718PB" available="true">
-<price>629</price>
+<price>639</price>
 </offer>
 <offer id="vt-ART0717PB" available="true">
-<price>629</price>
+<price>639</price>
 </offer>
 <offer id="vt-ART0726PB" available="true">
 <price>519</price>
@@ -30317,7 +29816,7 @@
 <price>589</price>
 </offer>
 <offer id="vt-ART0724PB" available="true">
-<price>409</price>
+<price>419</price>
 </offer>
 <offer id="vt-ART0714PB" available="true">
 <price>519</price>
@@ -30353,19 +29852,19 @@
 <price>519</price>
 </offer>
 <offer id="vt-ARHC2506B" available="true">
-<price>529</price>
+<price>539</price>
 </offer>
 <offer id="vt-ARHC2506G" available="true">
-<price>529</price>
+<price>539</price>
 </offer>
 <offer id="vt-ARHC2513B" available="true">
 <price>789</price>
 </offer>
 <offer id="vt-ARHC2523B" available="true">
-<price>979</price>
+<price>989</price>
 </offer>
 <offer id="vt-ARHC2523G" available="true">
-<price>979</price>
+<price>989</price>
 </offer>
 <offer id="vt-ARHC2402GG" available="true">
 <price>719</price>
@@ -30389,7 +29888,7 @@
 <price>1039</price>
 </offer>
 <offer id="vt-ART15CK" available="true">
-<price>409</price>
+<price>419</price>
 </offer>
 <offer id="vt-ART07NF" available="true">
 <price>219</price>
@@ -30422,7 +29921,7 @@
 <price>99</price>
 </offer>
 <offer id="vt-LYJ-12" available="true">
-<price>399</price>
+<price>409</price>
 </offer>
 <offer id="vt-RG-5120/2" available="true">
 <price>219</price>
@@ -31901,7 +31400,7 @@
 <price>1119</price>
 </offer>
 <offer id="vt-AR3853" available="true">
-<price>979</price>
+<price>989</price>
 </offer>
 <offer id="vt-AR3836" available="true">
 <price>1059</price>
@@ -31910,19 +31409,19 @@
 <price>1019</price>
 </offer>
 <offer id="vt-AR3835" available="true">
-<price>1429</price>
+<price>1439</price>
 </offer>
 <offer id="vt-AR3855" available="true">
 <price>1329</price>
 </offer>
 <offer id="vt-AR3842" available="true">
-<price>1439</price>
+<price>1449</price>
 </offer>
 <offer id="vt-AR3843" available="true">
-<price>1779</price>
+<price>1789</price>
 </offer>
 <offer id="vt-AR3840" available="true">
-<price>1439</price>
+<price>1449</price>
 </offer>
 <offer id="vt-AR3834" available="true">
 <price>1269</price>
@@ -31931,7 +31430,7 @@
 <price>989</price>
 </offer>
 <offer id="vt-AR3831" available="true">
-<price>1099</price>
+<price>1109</price>
 </offer>
 <offer id="vt-AR1403GR" available="true">
 <price>509</price>
@@ -31949,7 +31448,7 @@
 <price>969</price>
 </offer>
 <offer id="vt-AR1403GB" available="true">
-<price>699</price>
+<price>899</price>
 </offer>
 <offer id="vt-AR3918T" available="true">
 <price>229</price>
@@ -31973,7 +31472,7 @@
 <price>369</price>
 </offer>
 <offer id="vt-AR1370BBS" available="true">
-<price>279</price>
+<price>289</price>
 </offer>
 <offer id="vt-AR1310BLR" available="true">
 <price>409</price>
@@ -31985,7 +31484,7 @@
 <price>489</price>
 </offer>
 <offer id="vt-AR1338SF" available="true">
-<price>279</price>
+<price>289</price>
 </offer>
 <offer id="vt-AR2101SS" available="true">
 <price>399</price>
@@ -32012,7 +31511,7 @@
 <price>349</price>
 </offer>
 <offer id="vt-AR0913SS" available="true">
-<price>339</price>
+<price>429</price>
 </offer>
 <offer id="vt-AR0913WB" available="true">
 <price>409</price>
@@ -32057,7 +31556,7 @@
 <price>2699</price>
 </offer>
 <offer id="vt-AR2114SW" available="true">
-<price>1919</price>
+<price>2369</price>
 </offer>
 <offer id="vt-AR2106GR" available="true">
 <price>1509</price>
@@ -32072,7 +31571,7 @@
 <price>409</price>
 </offer>
 <offer id="vt-ARHB3101GS" available="true">
-<price>399</price>
+<price>409</price>
 </offer>
 <offer id="vt-ARHK4103GS" available="true">
 <price>479</price>
@@ -32093,16 +31592,16 @@
 <price>2329</price>
 </offer>
 <offer id="vt-AR0706S" available="true">
-<price>989</price>
+<price>999</price>
 </offer>
 <offer id="vt-AR1908CS" available="true">
-<price>869</price>
+<price>879</price>
 </offer>
 <offer id="vt-AR1912CS" available="true">
 <price>1019</price>
 </offer>
 <offer id="vt-AR0612S" available="true">
-<price>1099</price>
+<price>1109</price>
 </offer>
 <offer id="vt-AR2424GE" available="true">
 <price>1879</price>
@@ -32138,13 +31637,13 @@
 <price>1869</price>
 </offer>
 <offer id="vt-AR1955CA" available="true">
-<price>1669</price>
+<price>1679</price>
 </offer>
 <offer id="vt-AR1965CS" available="true">
-<price>2059</price>
+<price>2069</price>
 </offer>
 <offer id="vt-AR1965CA" available="true">
-<price>1809</price>
+<price>1819</price>
 </offer>
 <offer id="vt-AR0718S" available="true">
 <price>1459</price>
@@ -32228,7 +31727,7 @@
 <price>379</price>
 </offer>
 <offer id="vt-AR3010GHM" available="true">
-<price>739</price>
+<price>749</price>
 </offer>
 <offer id="vt-AR1955BGM" available="true">
 <price>669</price>
@@ -32237,7 +31736,7 @@
 <price>679</price>
 </offer>
 <offer id="vt-AR3010BBG" available="true">
-<price>859</price>
+<price>869</price>
 </offer>
 <offer id="vt-AR3010BGA" available="true">
 <price>679</price>
@@ -32282,7 +31781,7 @@
 <price>579</price>
 </offer>
 <offer id="vt-AR2645BWH" available="true">
-<price>529</price>
+<price>699</price>
 </offer>
 <offer id="vt-AR2627BH" available="true">
 <price>549</price>
@@ -32294,10 +31793,10 @@
 <price>929</price>
 </offer>
 <offer id="vt-AR8103W" available="true">
-<price>759</price>
+<price>779</price>
 </offer>
 <offer id="vt-AR8104W" available="true">
-<price>879</price>
+<price>889</price>
 </offer>
 <offer id="vt-AR0835S" available="true">
 <price>639</price>
@@ -32312,31 +31811,31 @@
 <price>819</price>
 </offer>
 <offer id="vt-AR0747KS" available="true">
-<price>2059</price>
+<price>2069</price>
 </offer>
 <offer id="vt-AR1947KS" available="true">
 <price>1589</price>
 </offer>
 <offer id="vt-AR2409BGB" available="true">
-<price>989</price>
+<price>999</price>
 </offer>
 <offer id="vt-9022AM06" available="true">
 <price>439</price>
 </offer>
 <offer id="vt-AR1212BSQ" available="true">
-<price>509</price>
+<price>519</price>
 </offer>
 <offer id="vt-AR1212BRD" available="true">
 <price>349</price>
 </offer>
 <offer id="vt-AR1215RCB" available="true">
-<price>529</price>
+<price>539</price>
 </offer>
 <offer id="vt-AR1222RCB" available="true">
 <price>709</price>
 </offer>
 <offer id="vt-AR2328TPM" available="true">
-<price>349</price>
+<price>439</price>
 </offer>
 <offer id="vt-AR2328LPM" available="true">
 <price>449</price>
@@ -32432,7 +31931,7 @@
 <price>1349</price>
 </offer>
 <offer id="vt-AR0962" available="true">
-<price>649</price>
+<price>659</price>
 </offer>
 <offer id="vt-AR0961" available="true">
 <price>829</price>
@@ -32516,7 +32015,7 @@
 <price>829</price>
 </offer>
 <offer id="vt-AR0958" available="true">
-<price>609</price>
+<price>629</price>
 </offer>
 <offer id="vt-AR0960" available="true">
 <price>829</price>
@@ -32525,16 +32024,16 @@
 <price>579</price>
 </offer>
 <offer id="vt-AR0923B" available="true">
-<price>759</price>
+<price>779</price>
 </offer>
 <offer id="vt-AR2416FW" available="true">
-<price>3449</price>
+<price>3459</price>
 </offer>
 <offer id="vt-AR2414FW" available="true">
 <price>3019</price>
 </offer>
 <offer id="vt-AR2415FW" available="true">
-<price>2629</price>
+<price>3189</price>
 </offer>
 <offer id="vt-AR3328" available="true">
 <price>369</price>
@@ -32555,7 +32054,7 @@
 <price>359</price>
 </offer>
 <offer id="vt-ARHB3187A" available="true">
-<price>289</price>
+<price>299</price>
 </offer>
 <offer id="vt-ARHB3177A" available="true">
 <price>359</price>
@@ -32570,13 +32069,13 @@
 <price>439</price>
 </offer>
 <offer id="vt-ARHB3503BB" available="true">
-<price>339</price>
+<price>429</price>
 </offer>
 <offer id="vt-ARHB3123WB" available="true">
-<price>999</price>
+<price>1009</price>
 </offer>
 <offer id="vt-ARHB3123BB" available="true">
-<price>999</price>
+<price>1009</price>
 </offer>
 <offer id="vt-ARHB3110WB" available="true">
 <price>509</price>
@@ -32627,16 +32126,16 @@
 <price>1349</price>
 </offer>
 <offer id="vt-ARHB3601WB" available="true">
-<price>479</price>
+<price>609</price>
 </offer>
 <offer id="vt-ARHE1311G" available="true">
 <price>389</price>
 </offer>
 <offer id="vt-ARHE1121SB" available="true">
-<price>449</price>
+<price>579</price>
 </offer>
 <offer id="vt-ARHE1131SB" available="true">
-<price>749</price>
+<price>759</price>
 </offer>
 <offer id="vt-ARHE1111SB" available="true">
 <price>549</price>
@@ -32646,12 +32145,6 @@
 </offer>
 <offer id="vt-43417" available="true">
 <price>339</price>
-</offer>
-<offer id="vt-181110-T3" available="false">
-<price>1089</price>
-</offer>
-<offer id="vt-180901-T3" available="false">
-<price>819</price>
 </offer>
 <offer id="vt-200802-T3" available="true">
 <price>749</price>
@@ -32675,13 +32168,13 @@
 <price>329</price>
 </offer>
 <offer id="vt-54209" available="true">
-<price>289</price>
+<price>299</price>
 </offer>
 <offer id="vt-23498/613" available="true">
-<price>629</price>
+<price>639</price>
 </offer>
 <offer id="vt-N2945" available="true">
-<price>399</price>
+<price>409</price>
 </offer>
 <offer id="vt-1828" available="true">
 <price>329</price>
@@ -32693,13 +32186,13 @@
 <price>369</price>
 </offer>
 <offer id="vt-59914" available="true">
-<price>369</price>
+<price>379</price>
 </offer>
 <offer id="vt-59534#" available="true">
 <price>439</price>
 </offer>
 <offer id="vt-59133g" available="true">
-<price>399</price>
+<price>409</price>
 </offer>
 <offer id="vt-59001g" available="true">
 <price>689</price>
@@ -32723,7 +32216,7 @@
 <price>399</price>
 </offer>
 <offer id="vt-440080/2" available="true">
-<price>399</price>
+<price>409</price>
 </offer>
 <offer id="vt-44703" available="true">
 <price>699</price>
@@ -32734,20 +32227,11 @@
 <offer id="vt-44745" available="true">
 <price>849</price>
 </offer>
-<offer id="vt-440041" available="false">
-<price>789</price>
-</offer>
 <offer id="vt-44992" available="true">
 <price>709</price>
 </offer>
 <offer id="vt-440255" available="true">
 <price>899</price>
-</offer>
-<offer id="vt-44417" available="false">
-<price>799</price>
-</offer>
-<offer id="vt-44188-12 ТЕХ" available="false">
-<price>1239</price>
 </offer>
 <offer id="vt-440111-SL" available="true">
 <price>209</price>
@@ -32758,11 +32242,8 @@
 <offer id="vt-96504-МС12/sl" available="true">
 <price>149</price>
 </offer>
-<offer id="vt-42116-SL" available="false">
-<price>759</price>
-</offer>
 <offer id="vt-42199/3" available="true">
-<price>399</price>
+<price>409</price>
 </offer>
 <offer id="vt-55299" available="true">
 <price>509</price>
@@ -32773,29 +32254,26 @@
 <offer id="vt-420867-ТЕХ" available="true">
 <price>129</price>
 </offer>
-<offer id="vt-52279-G4Y" available="false">
-<price>379</price>
-</offer>
 <offer id="vt-52944" available="true">
-<price>279</price>
+<price>289</price>
 </offer>
 <offer id="vt-52046" available="true">
-<price>279</price>
+<price>289</price>
 </offer>
 <offer id="vt-52499" available="true">
-<price>279</price>
+<price>289</price>
 </offer>
 <offer id="vt-52952" available="true">
-<price>279</price>
+<price>289</price>
 </offer>
 <offer id="vt-52449" available="true">
 <price>549</price>
 </offer>
 <offer id="vt-41280" available="true">
-<price>739</price>
+<price>749</price>
 </offer>
 <offer id="vt-41290" available="true">
-<price>879</price>
+<price>889</price>
 </offer>
 <offer id="vt-68474" available="true">
 <price>909</price>
@@ -32809,32 +32287,20 @@
 <offer id="vt-52998" available="true">
 <price>799</price>
 </offer>
-<offer id="vt-520445" available="false">
-<price>719</price>
-</offer>
-<offer id="vt-520125-GOLD" available="false">
-<price>1309</price>
-</offer>
-<offer id="vt-520004-GOLD" available="false">
-<price>1449</price>
-</offer>
 <offer id="vt-68338" available="true">
-<price>879</price>
+<price>889</price>
 </offer>
 <offer id="vt-68504" available="true">
-<price>1069</price>
+<price>1089</price>
 </offer>
 <offer id="vt-68485" available="true">
 <price>1089</price>
 </offer>
 <offer id="vt-42812-G4Y" available="true">
-<price>409</price>
+<price>419</price>
 </offer>
 <offer id="vt-52820" available="true">
 <price>899</price>
-</offer>
-<offer id="vt-52800" available="false">
-<price>1029</price>
 </offer>
 <offer id="vt-52780" available="true">
 <price>569</price>
@@ -32849,7 +32315,7 @@
 <price>149</price>
 </offer>
 <offer id="vt-4662W" available="true">
-<price>639</price>
+<price>649</price>
 </offer>
 <offer id="vt-4618W" available="true">
 <price>379</price>
@@ -32888,7 +32354,7 @@
 <price>519</price>
 </offer>
 <offer id="vt-10553" available="true">
-<price>519</price>
+<price>529</price>
 </offer>
 <offer id="vt-68693" available="true">
 <price>599</price>
@@ -32914,9 +32380,6 @@
 <offer id="vt-53393" available="true">
 <price>349</price>
 </offer>
-<offer id="vt-530166" available="false">
-<price>699</price>
-</offer>
 <offer id="vt-43713" available="true">
 <price>349</price>
 </offer>
@@ -32933,7 +32396,7 @@
 <price>369</price>
 </offer>
 <offer id="vt-10702/1-SL" available="true">
-<price>289</price>
+<price>299</price>
 </offer>
 <offer id="vt-53056" available="true">
 <price>989</price>
@@ -32942,16 +32405,13 @@
 <price>389</price>
 </offer>
 <offer id="vt-53682" available="true">
-<price>509</price>
+<price>519</price>
 </offer>
 <offer id="vt-10611" available="true">
 <price>689</price>
 </offer>
 <offer id="vt-53392bk" available="true">
 <price>369</price>
-</offer>
-<offer id="vt-54983" available="false">
-<price>449</price>
 </offer>
 <offer id="vt-95198" available="true">
 <price>1289</price>
@@ -32975,7 +32435,7 @@
 <price>939</price>
 </offer>
 <offer id="vt-44273" available="true">
-<price>389</price>
+<price>399</price>
 </offer>
 <offer id="vt-51809" available="true">
 <price>349</price>
@@ -32983,86 +32443,14 @@
 <offer id="vt-54036" available="true">
 <price>349</price>
 </offer>
-<offer id="vt-95117^(вниз)" available="false">
-<price>1019</price>
-</offer>
 <offer id="vt-95200" available="true">
 <price>1729</price>
-</offer>
-<offer id="vt-95105up" available="false">
-<price>1019</price>
 </offer>
 <offer id="vt-53628" available="true">
 <price>559</price>
 </offer>
 <offer id="vt-0116" available="true">
 <price>249</price>
-</offer>
-<offer id="vt-0122" available="false">
-<price>279</price>
-</offer>
-<offer id="vt-0123" available="false">
-<price>279</price>
-</offer>
-<offer id="vt-0013" available="false">
-<price>259</price>
-</offer>
-<offer id="vt-0131" available="false">
-<price>279</price>
-</offer>
-<offer id="vt-0120" available="false">
-<price>279</price>
-</offer>
-<offer id="vt-0119" available="false">
-<price>279</price>
-</offer>
-<offer id="vt-0112" available="false">
-<price>279</price>
-</offer>
-<offer id="vt-0121" available="false">
-<price>279</price>
-</offer>
-<offer id="vt-7102-L" available="false">
-<price>439</price>
-</offer>
-<offer id="vt-7102-M" available="false">
-<price>439</price>
-</offer>
-<offer id="vt-7102-S" available="false">
-<price>439</price>
-</offer>
-<offer id="vt-7102-XL" available="false">
-<price>439</price>
-</offer>
-<offer id="vt-6102-M" available="false">
-<price>439</price>
-</offer>
-<offer id="vt-7202-S" available="false">
-<price>489</price>
-</offer>
-<offer id="vt-7103-L" available="false">
-<price>439</price>
-</offer>
-<offer id="vt-7103-M" available="false">
-<price>439</price>
-</offer>
-<offer id="vt-7103-S" available="false">
-<price>439</price>
-</offer>
-<offer id="vt-6103-M" available="false">
-<price>439</price>
-</offer>
-<offer id="vt-6103-S" available="false">
-<price>439</price>
-</offer>
-<offer id="vt-7203-S" available="false">
-<price>489</price>
-</offer>
-<offer id="vt-7204-S" available="false">
-<price>489</price>
-</offer>
-<offer id="vt-7204-M" available="false">
-<price>489</price>
 </offer>
 <offer id="vt-ДК-піца32" available="true">
 <price>449</price>
@@ -33236,7 +32624,7 @@
 <price>599</price>
 </offer>
 <offer id="vt-ZB 19/3" available="true">
-<price>1209</price>
+<price>1219</price>
 </offer>
 <offer id="vt-BMR-00816DL-230" available="true">
 <price>599</price>
@@ -33263,7 +32651,7 @@
 <price>1179</price>
 </offer>
 <offer id="vt-ДК-ПП 3725" available="true">
-<price>999</price>
+<price>1009</price>
 </offer>
 <offer id="vt-ДК-ТВ 25" available="true">
 <price>719</price>
@@ -33317,22 +32705,19 @@
 <price>629</price>
 </offer>
 <offer id="vt-00-1015" available="true">
-<price>969</price>
+<price>979</price>
 </offer>
 <offer id="vt-00-1901" available="true">
 <price>979</price>
 </offer>
 <offer id="vt-00-1014" available="true">
-<price>969</price>
+<price>979</price>
 </offer>
 <offer id="vt-00-1174" available="true">
 <price>499</price>
 </offer>
 <offer id="vt-00-1226" available="true">
-<price>989</price>
-</offer>
-<offer id="vt-00-1241" available="false">
-<price>319</price>
+<price>999</price>
 </offer>
 <offer id="vt-00-1246" available="true">
 <price>319</price>
@@ -33341,9 +32726,6 @@
 <price>319</price>
 </offer>
 <offer id="vt-00-1231" available="true">
-<price>289</price>
-</offer>
-<offer id="vt-00-1233" available="false">
 <price>289</price>
 </offer>
 <offer id="vt-00-1255" available="true">
@@ -33373,9 +32755,6 @@
 <offer id="vt-00-1463" available="true">
 <price>209</price>
 </offer>
-<offer id="vt-00-1602" available="false">
-<price>289</price>
-</offer>
 <offer id="vt-00-1605" available="true">
 <price>289</price>
 </offer>
@@ -33389,7 +32768,7 @@
 <price>279</price>
 </offer>
 <offer id="vt-0128-А" available="true">
-<price>1559</price>
+<price>1569</price>
 </offer>
 <offer id="vt-0130-А" available="true">
 <price>1659</price>
@@ -33401,13 +32780,13 @@
 <price>289</price>
 </offer>
 <offer id="vt-B005-12" available="true">
-<price>649</price>
+<price>659</price>
 </offer>
 <offer id="vt-025 C" available="true">
-<price>409</price>
+<price>419</price>
 </offer>
 <offer id="vt-BC026F" available="true">
-<price>529</price>
+<price>539</price>
 </offer>
 <offer id="vt-025 E" available="true">
 <price>409</price>
@@ -33420,9 +32799,6 @@
 </offer>
 <offer id="vt-100200" available="true">
 <price>1929</price>
-</offer>
-<offer id="vt-KM-4358" available="false">
-<price>869</price>
 </offer>
 <offer id="vt-KM-4330" available="true">
 <price>389</price>
@@ -33440,7 +32816,7 @@
 <price>509</price>
 </offer>
 <offer id="vt-KM-9211" available="true">
-<price>339</price>
+<price>419</price>
 </offer>
 <offer id="vt-KM-9214" available="true">
 <price>589</price>
@@ -33452,7 +32828,7 @@
 <price>969</price>
 </offer>
 <offer id="vt-KM-9209" available="true">
-<price>1099</price>
+<price>962</price>
 </offer>
 <offer id="vt-KM-9035" available="true">
 <price>359</price>
@@ -33479,19 +32855,19 @@
 <price>489</price>
 </offer>
 <offer id="vt-KM-9206" available="true">
-<price>339</price>
+<price>429</price>
 </offer>
 <offer id="vt-KM-9204" available="true">
 <price>489</price>
 </offer>
 <offer id="vt-KM-9203" available="true">
-<price>869</price>
+<price>879</price>
 </offer>
 <offer id="vt-KM-9022" available="true">
 <price>509</price>
 </offer>
 <offer id="vt-KM-9023" available="true">
-<price>529</price>
+<price>539</price>
 </offer>
 <offer id="vt-KM-9024" available="true">
 <price>449</price>
@@ -33506,13 +32882,10 @@
 <price>1049</price>
 </offer>
 <offer id="vt-KM-7062" available="true">
-<price>749</price>
+<price>759</price>
 </offer>
 <offer id="vt-KM-7028" available="true">
 <price>799</price>
-</offer>
-<offer id="vt-KM-7055" available="false">
-<price>749</price>
 </offer>
 <offer id="vt-KM-7060" available="true">
 <price>679</price>
@@ -33536,7 +32909,7 @@
 <price>1029</price>
 </offer>
 <offer id="vt-KM-7036" available="true">
-<price>849</price>
+<price>859</price>
 </offer>
 <offer id="vt-KM-7054" available="true">
 <price>639</price>
@@ -33548,7 +32921,7 @@
 <price>1859</price>
 </offer>
 <offer id="vt-KM-7008" available="true">
-<price>389</price>
+<price>429</price>
 </offer>
 <offer id="vt-KM-7005" available="true">
 <price>519</price>
@@ -33560,7 +32933,7 @@
 <price>819</price>
 </offer>
 <offer id="vt-KM-7003" available="true">
-<price>849</price>
+<price>859</price>
 </offer>
 <offer id="vt-KM-7780" available="true">
 <price>169</price>
@@ -33584,7 +32957,7 @@
 <price>219</price>
 </offer>
 <offer id="vt-KM-7509" available="true">
-<price>509</price>
+<price>519</price>
 </offer>
 <offer id="vt-KM-7505" available="true">
 <price>209</price>
@@ -33635,7 +33008,7 @@
 <price>379</price>
 </offer>
 <offer id="vt-KM-0835" available="true">
-<price>399</price>
+<price>409</price>
 </offer>
 <offer id="vt-KM-0836" available="true">
 <price>449</price>
@@ -33665,7 +33038,7 @@
 <price>499</price>
 </offer>
 <offer id="vt-KM-0815" available="true">
-<price>529</price>
+<price>539</price>
 </offer>
 <offer id="vt-KM-0816" available="true">
 <price>549</price>
@@ -33689,7 +33062,7 @@
 <price>259</price>
 </offer>
 <offer id="vt-KM-5089" available="true">
-<price>649</price>
+<price>659</price>
 </offer>
 <offer id="vt-KM-7068" available="true">
 <price>389</price>
@@ -33701,7 +33074,7 @@
 <price>429</price>
 </offer>
 <offer id="vt-KM-6511" available="true">
-<price>1199</price>
+<price>1469</price>
 </offer>
 <offer id="vt-KM-8860" available="true">
 <price>379</price>
@@ -33722,7 +33095,7 @@
 <price>789</price>
 </offer>
 <offer id="vt-KM-5092" available="true">
-<price>1349</price>
+<price>1359</price>
 </offer>
 <offer id="vt-KM-10088" available="true">
 <price>719</price>
@@ -33755,7 +33128,7 @@
 <price>349</price>
 </offer>
 <offer id="vt-KM-9177" available="true">
-<price>719</price>
+<price>729</price>
 </offer>
 <offer id="vt-KM-9176" available="true">
 <price>449</price>
@@ -33776,7 +33149,7 @@
 <price>339</price>
 </offer>
 <offer id="vt-BS-0107" available="true">
-<price>289</price>
+<price>299</price>
 </offer>
 <offer id="vt-KM-8832" available="true">
 <price>349</price>
@@ -33827,19 +33200,19 @@
 <price>599</price>
 </offer>
 <offer id="vt-KM-5088" available="true">
-<price>489</price>
+<price>499</price>
 </offer>
 <offer id="vt-KM-5237" available="true">
 <price>739</price>
 </offer>
 <offer id="vt-KM-5238" available="true">
-<price>1099</price>
+<price>1109</price>
 </offer>
 <offer id="vt-KM-5034" available="true">
 <price>1639</price>
 </offer>
 <offer id="vt-KM-5030A" available="true">
-<price>1319</price>
+<price>1329</price>
 </offer>
 <offer id="vt-KM-5235" available="true">
 <price>1289</price>
@@ -33854,7 +33227,7 @@
 <price>1139</price>
 </offer>
 <offer id="vt-KM-5226" available="true">
-<price>1119</price>
+<price>1129</price>
 </offer>
 <offer id="vt-KM-8834" available="true">
 <price>359</price>
@@ -33953,10 +33326,10 @@
 <price>359</price>
 </offer>
 <offer id="vt-KM-2138" available="true">
-<price>729</price>
+<price>739</price>
 </offer>
 <offer id="vt-KM-2108" available="true">
-<price>529</price>
+<price>539</price>
 </offer>
 <offer id="vt-KM-2130" available="true">
 <price>949</price>
@@ -33968,10 +33341,10 @@
 <price>1209</price>
 </offer>
 <offer id="vt-KM-2103" available="true">
-<price>639</price>
+<price>649</price>
 </offer>
 <offer id="vt-KM-2125" available="true">
-<price>849</price>
+<price>859</price>
 </offer>
 <offer id="vt-KM-2106" available="true">
 <price>529</price>
@@ -33983,7 +33356,7 @@
 <price>909</price>
 </offer>
 <offer id="vt-KM-2109" available="true">
-<price>839</price>
+<price>849</price>
 </offer>
 <offer id="vt-KM-2104" available="true">
 <price>639</price>
@@ -34009,9 +33382,6 @@
 <offer id="vt-KM-2148" available="true">
 <price>1499</price>
 </offer>
-<offer id="vt-KM-2093A" available="false">
-<price>1209</price>
-</offer>
 <offer id="vt-KM-2096" available="true">
 <price>1189</price>
 </offer>
@@ -34025,7 +33395,7 @@
 <price>1179</price>
 </offer>
 <offer id="vt-101302" available="true">
-<price>1239</price>
+<price>1249</price>
 </offer>
 <offer id="vt-KM-6514" available="true">
 <price>2159</price>
@@ -34034,7 +33404,7 @@
 <price>10239</price>
 </offer>
 <offer id="vt-KM-6535" available="true">
-<price>2949</price>
+<price>3569</price>
 </offer>
 <offer id="vt-KM-5125" available="true">
 <price>1159</price>
@@ -34043,7 +33413,7 @@
 <price>369</price>
 </offer>
 <offer id="vt-KM-4312" available="true">
-<price>389</price>
+<price>399</price>
 </offer>
 <offer id="vt-KM-4313" available="true">
 <price>489</price>
@@ -34061,7 +33431,7 @@
 <price>429</price>
 </offer>
 <offer id="vt-KM-4349" available="true">
-<price>499</price>
+<price>509</price>
 </offer>
 <offer id="vt-KM-4350" available="true">
 <price>579</price>
@@ -34073,7 +33443,7 @@
 <price>829</price>
 </offer>
 <offer id="vt-KM-4374" available="true">
-<price>379</price>
+<price>389</price>
 </offer>
 <offer id="vt-KM-4318" available="true">
 <price>389</price>
@@ -34094,7 +33464,7 @@
 <price>339</price>
 </offer>
 <offer id="vt-KM-5100" available="true">
-<price>649</price>
+<price>659</price>
 </offer>
 <offer id="vt-KM-5102" available="true">
 <price>629</price>
@@ -34112,7 +33482,7 @@
 <price>359</price>
 </offer>
 <offer id="vt-KM-1058" available="true">
-<price>489</price>
+<price>499</price>
 </offer>
 <offer id="vt-KM-1060" available="true">
 <price>589</price>
@@ -34139,16 +33509,16 @@
 <price>789</price>
 </offer>
 <offer id="vt-KM-5130" available="true">
-<price>2549</price>
+<price>2609</price>
 </offer>
 <offer id="vt-KM-5133" available="true">
-<price>2719</price>
+<price>2849</price>
 </offer>
 <offer id="vt-KM-5122" available="true">
 <price>709</price>
 </offer>
 <offer id="vt-KM-5123" available="true">
-<price>869</price>
+<price>1089</price>
 </offer>
 <offer id="vt-KM-5120" available="true">
 <price>589</price>
@@ -34190,10 +33560,10 @@
 <price>429</price>
 </offer>
 <offer id="vt-KM-5141" available="true">
-<price>399</price>
+<price>409</price>
 </offer>
 <offer id="vt-KM-5144" available="true">
-<price>279</price>
+<price>289</price>
 </offer>
 <offer id="vt-KM-5142" available="true">
 <price>429</price>
@@ -34208,13 +33578,13 @@
 <price>399</price>
 </offer>
 <offer id="vt-KM-5172" available="true">
-<price>649</price>
+<price>659</price>
 </offer>
 <offer id="vt-KM-5176" available="true">
 <price>989</price>
 </offer>
 <offer id="vt-KM-5177" available="true">
-<price>979</price>
+<price>989</price>
 </offer>
 <offer id="vt-KM-5174" available="true">
 <price>379</price>
@@ -34223,22 +33593,22 @@
 <price>669</price>
 </offer>
 <offer id="vt-KM-5178" available="true">
-<price>649</price>
+<price>659</price>
 </offer>
 <offer id="vt-KM-5159" available="true">
 <price>789</price>
 </offer>
 <offer id="vt-KM-7614" available="true">
-<price>1709</price>
+<price>1719</price>
 </offer>
 <offer id="vt-KM-7626" available="true">
-<price>999</price>
+<price>1009</price>
 </offer>
 <offer id="vt-KM-7616" available="true">
-<price>979</price>
+<price>989</price>
 </offer>
 <offer id="vt-KM-7627" available="true">
-<price>999</price>
+<price>1009</price>
 </offer>
 <offer id="vt-KM-7617" available="true">
 <price>1019</price>
@@ -34271,7 +33641,7 @@
 <price>949</price>
 </offer>
 <offer id="vt-100205" available="true">
-<price>969</price>
+<price>979</price>
 </offer>
 <offer id="vt-100206" available="true">
 <price>1499</price>
@@ -34283,7 +33653,7 @@
 <price>1239</price>
 </offer>
 <offer id="vt-100208" available="true">
-<price>1339</price>
+<price>1349</price>
 </offer>
 <offer id="vt-KM-4300" available="true">
 <price>329</price>
@@ -34295,7 +33665,7 @@
 <price>389</price>
 </offer>
 <offer id="vt-KM-4372" available="true">
-<price>339</price>
+<price>429</price>
 </offer>
 <offer id="vt-KM-0183" available="true">
 <price>899</price>
@@ -34304,7 +33674,7 @@
 <price>589</price>
 </offer>
 <offer id="vt-KM-0195" available="true">
-<price>379</price>
+<price>389</price>
 </offer>
 <offer id="vt-KM-0451" available="true">
 <price>999</price>
@@ -34328,10 +33698,10 @@
 <price>2829</price>
 </offer>
 <offer id="vt-KM-0751" available="true">
-<price>2729</price>
+<price>2739</price>
 </offer>
 <offer id="vt-100402" available="true">
-<price>2139</price>
+<price>2159</price>
 </offer>
 <offer id="vt-KM-3005" available="true">
 <price>949</price>
@@ -34379,13 +33749,13 @@
 <price>429</price>
 </offer>
 <offer id="vt-KM-10102" available="true">
-<price>409</price>
+<price>419</price>
 </offer>
 <offer id="vt-KM-6031" available="true">
 <price>1499</price>
 </offer>
 <offer id="vt-KM-6023" available="true">
-<price>1099</price>
+<price>1109</price>
 </offer>
 <offer id="vt-100700" available="true">
 <price>1169</price>
@@ -34430,10 +33800,10 @@
 <price>339</price>
 </offer>
 <offer id="vt-KM-6019M" available="true">
-<price>409</price>
+<price>419</price>
 </offer>
 <offer id="vt-KM-6015M" available="true">
-<price>449</price>
+<price>479</price>
 </offer>
 <offer id="vt-100706" available="true">
 <price>379</price>
@@ -34445,16 +33815,16 @@
 <price>369</price>
 </offer>
 <offer id="vt-KM-6035A" available="true">
-<price>989</price>
+<price>999</price>
 </offer>
 <offer id="vt-KM-6036A" available="true">
 <price>789</price>
 </offer>
 <offer id="vt-KM-6027A" available="true">
-<price>1019</price>
+<price>1069</price>
 </offer>
 <offer id="vt-100704" available="true">
-<price>399</price>
+<price>409</price>
 </offer>
 <offer id="vt-KM-6006M" available="true">
 <price>379</price>
@@ -34469,7 +33839,7 @@
 <price>289</price>
 </offer>
 <offer id="vt-100709" available="true">
-<price>389</price>
+<price>399</price>
 </offer>
 <offer id="vt-KM-6043" available="true">
 <price>829</price>
@@ -34493,10 +33863,10 @@
 <price>359</price>
 </offer>
 <offer id="vt-KM-6055" available="true">
-<price>399</price>
+<price>409</price>
 </offer>
 <offer id="vt-KM-6304" available="true">
-<price>999</price>
+<price>1009</price>
 </offer>
 <offer id="vt-KM-6300" available="true">
 <price>1139</price>
@@ -34543,9 +33913,6 @@
 <offer id="vt-KM-1126" available="true">
 <price>2179</price>
 </offer>
-<offer id="vt-KM-1123" available="false">
-<price>2749</price>
-</offer>
 <offer id="vt-KM-1131" available="true">
 <price>2169</price>
 </offer>
@@ -34580,7 +33947,7 @@
 <price>819</price>
 </offer>
 <offer id="vt-100523" available="true">
-<price>839</price>
+<price>849</price>
 </offer>
 <offer id="vt-KM-4481" available="true">
 <price>2969</price>
@@ -34613,7 +33980,7 @@
 <price>1609</price>
 </offer>
 <offer id="vt-KM-4485" available="true">
-<price>2159</price>
+<price>2169</price>
 </offer>
 <offer id="vt-KM-4405" available="true">
 <price>2089</price>
@@ -34682,10 +34049,10 @@
 <price>1409</price>
 </offer>
 <offer id="vt-KM-4903" available="true">
-<price>1789</price>
+<price>1799</price>
 </offer>
 <offer id="vt-KM-5415" available="true">
-<price>1679</price>
+<price>1699</price>
 </offer>
 <offer id="vt-KM-4920" available="true">
 <price>1039</price>
@@ -34706,13 +34073,13 @@
 <price>999</price>
 </offer>
 <offer id="vt-KM-5622S" available="true">
-<price>1569</price>
+<price>1579</price>
 </offer>
 <offer id="vt-KM-5624S" available="true">
 <price>1789</price>
 </offer>
 <offer id="vt-KM-4930" available="true">
-<price>999</price>
+<price>1009</price>
 </offer>
 <offer id="vt-KM-4932" available="true">
 <price>1149</price>
@@ -34778,7 +34145,7 @@
 <price>1089</price>
 </offer>
 <offer id="vt-100513" available="true">
-<price>1329</price>
+<price>1339</price>
 </offer>
 <offer id="vt-100526" available="true">
 <price>1219</price>
@@ -34793,7 +34160,7 @@
 <price>1929</price>
 </offer>
 <offer id="vt-KM-5852" available="true">
-<price>2399</price>
+<price>2409</price>
 </offer>
 <offer id="vt-KM-5625S" available="true">
 <price>2089</price>
@@ -34802,7 +34169,7 @@
 <price>989</price>
 </offer>
 <offer id="vt-KM-4671" available="true">
-<price>1119</price>
+<price>1129</price>
 </offer>
 <offer id="vt-KM-4419" available="true">
 <price>1139</price>
@@ -34814,7 +34181,7 @@
 <price>1259</price>
 </offer>
 <offer id="vt-KM-4125" available="true">
-<price>849</price>
+<price>859</price>
 </offer>
 <offer id="vt-KM-4282GR" available="true">
 <price>1069</price>
@@ -34832,22 +34199,19 @@
 <price>1149</price>
 </offer>
 <offer id="vt-KM-4354" available="true">
-<price>409</price>
+<price>419</price>
 </offer>
 <offer id="vt-KM-4227S" available="true">
 <price>1119</price>
-</offer>
-<offer id="vt-KM-4526S" available="false">
-<price>1019</price>
 </offer>
 <offer id="vt-KM-5840" available="true">
 <price>989</price>
 </offer>
 <offer id="vt-KM-4382" available="true">
-<price>959</price>
+<price>969</price>
 </offer>
 <offer id="vt-KM-4385" available="true">
-<price>639</price>
+<price>649</price>
 </offer>
 <offer id="vt-KM-5841" available="true">
 <price>819</price>
@@ -34889,10 +34253,10 @@
 <price>5409</price>
 </offer>
 <offer id="vt-KM-4914" available="true">
-<price>2289</price>
+<price>2309</price>
 </offer>
 <offer id="vt-KM-4935" available="true">
-<price>2869</price>
+<price>2879</price>
 </offer>
 <offer id="vt-KM-4925" available="true">
 <price>2009</price>
@@ -34904,7 +34268,7 @@
 <price>2119</price>
 </offer>
 <offer id="vt-KM-5751" available="true">
-<price>2629</price>
+<price>2639</price>
 </offer>
 <offer id="vt-KM-5627S" available="true">
 <price>2029</price>
@@ -34925,10 +34289,10 @@
 <price>3529</price>
 </offer>
 <offer id="vt-KM-4706S" available="true">
-<price>3399</price>
+<price>3549</price>
 </offer>
 <offer id="vt-KM-5911 АКЦІЯ" available="true">
-<price>4869</price>
+<price>4879</price>
 </offer>
 <offer id="vt-KM-5765" available="true">
 <price>3609</price>
@@ -34949,7 +34313,7 @@
 <price>5189</price>
 </offer>
 <offer id="vt-KM-5632S" available="true">
-<price>3809</price>
+<price>3819</price>
 </offer>
 <offer id="vt-KM-5766" available="true">
 <price>5559</price>
@@ -34970,7 +34334,7 @@
 <price>3919</price>
 </offer>
 <offer id="vt-KM-5634S" available="true">
-<price>6619</price>
+<price>6629</price>
 </offer>
 <offer id="vt-KM-5831" available="true">
 <price>2089</price>
@@ -34979,25 +34343,25 @@
 <price>1969</price>
 </offer>
 <offer id="vt-KM-4807MR" available="true">
-<price>2859</price>
+<price>2869</price>
 </offer>
 <offer id="vt-KM-4806MR" available="true">
 <price>2439</price>
 </offer>
 <offer id="vt-KM-4490" available="true">
-<price>1219</price>
+<price>1239</price>
 </offer>
 <offer id="vt-KM-4491" available="true">
 <price>1409</price>
 </offer>
 <offer id="vt-KM-4172" available="true">
-<price>1239</price>
+<price>1249</price>
 </offer>
 <offer id="vt-KM-0621MR" available="true">
 <price>869</price>
 </offer>
 <offer id="vt-KM-0619MR" available="true">
-<price>749</price>
+<price>759</price>
 </offer>
 <offer id="vt-KM-0620MR" available="true">
 <price>849</price>
@@ -35015,7 +34379,7 @@
 <price>1199</price>
 </offer>
 <offer id="vt-KM-4211" available="true">
-<price>1349</price>
+<price>1359</price>
 </offer>
 <offer id="vt-KM-4210" available="true">
 <price>1279</price>
@@ -35030,10 +34394,10 @@
 <price>1419</price>
 </offer>
 <offer id="vt-KM-4278GR" available="true">
-<price>1789</price>
+<price>1799</price>
 </offer>
 <offer id="vt-KM-4431" available="true">
-<price>1919</price>
+<price>1929</price>
 </offer>
 <offer id="vt-KM-4418" available="true">
 <price>1959</price>
@@ -35042,7 +34406,7 @@
 <price>1819</price>
 </offer>
 <offer id="vt-KM-4432" available="true">
-<price>2749</price>
+<price>2769</price>
 </offer>
 <offer id="vt-100516" available="true">
 <price>2739</price>
@@ -35069,19 +34433,19 @@
 <price>1269</price>
 </offer>
 <offer id="vt-KM-4133" available="true">
-<price>1579</price>
+<price>1589</price>
 </offer>
 <offer id="vt-KM-4675" available="true">
 <price>989</price>
 </offer>
 <offer id="vt-KM-4676" available="true">
-<price>1119</price>
+<price>1129</price>
 </offer>
 <offer id="vt-KM-4677" available="true">
 <price>1279</price>
 </offer>
 <offer id="vt-KM-4412" available="true">
-<price>1339</price>
+<price>1349</price>
 </offer>
 <offer id="vt-KM-4470" available="true">
 <price>1199</price>
@@ -35105,7 +34469,7 @@
 <price>1749</price>
 </offer>
 <offer id="vt-KM-4415" available="true">
-<price>1909</price>
+<price>1919</price>
 </offer>
 <offer id="vt-KM-4410" available="true">
 <price>1069</price>
@@ -35120,7 +34484,7 @@
 <price>1139</price>
 </offer>
 <offer id="vt-KM-4163" available="true">
-<price>1239</price>
+<price>1249</price>
 </offer>
 <offer id="vt-KM-4164" available="true">
 <price>1509</price>
@@ -35138,13 +34502,13 @@
 <price>1459</price>
 </offer>
 <offer id="vt-KM-4290GR" available="true">
-<price>1669</price>
+<price>1679</price>
 </offer>
 <offer id="vt-KM-4291GR" available="true">
-<price>1809</price>
+<price>1819</price>
 </offer>
 <offer id="vt-KM-5385MR" available="true">
-<price>1109</price>
+<price>1119</price>
 </offer>
 <offer id="vt-KM-5386MR" available="true">
 <price>1259</price>
@@ -35252,7 +34616,7 @@
 <price>1329</price>
 </offer>
 <offer id="vt-KM-6741" available="true">
-<price>1909</price>
+<price>1919</price>
 </offer>
 <offer id="vt-KM-6740" available="true">
 <price>2999</price>
@@ -35270,7 +34634,7 @@
 <price>1319</price>
 </offer>
 <offer id="vt-KM-7113" available="true">
-<price>1469</price>
+<price>1479</price>
 </offer>
 <offer id="vt-KM-6718" available="true">
 <price>1179</price>
@@ -35321,7 +34685,7 @@
 <price>1339</price>
 </offer>
 <offer id="vt-KM-1726" available="true">
-<price>2509</price>
+<price>2519</price>
 </offer>
 <offer id="vt-KM-1725" available="true">
 <price>2669</price>
@@ -35351,16 +34715,10 @@
 <price>1619</price>
 </offer>
 <offer id="vt-KM-6602" available="true">
-<price>649</price>
+<price>659</price>
 </offer>
 <offer id="vt-KM-6800" available="true">
 <price>789</price>
-</offer>
-<offer id="vt-KM-6803" available="false">
-<price>789</price>
-</offer>
-<offer id="vt-KM-6802" available="false">
-<price>749</price>
 </offer>
 <offer id="vt-KM-6804" available="true">
 <price>789</price>
@@ -35402,7 +34760,7 @@
 <price>5019</price>
 </offer>
 <offer id="vt-KM-6830" available="true">
-<price>4699</price>
+<price>5689</price>
 </offer>
 <offer id="vt-KM-6903" available="true">
 <price>6249</price>
@@ -35411,7 +34769,7 @@
 <price>2429</price>
 </offer>
 <offer id="vt-KM-6901" available="true">
-<price>6379</price>
+<price>7719</price>
 </offer>
 <offer id="vt-KM-6712" available="true">
 <price>2219</price>
@@ -35420,10 +34778,10 @@
 <price>1259</price>
 </offer>
 <offer id="vt-KM-6716" available="true">
-<price>1109</price>
+<price>1119</price>
 </offer>
 <offer id="vt-KM-6717" available="true">
-<price>989</price>
+<price>999</price>
 </offer>
 <offer id="vt-KM-6724" available="true">
 <price>2359</price>
@@ -35444,7 +34802,7 @@
 <price>1289</price>
 </offer>
 <offer id="vt-KM-6739" available="true">
-<price>2409</price>
+<price>2419</price>
 </offer>
 <offer id="vt-KM-6736" available="true">
 <price>1019</price>
@@ -35471,7 +34829,7 @@
 <price>939</price>
 </offer>
 <offer id="vt-KM-0777M" available="true">
-<price>879</price>
+<price>889</price>
 </offer>
 <offer id="vt-KM-0778M" available="true">
 <price>1029</price>
@@ -35500,11 +34858,8 @@
 <offer id="vt-KM-0783S" available="true">
 <price>909</price>
 </offer>
-<offer id="vt-KM-1601" available="false">
-<price>479</price>
-</offer>
 <offer id="vt-KM-0777S" available="true">
-<price>859</price>
+<price>869</price>
 </offer>
 <offer id="vt-KM-0778S" available="true">
 <price>999</price>
@@ -35513,7 +34868,7 @@
 <price>959</price>
 </offer>
 <offer id="vt-100615M" available="true">
-<price>649</price>
+<price>659</price>
 </offer>
 <offer id="vt-100615L" available="true">
 <price>829</price>
@@ -35549,7 +34904,7 @@
 <price>709</price>
 </offer>
 <offer id="vt-KM-9007" available="true">
-<price>649</price>
+<price>659</price>
 </offer>
 <offer id="vt-KM-9002" available="true">
 <price>679</price>
@@ -35561,13 +34916,13 @@
 <price>699</price>
 </offer>
 <offer id="vt-KM-9014" available="true">
-<price>879</price>
+<price>889</price>
 </offer>
 <offer id="vt-KM-9017" available="true">
 <price>479</price>
 </offer>
 <offer id="vt-KM-8842" available="true">
-<price>289</price>
+<price>299</price>
 </offer>
 <offer id="vt-KM-5063" available="true">
 <price>749</price>
@@ -35582,13 +34937,13 @@
 <price>1039</price>
 </offer>
 <offer id="vt-KM-2221" available="true">
-<price>1109</price>
+<price>1119</price>
 </offer>
 <offer id="vt-KM-2219" available="true">
-<price>879</price>
+<price>1089</price>
 </offer>
 <offer id="vt-KM-2222" available="true">
-<price>949</price>
+<price>1159</price>
 </offer>
 <offer id="vt-KM-2217" available="true">
 <price>1159</price>
@@ -35624,7 +34979,7 @@
 <price>759</price>
 </offer>
 <offer id="vt-KM-2155" available="true">
-<price>729</price>
+<price>739</price>
 </offer>
 <offer id="vt-KM-2157" available="true">
 <price>709</price>
@@ -35642,7 +34997,7 @@
 <price>599</price>
 </offer>
 <offer id="vt-KM-2053R" available="true">
-<price>609</price>
+<price>629</price>
 </offer>
 <offer id="vt-KM-2052" available="true">
 <price>719</price>
@@ -35651,7 +35006,7 @@
 <price>799</price>
 </offer>
 <offer id="vt-KM-2069А" available="true">
-<price>639</price>
+<price>839</price>
 </offer>
 <offer id="vt-KM-2069" available="true">
 <price>599</price>
@@ -35699,7 +35054,7 @@
 <price>809</price>
 </offer>
 <offer id="vt-KM-2177" available="true">
-<price>849</price>
+<price>859</price>
 </offer>
 <offer id="vt-101311" available="true">
 <price>629</price>
@@ -35723,13 +35078,13 @@
 <price>1159</price>
 </offer>
 <offer id="vt-KM-2081" available="true">
-<price>1049</price>
+<price>1289</price>
 </offer>
 <offer id="vt-KM-2070" available="true">
 <price>399</price>
 </offer>
 <offer id="vt-KM-2030" available="true">
-<price>739</price>
+<price>749</price>
 </offer>
 <offer id="vt-KM-2071" available="true">
 <price>599</price>
@@ -35738,13 +35093,13 @@
 <price>489</price>
 </offer>
 <offer id="vt-101323" available="true">
-<price>529</price>
+<price>539</price>
 </offer>
 <offer id="vt-KM-2173" available="true">
-<price>979</price>
+<price>989</price>
 </offer>
 <offer id="vt-KM-2172" available="true">
-<price>979</price>
+<price>989</price>
 </offer>
 <offer id="vt-KM-2087" available="true">
 <price>829</price>
@@ -35789,7 +35144,7 @@
 <price>1299</price>
 </offer>
 <offer id="vt-KM-0566 IND" available="true">
-<price>1139</price>
+<price>1399</price>
 </offer>
 <offer id="vt-KM-0552" available="true">
 <price>1279</price>
@@ -35819,7 +35174,7 @@
 <price>809</price>
 </offer>
 <offer id="vt-101101" available="true">
-<price>859</price>
+<price>869</price>
 </offer>
 <offer id="vt-101102" available="true">
 <price>1149</price>
@@ -35846,7 +35201,7 @@
 <price>429</price>
 </offer>
 <offer id="vt-KM-4361" available="true">
-<price>409</price>
+<price>419</price>
 </offer>
 <offer id="vt-KM-4364" available="true">
 <price>589</price>
@@ -35867,7 +35222,7 @@
 <price>799</price>
 </offer>
 <offer id="vt-KM-0775XL-1000" available="true">
-<price>639</price>
+<price>649</price>
 </offer>
 <offer id="vt-KM-0775S- 350" available="true">
 <price>319</price>
@@ -35891,7 +35246,7 @@
 <price>739</price>
 </offer>
 <offer id="vt-100610" available="true">
-<price>599</price>
+<price>609</price>
 </offer>
 <offer id="vt-100608" available="true">
 <price>359</price>
@@ -35906,7 +35261,7 @@
 <price>559</price>
 </offer>
 <offer id="vt-100602" available="true">
-<price>649</price>
+<price>659</price>
 </offer>
 <offer id="vt-100607" available="true">
 <price>599</price>
@@ -35918,10 +35273,10 @@
 <price>559</price>
 </offer>
 <offer id="vt-KM-4833" available="true">
-<price>1519</price>
+<price>1789</price>
 </offer>
 <offer id="vt-KM-4830" available="true">
-<price>1239</price>
+<price>1249</price>
 </offer>
 <offer id="vt-KM-4831" available="true">
 <price>1259</price>
@@ -36047,28 +35402,28 @@
 <price>1419</price>
 </offer>
 <offer id="vt-KM-0867" available="true">
-<price>1819</price>
+<price>1829</price>
 </offer>
 <offer id="vt-KM-0854" available="true">
 <price>1729</price>
 </offer>
 <offer id="vt-KM-1070WH" available="true">
-<price>1219</price>
+<price>1239</price>
 </offer>
 <offer id="vt-KM-0695GR" available="true">
 <price>1969</price>
 </offer>
 <offer id="vt-100304" available="true">
-<price>559</price>
+<price>719</price>
 </offer>
 <offer id="vt-100314" available="true">
-<price>849</price>
+<price>859</price>
 </offer>
 <offer id="vt-100312" available="true">
 <price>1209</price>
 </offer>
 <offer id="vt-100303" available="true">
-<price>1339</price>
+<price>1349</price>
 </offer>
 <offer id="vt-100300" available="true">
 <price>1109</price>
@@ -36095,25 +35450,25 @@
 <price>1569</price>
 </offer>
 <offer id="vt-100309" available="true">
-<price>2049</price>
+<price>2059</price>
 </offer>
 <offer id="vt-100307" available="true">
 <price>1639</price>
 </offer>
 <offer id="vt-100305WH" available="true">
-<price>1679</price>
+<price>1699</price>
 </offer>
 <offer id="vt-100305BL" available="true">
 <price>1499</price>
 </offer>
 <offer id="vt-KM-1039B" available="true">
-<price>1579</price>
+<price>1589</price>
 </offer>
 <offer id="vt-KM-1039D" available="true">
 <price>1559</price>
 </offer>
 <offer id="vt-KM-1040B" available="true">
-<price>1569</price>
+<price>1579</price>
 </offer>
 <offer id="vt-KM-1040D" available="true">
 <price>1549</price>
@@ -36161,22 +35516,22 @@
 <price>1029</price>
 </offer>
 <offer id="vt-KM-9125" available="true">
-<price>759</price>
+<price>1009</price>
 </offer>
 <offer id="vt-KM-9126" available="true">
 <price>1179</price>
 </offer>
 <offer id="vt-KM-9116" available="true">
-<price>1239</price>
+<price>1519</price>
 </offer>
 <offer id="vt-KM-9106" available="true">
 <price>1339</price>
 </offer>
 <offer id="vt-KM-9136" available="true">
-<price>1639</price>
+<price>1749</price>
 </offer>
 <offer id="vt-KM-9182" available="true">
-<price>409</price>
+<price>419</price>
 </offer>
 <offer id="vt-KM-9183" available="true">
 <price>509</price>
@@ -36185,7 +35540,7 @@
 <price>669</price>
 </offer>
 <offer id="vt-KM-9185" available="true">
-<price>849</price>
+<price>859</price>
 </offer>
 <offer id="vt-KM-9158" available="true">
 <price>2199</price>
@@ -36200,7 +35555,7 @@
 <price>899</price>
 </offer>
 <offer id="vt-KM-9157" available="true">
-<price>1109</price>
+<price>1119</price>
 </offer>
 <offer id="vt-KM-20002" available="true">
 <price>679</price>
@@ -36242,10 +35597,10 @@
 <price>1289</price>
 </offer>
 <offer id="vt-KM-9219" available="true">
-<price>1849</price>
+<price>2249</price>
 </offer>
 <offer id="vt-KM-9217" available="true">
-<price>1669</price>
+<price>1679</price>
 </offer>
 <offer id="vt-KM-9221" available="true">
 <price>4839</price>
@@ -36260,10 +35615,10 @@
 <price>829</price>
 </offer>
 <offer id="vt-KM-9056" available="true">
-<price>959</price>
+<price>969</price>
 </offer>
 <offer id="vt-KM-9054" available="true">
-<price>869</price>
+<price>879</price>
 </offer>
 <offer id="vt-KM-9052" available="true">
 <price>869</price>
@@ -36275,7 +35630,7 @@
 <price>1259</price>
 </offer>
 <offer id="vt-KM-9053" available="true">
-<price>1239</price>
+<price>1249</price>
 </offer>
 <offer id="vt-KM-0443" available="true">
 <price>529</price>
@@ -36296,10 +35651,10 @@
 <price>499</price>
 </offer>
 <offer id="vt-KM-1040" available="true">
-<price>649</price>
+<price>659</price>
 </offer>
 <offer id="vt-KM-9051" available="true">
-<price>819</price>
+<price>999</price>
 </offer>
 <offer id="vt-KM-9050" available="true">
 <price>899</price>
@@ -36341,7 +35696,7 @@
 <price>679</price>
 </offer>
 <offer id="vt-KM-5237R" available="true">
-<price>1589</price>
+<price>1599</price>
 </offer>
 <offer id="vt-KM-5238R" available="true">
 <price>1509</price>
@@ -36356,19 +35711,16 @@
 <price>1219</price>
 </offer>
 <offer id="vt-KM-5245" available="true">
-<price>879</price>
+<price>889</price>
 </offer>
 <offer id="vt-KM-5336" available="true">
-<price>409</price>
+<price>419</price>
 </offer>
 <offer id="vt-KM-5335" available="true">
 <price>469</price>
 </offer>
 <offer id="vt-KM-4355" available="true">
-<price>1219</price>
-</offer>
-<offer id="vt-KM-4356" available="false">
-<price>1579</price>
+<price>1239</price>
 </offer>
 <offer id="vt-KM-7766" available="true">
 <price>1619</price>
@@ -36416,7 +35768,7 @@
 <price>809</price>
 </offer>
 <offer id="vt-36630 АМА" available="true">
-<price>1109</price>
+<price>1119</price>
 </offer>
 <offer id="vt-26-288-014" available="true">
 <price>639</price>
@@ -36467,7 +35819,7 @@
 <price>429</price>
 </offer>
 <offer id="vt-29-199-025" available="true">
-<price>369</price>
+<price>449</price>
 </offer>
 <offer id="vt-29-199-026" available="true">
 <price>489</price>
@@ -36493,11 +35845,8 @@
 <offer id="vt-31-289-019" available="true">
 <price>389</price>
 </offer>
-<offer id="vt-29-305-197" available="false">
-<price>439</price>
-</offer>
 <offer id="vt-50595" available="true">
-<price>759</price>
+<price>779</price>
 </offer>
 <offer id="vt-26-203-085" available="true">
 <price>939</price>
@@ -36518,7 +35867,7 @@
 <price>1069</price>
 </offer>
 <offer id="vt-50190" available="true">
-<price>1789</price>
+<price>1799</price>
 </offer>
 <offer id="vt-29-199-002" available="true">
 <price>479</price>
@@ -36531,9 +35880,6 @@
 </offer>
 <offer id="vt-24-21-219" available="true">
 <price>399</price>
-</offer>
-<offer id="vt-26-203-030" available="false">
-<price>709</price>
 </offer>
 <offer id="vt-29-305-072" available="true">
 <price>279</price>
@@ -36559,9 +35905,6 @@
 <offer id="vt-29-305-092" available="true">
 <price>1039</price>
 </offer>
-<offer id="vt-50511" available="false">
-<price>629</price>
-</offer>
 <offer id="vt-50247" available="true">
 <price>1069</price>
 </offer>
@@ -36581,19 +35924,16 @@
 <price>589</price>
 </offer>
 <offer id="vt-29-282-004" available="true">
-<price>979</price>
+<price>989</price>
 </offer>
 <offer id="vt-29-282-009" available="true">
 <price>969</price>
 </offer>
 <offer id="vt-29-260-006" available="true">
-<price>849</price>
+<price>859</price>
 </offer>
 <offer id="vt-50204" available="true">
-<price>1449</price>
-</offer>
-<offer id="vt-29-282-008" available="false">
-<price>399</price>
+<price>1459</price>
 </offer>
 <offer id="vt-29-305-079" available="true">
 <price>549</price>
@@ -36644,7 +35984,7 @@
 <price>479</price>
 </offer>
 <offer id="vt-29-298-010" available="true">
-<price>399</price>
+<price>409</price>
 </offer>
 <offer id="vt-50663" available="true">
 <price>469</price>
@@ -36683,7 +36023,7 @@
 <price>379</price>
 </offer>
 <offer id="vt-29-298-009" available="true">
-<price>399</price>
+<price>409</price>
 </offer>
 <offer id="vt-50523" available="true">
 <price>369</price>
@@ -36704,7 +36044,7 @@
 <price>439</price>
 </offer>
 <offer id="vt-29-301-012" available="true">
-<price>519</price>
+<price>529</price>
 </offer>
 <offer id="vt-29-305-119" available="true">
 <price>369</price>
@@ -36728,7 +36068,7 @@
 <price>389</price>
 </offer>
 <offer id="vt-29-305-075" available="true">
-<price>409</price>
+<price>419</price>
 </offer>
 <offer id="vt-50677" available="true">
 <price>389</price>
@@ -36737,7 +36077,7 @@
 <price>469</price>
 </offer>
 <offer id="vt-50343" available="true">
-<price>2619</price>
+<price>2629</price>
 </offer>
 <offer id="vt-29-298-017" available="true">
 <price>429</price>
@@ -36749,9 +36089,9 @@
 <price>719</price>
 </offer>
 <offer id="vt-29-298-042" available="true">
-<price>789</price>
+<price>1009</price>
 </offer>
-<offer id="vt-50307" available="false">
+<offer id="vt-50307" available="true">
 <price>629</price>
 </offer>
 <offer id="vt-29-305-150" available="true">
@@ -36767,13 +36107,13 @@
 <price>1179</price>
 </offer>
 <offer id="vt-29-305-055" available="true">
-<price>1159</price>
+<price>1429</price>
 </offer>
 <offer id="vt-29-305-235" available="true">
 <price>5889</price>
 </offer>
 <offer id="vt-29-305-233" available="true">
-<price>4649</price>
+<price>4659</price>
 </offer>
 <offer id="vt-29-305-178" available="true">
 <price>4479</price>
@@ -36803,7 +36143,7 @@
 <price>629</price>
 </offer>
 <offer id="vt-29-305-175" available="true">
-<price>509</price>
+<price>519</price>
 </offer>
 <offer id="vt-50296" available="true">
 <price>1489</price>
@@ -36811,14 +36151,11 @@
 <offer id="vt-50293" available="true">
 <price>1179</price>
 </offer>
-<offer id="vt-50302" available="false">
-<price>1469</price>
-</offer>
 <offer id="vt-50278" available="true">
-<price>1219</price>
+<price>1239</price>
 </offer>
 <offer id="vt-50276" available="true">
-<price>1219</price>
+<price>1239</price>
 </offer>
 <offer id="vt-50615" available="true">
 <price>1469</price>
@@ -36833,7 +36170,7 @@
 <price>1059</price>
 </offer>
 <offer id="vt-50261" available="true">
-<price>1239</price>
+<price>1249</price>
 </offer>
 <offer id="vt-50270" available="true">
 <price>699</price>
@@ -36851,7 +36188,7 @@
 <price>669</price>
 </offer>
 <offer id="vt-29-305-054" available="true">
-<price>389</price>
+<price>399</price>
 </offer>
 <offer id="vt-29-305-200" available="true">
 <price>699</price>
@@ -36875,13 +36212,13 @@
 <price>499</price>
 </offer>
 <offer id="vt-29-305-207" available="true">
-<price>749</price>
+<price>759</price>
 </offer>
 <offer id="vt-29-305-053" available="true">
 <price>439</price>
 </offer>
 <offer id="vt-29-305-208" available="true">
-<price>639</price>
+<price>649</price>
 </offer>
 <offer id="vt-50305(89305)" available="true">
 <price>2349</price>
@@ -36899,7 +36236,7 @@
 <price>709</price>
 </offer>
 <offer id="vt-26-283-004" available="true">
-<price>549</price>
+<price>709</price>
 </offer>
 <offer id="vt-89486" available="true">
 <price>409</price>
@@ -36911,7 +36248,7 @@
 <price>859</price>
 </offer>
 <offer id="vt-OMS 3272-26 GOLD" available="true">
-<price>1319</price>
+<price>1329</price>
 </offer>
 <offer id="vt-OMS 3411-30-5,2л-Gre" available="true">
 <price>2199</price>
@@ -36929,7 +36266,7 @@
 <price>559</price>
 </offer>
 <offer id="vt-29-298-037" available="true">
-<price>379</price>
+<price>389</price>
 </offer>
 <offer id="vt-29-298-032" available="true">
 <price>559</price>
@@ -36938,7 +36275,7 @@
 <price>649</price>
 </offer>
 <offer id="vt-26-184-026" available="true">
-<price>529</price>
+<price>539</price>
 </offer>
 <offer id="vt-88404" available="true">
 <price>209</price>
@@ -36953,7 +36290,7 @@
 <price>4819</price>
 </offer>
 <offer id="vt-OMS 2070-L-28-6,8л" available="true">
-<price>3939</price>
+<price>3949</price>
 </offer>
 <offer id="vt-OMS 2006-34-9,7л" available="true">
 <price>4469</price>
@@ -37016,7 +36353,7 @@
 <price>3399</price>
 </offer>
 <offer id="vt-IvoryOMS 3141-IND-28-6,6л" available="true">
-<price>4049</price>
+<price>4059</price>
 </offer>
 <offer id="vt-50427" available="true">
 <price>3319</price>
@@ -37043,7 +36380,7 @@
 <price>1039</price>
 </offer>
 <offer id="vt-26-238-108" available="true">
-<price>979</price>
+<price>989</price>
 </offer>
 <offer id="vt-26-238-092" available="true">
 <price>1039</price>
@@ -37052,10 +36389,10 @@
 <price>1089</price>
 </offer>
 <offer id="vt-26-238-110" available="true">
-<price>1239</price>
+<price>1249</price>
 </offer>
 <offer id="vt-26-238-094" available="true">
-<price>1199</price>
+<price>1209</price>
 </offer>
 <offer id="vt-26-238-103" available="true">
 <price>1409</price>
@@ -37079,7 +36416,7 @@
 <price>2429</price>
 </offer>
 <offer id="vt-26-247-029" available="true">
-<price>2409</price>
+<price>2419</price>
 </offer>
 <offer id="vt-26-247-030" available="true">
 <price>2519</price>
@@ -37115,7 +36452,7 @@
 <price>1789</price>
 </offer>
 <offer id="vt-26-303-019" available="true">
-<price>1819</price>
+<price>1829</price>
 </offer>
 <offer id="vt-26-303-020" available="true">
 <price>2029</price>
@@ -37124,7 +36461,7 @@
 <price>2219</price>
 </offer>
 <offer id="vt-26-303-022" available="true">
-<price>2399</price>
+<price>2409</price>
 </offer>
 <offer id="vt-26-303-007" available="true">
 <price>1609</price>
@@ -37154,7 +36491,7 @@
 <price>1409</price>
 </offer>
 <offer id="vt-OMS 2039-24-5.9 л" available="true">
-<price>2769</price>
+<price>2779</price>
 </offer>
 <offer id="vt-OMS 2038 S-16-1,8л" available="true">
 <price>1109</price>
@@ -37169,7 +36506,7 @@
 <price>1619</price>
 </offer>
 <offer id="vt-OMS 2050-20-3л" available="true">
-<price>1809</price>
+<price>1819</price>
 </offer>
 <offer id="vt-OMS 2050-22-4,3л" available="true">
 <price>1889</price>
@@ -37201,11 +36538,8 @@
 <offer id="vt-26-238-039" available="true">
 <price>1809</price>
 </offer>
-<offer id="vt-26-238-070" available="false">
-<price>2219</price>
-</offer>
 <offer id="vt-26-238-041" available="true">
-<price>2399</price>
+<price>2409</price>
 </offer>
 <offer id="vt-OMS 2038-SL-26" available="true">
 <price>2619</price>
@@ -37220,7 +36554,7 @@
 <price>2809</price>
 </offer>
 <offer id="vt-50443" available="true">
-<price>1579</price>
+<price>1589</price>
 </offer>
 <offer id="vt-26-238-106" available="true">
 <price>899</price>
@@ -37244,16 +36578,16 @@
 <price>4059</price>
 </offer>
 <offer id="vt-50050 (89050)" available="true">
-<price>2509</price>
+<price>2519</price>
 </offer>
 <offer id="vt-50157" available="true">
 <price>2329</price>
 </offer>
 <offer id="vt-50079" available="true">
-<price>2249</price>
+<price>2259</price>
 </offer>
 <offer id="vt-OMS 3023 IND-Gold" available="true">
-<price>12869</price>
+<price>12879</price>
 </offer>
 <offer id="vt-OMS 3024-IND-Ivory" available="true">
 <price>15049</price>
@@ -37277,7 +36611,7 @@
 <price>6239</price>
 </offer>
 <offer id="vt-26-238-096" available="true">
-<price>2089</price>
+<price>2529</price>
 </offer>
 <offer id="vt-26-295-011" available="true">
 <price>5429</price>
@@ -37328,7 +36662,7 @@
 <price>4199</price>
 </offer>
 <offer id="vt-25-45-222" available="true">
-<price>3119</price>
+<price>3129</price>
 </offer>
 <offer id="vt-88-222-113" available="true">
 <price>1649</price>
@@ -37367,7 +36701,7 @@
 <price>2619</price>
 </offer>
 <offer id="vt-25-45-144" available="true">
-<price>979</price>
+<price>989</price>
 </offer>
 <offer id="vt-25-45-242" available="true">
 <price>1019</price>
@@ -37388,7 +36722,7 @@
 <price>2129</price>
 </offer>
 <offer id="vt-88-222-131" available="true">
-<price>2289</price>
+<price>2309</price>
 </offer>
 <offer id="vt-25-45-178" available="true">
 <price>2429</price>
@@ -37412,7 +36746,7 @@
 <price>1339</price>
 </offer>
 <offer id="vt-25-305-087" available="true">
-<price>1709</price>
+<price>1719</price>
 </offer>
 <offer id="vt-88-222-117" available="true">
 <price>1929</price>
@@ -37424,7 +36758,7 @@
 <price>2329</price>
 </offer>
 <offer id="vt-88-222-124" available="true">
-<price>1349</price>
+<price>1359</price>
 </offer>
 <offer id="vt-88-222-126" available="true">
 <price>1799</price>
@@ -37469,7 +36803,7 @@
 <price>3179</price>
 </offer>
 <offer id="vt-50410" available="true">
-<price>1469</price>
+<price>1479</price>
 </offer>
 <offer id="vt-50422" available="true">
 <price>2669</price>
@@ -37538,7 +36872,7 @@
 <price>1279</price>
 </offer>
 <offer id="vt-25-45-256" available="true">
-<price>1789</price>
+<price>1799</price>
 </offer>
 <offer id="vt-25-45-257" available="true">
 <price>2219</price>
@@ -37574,16 +36908,13 @@
 <price>3489</price>
 </offer>
 <offer id="vt-OMS 2004-22- 2,3л" available="true">
-<price>2169</price>
+<price>2179</price>
 </offer>
 <offer id="vt-26-289-001" available="true">
 <price>1029</price>
 </offer>
 <offer id="vt-26-177-032" available="true">
 <price>1549</price>
-</offer>
-<offer id="vt-50372" available="false">
-<price>1439</price>
 </offer>
 <offer id="vt-24-237-018 KR" available="true">
 <price>179</price>
@@ -37607,7 +36938,7 @@
 <price>479</price>
 </offer>
 <offer id="vt-21-279-126" available="true">
-<price>369</price>
+<price>479</price>
 </offer>
 <offer id="vt-2N772 99A44 150" available="true">
 <price>3189</price>
@@ -37616,7 +36947,7 @@
 <price>1169</price>
 </offer>
 <offer id="vt-26-203-071" available="true">
-<price>1159</price>
+<price>1419</price>
 </offer>
 <offer id="vt-26-203-072" available="true">
 <price>1749</price>
@@ -37655,13 +36986,10 @@
 <price>1339</price>
 </offer>
 <offer id="vt-26-242-053" available="true">
-<price>2629</price>
+<price>2639</price>
 </offer>
 <offer id="vt-26-242-035" available="true">
-<price>1559</price>
-</offer>
-<offer id="vt-26-303-002" available="false">
-<price>2529</price>
+<price>1789</price>
 </offer>
 <offer id="vt-26-303-005" available="true">
 <price>2679</price>
@@ -37673,7 +37001,7 @@
 <price>649</price>
 </offer>
 <offer id="vt-29-298-067" available="true">
-<price>739</price>
+<price>749</price>
 </offer>
 <offer id="vt-29-298-075" available="true">
 <price>559</price>
@@ -37712,7 +37040,7 @@
 <price>489</price>
 </offer>
 <offer id="vt-29-298-023" available="true">
-<price>509</price>
+<price>519</price>
 </offer>
 <offer id="vt-29-298-071" available="true">
 <price>449</price>
@@ -37721,10 +37049,10 @@
 <price>639</price>
 </offer>
 <offer id="vt-29-298-025" available="true">
-<price>389</price>
+<price>399</price>
 </offer>
 <offer id="vt-29-298-022" available="true">
-<price>409</price>
+<price>419</price>
 </offer>
 <offer id="vt-29-298-057" available="true">
 <price>829</price>
@@ -37762,9 +37090,6 @@
 <offer id="vt-4S032 450" available="true">
 <price>1189</price>
 </offer>
-<offer id="vt-4S032 580" available="false">
-<price>1159</price>
-</offer>
 <offer id="vt-4S415 220" available="true">
 <price>1019</price>
 </offer>
@@ -37781,7 +37106,7 @@
 <price>1169</price>
 </offer>
 <offer id="vt-6835 280" available="true">
-<price>579</price>
+<price>719</price>
 </offer>
 <offer id="vt-6835 580" available="true">
 <price>699</price>
@@ -37793,7 +37118,7 @@
 <price>359</price>
 </offer>
 <offer id="vt-25015 230" available="true">
-<price>879</price>
+<price>889</price>
 </offer>
 <offer id="vt-25015 250" available="true">
 <price>949</price>
@@ -37823,7 +37148,7 @@
 <price>389</price>
 </offer>
 <offer id="vt-21-318-010" available="true">
-<price>389</price>
+<price>399</price>
 </offer>
 <offer id="vt-21-318-009" available="true">
 <price>339</price>
@@ -37832,10 +37157,10 @@
 <price>389</price>
 </offer>
 <offer id="vt-21-318-003" available="true">
-<price>389</price>
+<price>399</price>
 </offer>
 <offer id="vt-21-318-002" available="true">
-<price>389</price>
+<price>399</price>
 </offer>
 <offer id="vt-21-318-001" available="true">
 <price>439</price>
@@ -37844,10 +37169,10 @@
 <price>389</price>
 </offer>
 <offer id="vt-21-318-007" available="true">
-<price>389</price>
+<price>399</price>
 </offer>
 <offer id="vt-21-318-006" available="true">
-<price>389</price>
+<price>399</price>
 </offer>
 <offer id="vt-21-318-005" available="true">
 <price>439</price>
@@ -37859,7 +37184,7 @@
 <price>319</price>
 </offer>
 <offer id="vt-4404 270" available="true">
-<price>639</price>
+<price>649</price>
 </offer>
 <offer id="vt-50338" available="true">
 <price>859</price>
@@ -37877,13 +37202,13 @@
 <price>1089</price>
 </offer>
 <offer id="vt-50333" available="true">
-<price>879</price>
+<price>889</price>
 </offer>
 <offer id="vt-50332" available="true">
 <price>839</price>
 </offer>
 <offer id="vt-29-178-009" available="true">
-<price>299</price>
+<price>359</price>
 </offer>
 <offer id="vt-29-178-004" available="true">
 <price>329</price>
@@ -38333,7 +37658,7 @@
 <price>299</price>
 </offer>
 <offer id="lp-LP22571" available="true">
-<price>1539</price>
+<price>1819</price>
 </offer>
 <offer id="lp-LP30320" available="true">
 <price>439</price>
@@ -38381,7 +37706,7 @@
 <price>139</price>
 </offer>
 <offer id="lp-LP31338" available="true">
-<price>879</price>
+<price>1039</price>
 </offer>
 <offer id="lp-LP31346" available="true">
 <price>529</price>
@@ -38468,7 +37793,7 @@
 <price>34469</price>
 </offer>
 <offer id="lp-LP22883" available="true">
-<price>3079</price>
+<price>3629</price>
 </offer>
 <offer id="lp-LP23266" available="true">
 <price>5989</price>
@@ -38513,7 +37838,7 @@
 <price>1519</price>
 </offer>
 <offer id="lp-LP31173" available="true">
-<price>2309</price>
+<price>2719</price>
 </offer>
 <offer id="lp-LP37540" available="true">
 <price>102319</price>
@@ -38762,7 +38087,7 @@
 <price>9749</price>
 </offer>
 <offer id="lp-LP4134" available="true">
-<price>3079</price>
+<price>3629</price>
 </offer>
 <offer id="lp-LP41925" available="true">
 <price>442219</price>
@@ -38828,7 +38153,7 @@
 <price>1379</price>
 </offer>
 <offer id="lp-LP6557" available="true">
-<price>3219</price>
+<price>3789</price>
 </offer>
 <offer id="lp-LP9489" available="true">
 <price>4889</price>
@@ -38858,34 +38183,34 @@
 <price>3219</price>
 </offer>
 <offer id="lp-LP1213" available="true">
-<price>3349</price>
+<price>3939</price>
 </offer>
 <offer id="lp-LP1454" available="true">
 <price>3049</price>
 </offer>
 <offer id="lp-LP1456" available="true">
-<price>3879</price>
+<price>4559</price>
 </offer>
 <offer id="lp-LP1879" available="true">
 <price>2489</price>
 </offer>
 <offer id="lp-LP19339" available="true">
-<price>8049</price>
+<price>10909</price>
 </offer>
 <offer id="lp-LP19953" available="true">
 <price>1389</price>
 </offer>
 <offer id="lp-LP20054" available="true">
-<price>5049</price>
+<price>6529</price>
 </offer>
 <offer id="lp-LP20055" available="true">
-<price>8049</price>
+<price>10909</price>
 </offer>
 <offer id="lp-LP20166" available="true">
 <price>3409</price>
 </offer>
 <offer id="lp-LP20524" available="true">
-<price>8049</price>
+<price>10909</price>
 </offer>
 <offer id="lp-LP23002" available="true">
 <price>24579</price>
@@ -39098,13 +38423,13 @@
 <price>2689</price>
 </offer>
 <offer id="lp-LP4978" available="true">
-<price>3419</price>
+<price>4039</price>
 </offer>
 <offer id="lp-LP4980" available="true">
 <price>3349</price>
 </offer>
 <offer id="lp-LP4981" available="true">
-<price>3749</price>
+<price>4419</price>
 </offer>
 <offer id="lp-LP6615" available="true">
 <price>20749</price>
@@ -39212,7 +38537,7 @@
 <price>69</price>
 </offer>
 <offer id="lp-LP14587" available="true">
-<price>4149</price>
+<price>4889</price>
 </offer>
 <offer id="lp-LP15611" available="true">
 <price>629</price>
@@ -39221,10 +38546,10 @@
 <price>809</price>
 </offer>
 <offer id="lp-LP20313" available="true">
-<price>3349</price>
+<price>3939</price>
 </offer>
 <offer id="lp-LP20314" available="true">
-<price>4889</price>
+<price>5759</price>
 </offer>
 <offer id="lp-LP20315" available="true">
 <price>5819</price>
@@ -39260,7 +38585,7 @@
 <price>749</price>
 </offer>
 <offer id="lp-LP39001" available="true">
-<price>4349</price>
+<price>5129</price>
 </offer>
 <offer id="lp-LP4420" available="true">
 <price>149</price>
@@ -40631,22 +39956,22 @@
 <price>59919</price>
 </offer>
 <offer id="hc-HECHT9014" available="true">
-<price>7169</price>
+<price>8609</price>
 </offer>
 <offer id="hc-HECHT9015" available="true">
-<price>6959</price>
+<price>8349</price>
 </offer>
 <offer id="hc-HECHT9040" available="true">
 <price>17119</price>
 </offer>
 <offer id="hc-HECHT9200" available="true">
-<price>9209</price>
+<price>11049</price>
 </offer>
 <offer id="hc-HECHT9201E" available="true">
 <price>13909</price>
 </offer>
 <offer id="hc-HECHT9235" available="true">
-<price>10699</price>
+<price>12839</price>
 </offer>
 <offer id="hc-HECHT9334SQ" available="true">
 <price>98439</price>
@@ -40676,10 +40001,10 @@
 <price>78109</price>
 </offer>
 <offer id="hc-HECHT000650" available="true">
-<price>2139</price>
+<price>2569</price>
 </offer>
 <offer id="hc-HECHT000651" available="true">
-<price>2139</price>
+<price>2569</price>
 </offer>
 <offer id="hc-HECHT000670" available="true">
 <price>2139</price>
@@ -40733,10 +40058,10 @@
 <price>2139</price>
 </offer>
 <offer id="hc-HECHT901" available="true">
-<price>3429</price>
+<price>4109</price>
 </offer>
 <offer id="hc-HECHT902" available="true">
-<price>4279</price>
+<price>5139</price>
 </offer>
 <offer id="hc-HECHT2039" available="true">
 <price>3639</price>
@@ -40778,10 +40103,10 @@
 <price>369</price>
 </offer>
 <offer id="hc-HECHT9025" available="true">
-<price>4819</price>
+<price>5779</price>
 </offer>
 <offer id="hc-HECHT920" available="true">
-<price>4819</price>
+<price>5779</price>
 </offer>
 <offer id="hc-HECHT9260" available="true">
 <price>16049</price>
@@ -40802,7 +40127,7 @@
 <price>16049</price>
 </offer>
 <offer id="hc-HECHT971W" available="true">
-<price>4279</price>
+<price>5139</price>
 </offer>
 <offer id="hc-HECHT9750" available="true">
 <price>4929</price>
@@ -40817,7 +40142,7 @@
 <price>2139</price>
 </offer>
 <offer id="hc-HECHT9920" available="true">
-<price>3959</price>
+<price>4759</price>
 </offer>
 <offer id="hc-HECHT9922" available="true">
 <price>2469</price>
@@ -41039,7 +40364,7 @@
 <price>10699</price>
 </offer>
 <offer id="hc-HECHT628" available="true">
-<price>5889</price>
+<price>7069</price>
 </offer>
 <offer id="hc-HECHT6284XL" available="true">
 <price>10699</price>
@@ -41063,16 +40388,16 @@
 <price>74899</price>
 </offer>
 <offer id="hc-HECHT9250" available="true">
-<price>3749</price>
+<price>4499</price>
 </offer>
 <offer id="hc-HECHT9254" available="true">
 <price>7489</price>
 </offer>
 <offer id="hc-HECHT9280" available="true">
-<price>7279</price>
+<price>8739</price>
 </offer>
 <offer id="hc-HECHT94402IN1" available="true">
-<price>4709</price>
+<price>5649</price>
 </offer>
 <offer id="hc-HECHT952" available="true">
 <price>10699</price>
@@ -41207,10 +40532,10 @@
 <price>27819</price>
 </offer>
 <offer id="hc-HECHT445" available="true">
-<price>6419</price>
+<price>7709</price>
 </offer>
 <offer id="hc-HECHT8065" available="true">
-<price>6419</price>
+<price>7709</price>
 </offer>
 <offer id="hc-HECHT8101" available="true">
 <price>58849</price>
@@ -41222,7 +40547,7 @@
 <price>64199</price>
 </offer>
 <offer id="hc-HECHT8105" available="true">
-<price>10699</price>
+<price>12839</price>
 </offer>
 <offer id="hc-HECHT8615" available="true">
 <price>39589</price>
@@ -41273,7 +40598,7 @@
 <price>57779</price>
 </offer>
 <offer id="hc-HECHTGG950" available="true">
-<price>5569</price>
+<price>6679</price>
 </offer>
 <offer id="hc-HECHTIG1101" available="true">
 <price>13909</price>
@@ -41346,6 +40671,315 @@
 </offer>
 <offer id="PLX-70-033" available="true">
 <price>249</price>
+</offer>
+<offer id="lg-SOK-M-12-3" available="true">
+<price>119</price>
+</offer>
+<offer id="lg-SOK-M-12-4" available="true">
+<price>139</price>
+</offer>
+<offer id="lg-1000L100MGBL" available="true">
+<price>859</price>
+</offer>
+<offer id="lg-1000L100MGML" available="true">
+<price>859</price>
+</offer>
+<offer id="lg-1000L100MGW" available="true">
+<price>859</price>
+</offer>
+<offer id="lg-1000L100MGY" available="true">
+<price>859</price>
+</offer>
+<offer id="lg-1000L100MWBL" available="true">
+<price>859</price>
+</offer>
+<offer id="lg-1000L100MWW" available="true">
+<price>859</price>
+</offer>
+<offer id="lg-1000L100MWY" available="true">
+<price>859</price>
+</offer>
+<offer id="lg-100L10MWW" available="true">
+<price>189</price>
+</offer>
+<offer id="lg-100L10MWY" available="true">
+<price>189</price>
+</offer>
+<offer id="lg-12MBBL" available="true">
+<price>1049</price>
+</offer>
+<offer id="lg-12MBML" available="true">
+<price>1049</price>
+</offer>
+<offer id="lg-12MBW" available="true">
+<price>1049</price>
+</offer>
+<offer id="lg-12MBY" available="true">
+<price>1049</price>
+</offer>
+<offer id="lg-12MWBL" available="true">
+<price>1049</price>
+</offer>
+<offer id="lg-12MWML" available="true">
+<price>1049</price>
+</offer>
+<offer id="lg-12MWW" available="true">
+<price>1049</price>
+</offer>
+<offer id="lg-12MWY" available="true">
+<price>1049</price>
+</offer>
+<offer id="lg-1733012GW" available="true">
+<price>589</price>
+</offer>
+<offer id="lg-1733012GY" available="true">
+<price>589</price>
+</offer>
+<offer id="lg-1733012Y" available="true">
+<price>509</price>
+</offer>
+<offer id="lg-1733015GW" available="true">
+<price>839</price>
+</offer>
+<offer id="lg-1733015GY" available="true">
+<price>839</price>
+</offer>
+<offer id="lg-1733015W" available="true">
+<price>759</price>
+</offer>
+<offer id="lg-173301ML" available="true">
+<price>429</price>
+</offer>
+<offer id="lg-173302BL" available="true">
+<price>429</price>
+</offer>
+<offer id="lg-173303W" available="true">
+<price>429</price>
+</offer>
+<offer id="lg-1733042W" available="true">
+<price>1399</price>
+</offer>
+<offer id="lg-1733043GR" available="true">
+<price>1519</price>
+</offer>
+<offer id="lg-1733044W" available="true">
+<price>1519</price>
+</offer>
+<offer id="lg-1733051W" available="true">
+<price>909</price>
+</offer>
+<offer id="lg-1733053ML" available="true">
+<price>489</price>
+</offer>
+<offer id="lg-1733054BL" available="true">
+<price>489</price>
+</offer>
+<offer id="lg-1733055W" available="true">
+<price>489</price>
+</offer>
+<offer id="lg-173305ML" available="true">
+<price>469</price>
+</offer>
+<offer id="lg-1733061ML" available="true">
+<price>529</price>
+</offer>
+<offer id="lg-1733062BL" available="true">
+<price>529</price>
+</offer>
+<offer id="lg-1733063Y" available="true">
+<price>529</price>
+</offer>
+<offer id="lg-1733064W" available="true">
+<price>529</price>
+</offer>
+<offer id="lg-1733065ML" available="true">
+<price>509</price>
+</offer>
+<offer id="lg-1733066BL" available="true">
+<price>509</price>
+</offer>
+<offer id="lg-1733067W" available="true">
+<price>509</price>
+</offer>
+<offer id="lg-1733068Y" available="true">
+<price>509</price>
+</offer>
+<offer id="lg-1733069ML" available="true">
+<price>509</price>
+</offer>
+<offer id="lg-173306BL" available="true">
+<price>469</price>
+</offer>
+<offer id="lg-1733070BL" available="true">
+<price>509</price>
+</offer>
+<offer id="lg-1733071W" available="true">
+<price>509</price>
+</offer>
+<offer id="lg-1733072Y" available="true">
+<price>509</price>
+</offer>
+<offer id="lg-173307W" available="true">
+<price>469</price>
+</offer>
+<offer id="lg-173309ML" available="true">
+<price>279</price>
+</offer>
+<offer id="lg-2000L200MGBL" available="true">
+<price>1499</price>
+</offer>
+<offer id="lg-2000L200MGML" available="true">
+<price>1499</price>
+</offer>
+<offer id="lg-2000L200MGW" available="true">
+<price>1499</price>
+</offer>
+<offer id="lg-2000L200MGY" available="true">
+<price>1499</price>
+</offer>
+<offer id="lg-2000L200MWBL" available="true">
+<price>1499</price>
+</offer>
+<offer id="lg-2000L200MWML" available="true">
+<price>1499</price>
+</offer>
+<offer id="lg-2000L200MWW" available="true">
+<price>1499</price>
+</offer>
+<offer id="lg-2000L200MWY" available="true">
+<price>1499</price>
+</offer>
+<offer id="lg-2026-CR-3-2" available="true">
+<price>1819</price>
+</offer>
+<offer id="lg-2026-CR-3-3" available="true">
+<price>1399</price>
+</offer>
+<offer id="lg-2026-CR-3-8" available="true">
+<price>1819</price>
+</offer>
+<offer id="lg-20MBBL" available="true">
+<price>1559</price>
+</offer>
+<offer id="lg-20MBML" available="true">
+<price>1559</price>
+</offer>
+<offer id="lg-20MBW" available="true">
+<price>1559</price>
+</offer>
+<offer id="lg-20MBY" available="true">
+<price>1559</price>
+</offer>
+<offer id="lg-20MWBL" available="true">
+<price>1559</price>
+</offer>
+<offer id="lg-20MWML" available="true">
+<price>1559</price>
+</offer>
+<offer id="lg-20MWW" available="true">
+<price>1559</price>
+</offer>
+<offer id="lg-20MWY" available="true">
+<price>1559</price>
+</offer>
+<offer id="lg-25MBBL" available="true">
+<price>1809</price>
+</offer>
+<offer id="lg-25MBML" available="true">
+<price>1809</price>
+</offer>
+<offer id="lg-25MBW" available="true">
+<price>1809</price>
+</offer>
+<offer id="lg-25MBY" available="true">
+<price>1809</price>
+</offer>
+<offer id="lg-25MWBL" available="true">
+<price>1809</price>
+</offer>
+<offer id="lg-25MWML" available="true">
+<price>1809</price>
+</offer>
+<offer id="lg-25MWW" available="true">
+<price>1809</price>
+</offer>
+<offer id="lg-25MWY" available="true">
+<price>1809</price>
+</offer>
+<offer id="lg-30L3MGW" available="true">
+<price>69</price>
+</offer>
+<offer id="lg-30L3MWW" available="true">
+<price>49</price>
+</offer>
+<offer id="lg-36MBML" available="true">
+<price>2249</price>
+</offer>
+<offer id="lg-36MBW" available="true">
+<price>2249</price>
+</offer>
+<offer id="lg-36MBY" available="true">
+<price>2249</price>
+</offer>
+<offer id="lg-36MWBL" available="true">
+<price>2249</price>
+</offer>
+<offer id="lg-36MWML" available="true">
+<price>2249</price>
+</offer>
+<offer id="lg-36MWW" available="true">
+<price>2249</price>
+</offer>
+<offer id="lg-36MWY" available="true">
+<price>2249</price>
+</offer>
+<offer id="lg-500L50MGBL" available="true">
+<price>489</price>
+</offer>
+<offer id="lg-500L50MGW" available="true">
+<price>489</price>
+</offer>
+<offer id="lg-500L50MGY" available="true">
+<price>489</price>
+</offer>
+<offer id="lg-500L50MWBL" available="true">
+<price>489</price>
+</offer>
+<offer id="lg-500L50MWML" available="true">
+<price>489</price>
+</offer>
+<offer id="lg-500L50MWW" available="true">
+<price>489</price>
+</offer>
+<offer id="lg-500L50MWY" available="true">
+<price>489</price>
+</offer>
+<offer id="lg-50L5MWML" available="true">
+<price>79</price>
+</offer>
+<offer id="lg-50L5MWW" available="true">
+<price>79</price>
+</offer>
+<offer id="lg-50MBBL" available="true">
+<price>3109</price>
+</offer>
+<offer id="lg-50MBML" available="true">
+<price>3109</price>
+</offer>
+<offer id="lg-50MBW" available="true">
+<price>3109</price>
+</offer>
+<offer id="lg-50MBY" available="true">
+<price>3109</price>
+</offer>
+<offer id="lg-50MWBL" available="true">
+<price>3109</price>
+</offer>
+<offer id="lg-50MWML" available="true">
+<price>3109</price>
+</offer>
+<offer id="lg-50MWW" available="true">
+<price>3109</price>
 </offer>
 <offer id="PLX-310" available="true">
 <price>10</price>
