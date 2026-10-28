@@ -16048,7 +16048,7 @@
 <offer id="amt-181818" available="true">
 <price>239</price>
 </offer>
-<offer id="amt-181756" available="true">
+<offer id="amt-181756" available="false">
 <price>199</price>
 </offer>
 <offer id="amt-181755" available="true">
@@ -17713,7 +17713,7 @@
 <offer id="amt-181731" available="true">
 <price>329</price>
 </offer>
-<offer id="amt-162529" available="true">
+<offer id="amt-162529" available="false">
 <price>349</price>
 </offer>
 <offer id="amt-173570" available="true">
@@ -24708,9 +24708,6 @@
 </offer>
 <offer id="kv-38577236" available="true">
 <price>719</price>
-</offer>
-<offer id="kv-A5F7CE4D" available="false">
-<price>329</price>
 </offer>
 <offer id="kv-B3A4F499" available="true">
 <price>1979</price>
@@ -38716,7 +38713,7 @@
 <offer id="lp-LP3861" available="true">
 <price>669</price>
 </offer>
-<offer id="lp-LP40339" available="true">
+<offer id="lp-LP40339" available="false">
 <price>50169</price>
 </offer>
 <offer id="lp-LP40401" available="true">
@@ -38725,7 +38722,7 @@
 <offer id="lp-LP40458" available="true">
 <price>68529</price>
 </offer>
-<offer id="lp-LP40462" available="true">
+<offer id="lp-LP40462" available="false">
 <price>58469</price>
 </offer>
 <offer id="lp-LP40518" available="true">
@@ -41089,6 +41086,9 @@
 <offer id="lg-D2000L100MWW" available="true">
 <price>2559</price>
 </offer>
+<offer id="lg-D2000L100MWY" available="true">
+<price>2559</price>
+</offer>
 <offer id="lg-D3000L100MGBL" available="true">
 <price>3109</price>
 </offer>
@@ -43255,6 +43255,9 @@
 <offer id="amt-236401" available="true">
 <price>3649</price>
 </offer>
+<offer id="amt-208765" available="true">
+<price>3399</price>
+</offer>
 <offer id="amt-237011" available="true">
 <price>4629</price>
 </offer>
@@ -43290,9 +43293,6 @@
 </offer>
 <offer id="amt-219454" available="true">
 <price>128399</price>
-</offer>
-<offer id="amt-251376" available="true">
-<price>1.07e+06</price>
 </offer>
 <offer id="amt-257420" available="true">
 <price>1719</price>
@@ -43462,7 +43462,7 @@
 <offer id="amt-148412" available="true">
 <price>6259</price>
 </offer>
-<offer id="amt-53951" available="true">
+<offer id="amt-53951" available="false">
 <price>7459</price>
 </offer>
 <offer id="amt-184688" available="true">
@@ -43804,6 +43804,9 @@
 <offer id="amt-184461" available="true">
 <price>699</price>
 </offer>
+<offer id="amt-244161" available="true">
+<price>5209</price>
+</offer>
 <offer id="amt-235326" available="true">
 <price>1719</price>
 </offer>
@@ -44068,7 +44071,7 @@
 <offer id="amt-100102N" available="true">
 <price>2859</price>
 </offer>
-<offer id="amt-43110" available="true">
+<offer id="amt-43110" available="false">
 <price>1499</price>
 </offer>
 <offer id="amt-230483" available="true">
@@ -44236,7 +44239,7 @@
 <offer id="amt-56506" available="true">
 <price>2099</price>
 </offer>
-<offer id="amt-196192" available="true">
+<offer id="amt-196192" available="false">
 <price>1789</price>
 </offer>
 <offer id="amt-43106" available="true">
@@ -44725,7 +44728,7 @@
 <offer id="amt-244923" available="true">
 <price>7919</price>
 </offer>
-<offer id="amt-245342" available="true">
+<offer id="amt-245342" available="false">
 <price>7489</price>
 </offer>
 <offer id="amt-194837" available="true">
@@ -44836,10 +44839,10 @@
 <offer id="lp-LP22733" available="true">
 <price>849</price>
 </offer>
-<offer id="lp-LP42382" available="true">
+<offer id="lp-LP42382" available="false">
 <price>68529</price>
 </offer>
-<offer id="lp-LP42383" available="true">
+<offer id="lp-LP42383" available="false">
 <price>76699</price>
 </offer>
 <offer id="lp-LP42928" available="true">
