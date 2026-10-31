@@ -12379,9 +12379,6 @@
 <offer id="PLX-1-040-001" available="true">
 <price>35</price>
 </offer>
-<offer id="PLX-1-040-004" available="false">
-<price>35</price>
-</offer>
 <offer id="PLX-1-040-005" available="true">
 <price>35</price>
 </offer>
@@ -27148,9 +27145,6 @@
 <offer id="vt-80034" available="true">
 <price>569</price>
 </offer>
-<offer id="vt-80384" available="false">
-<price>199</price>
-</offer>
 <offer id="vt-80390" available="true">
 <price>229</price>
 </offer>
@@ -27891,9 +27885,6 @@
 </offer>
 <offer id="vt-9038-3" available="true">
 <price>489</price>
-</offer>
-<offer id="vt-9036" available="false">
-<price>1119</price>
 </offer>
 <offer id="vt-9037-02 S&amp;T" available="true">
 <price>639</price>
@@ -29158,9 +29149,6 @@
 <offer id="vt-1956" available="true">
 <price>229</price>
 </offer>
-<offer id="vt-1952" available="false">
-<price>209</price>
-</offer>
 <offer id="vt-1967" available="true">
 <price>289</price>
 </offer>
@@ -29247,9 +29235,6 @@
 </offer>
 <offer id="vt-1991" available="true">
 <price>229</price>
-</offer>
-<offer id="vt-5062" available="false">
-<price>329</price>
 </offer>
 <offer id="vt-5004" available="true">
 <price>349</price>
@@ -29493,9 +29478,6 @@
 </offer>
 <offer id="vt-1716" available="true">
 <price>229</price>
-</offer>
-<offer id="vt-1946" available="false">
-<price>289</price>
 </offer>
 <offer id="vt-1746" available="true">
 <price>259</price>
@@ -33961,14 +33943,8 @@
 <offer id="vt-EM-3426" available="true">
 <price>229</price>
 </offer>
-<offer id="vt-EM-2499" available="false">
-<price>359</price>
-</offer>
 <offer id="vt-0342" available="true">
 <price>209</price>
-</offer>
-<offer id="vt-7-851" available="false">
-<price>219</price>
 </offer>
 <offer id="vt-EM-3415" available="true">
 <price>109</price>
@@ -34011,9 +33987,6 @@
 </offer>
 <offer id="vt-B002-45" available="true">
 <price>249</price>
-</offer>
-<offer id="vt-EM-9642" available="false">
-<price>349</price>
 </offer>
 <offer id="vt-8920P" available="true">
 <price>1169</price>
@@ -39313,9 +39286,6 @@
 <offer id="lp-LP38994" available="true">
 <price>179</price>
 </offer>
-<offer id="lp-LP38995" available="false">
-<price>89</price>
-</offer>
 <offer id="lp-LP41502" available="true">
 <price>99</price>
 </offer>
@@ -39387,9 +39357,6 @@
 </offer>
 <offer id="lp-LP4428" available="true">
 <price>229</price>
-</offer>
-<offer id="lp-LP4429" available="false">
-<price>309</price>
 </offer>
 <offer id="lp-LP4430" available="true">
 <price>349</price>
@@ -39943,9 +39910,6 @@
 <offer id="lp-LP11033" available="true">
 <price>219</price>
 </offer>
-<offer id="lp-LP15881" available="false">
-<price>8909</price>
-</offer>
 <offer id="lp-LP15882" available="true">
 <price>9949</price>
 </offer>
@@ -40161,9 +40125,6 @@
 </offer>
 <offer id="lg-1733012GY" available="true">
 <price>589</price>
-</offer>
-<offer id="lg-1733012Y" available="false">
-<price>509</price>
 </offer>
 <offer id="lg-1733015GW" available="true">
 <price>839</price>
