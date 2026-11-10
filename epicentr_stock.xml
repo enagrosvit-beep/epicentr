@@ -1652,7 +1652,7 @@
 <price>579</price>
 </offer>
 <offer id="PLX-15-141-01" available="true">
-<price>709</price>
+<price>609</price>
 </offer>
 <offer id="PLX-K84089" available="true">
 <price>509</price>
@@ -10177,9 +10177,6 @@
 <offer id="PLX-НФ-00000853" available="true">
 <price>659</price>
 </offer>
-<offer id="PLX-НФ-00002483" available="false">
-<price>829</price>
-</offer>
 <offer id="PLX-НФ-00000870" available="true">
 <price>199</price>
 </offer>
@@ -12215,7 +12212,7 @@
 <price>489</price>
 </offer>
 <offer id="PLX-10-27" available="true">
-<price>299</price>
+<price>246</price>
 </offer>
 <offer id="PLX-10-38" available="true">
 <price>809</price>
@@ -12590,7 +12587,7 @@
 <price>529</price>
 </offer>
 <offer id="PLX-15-47-008" available="true">
-<price>579</price>
+<price>569</price>
 </offer>
 <offer id="PLX-15-103-001" available="true">
 <price>909</price>
@@ -13271,7 +13268,7 @@
 <price>249</price>
 </offer>
 <offer id="PLX-21-012" available="true">
-<price>259</price>
+<price>242</price>
 </offer>
 <offer id="PLX-57-003" available="true">
 <price>79</price>
@@ -16024,7 +16021,7 @@
 <offer id="amt-148599" available="true">
 <price>25</price>
 </offer>
-<offer id="amt-148600" available="true">
+<offer id="amt-148600" available="false">
 <price>25</price>
 </offer>
 <offer id="amt-148601" available="true">
@@ -16063,7 +16060,7 @@
 <offer id="amt-245083" available="true">
 <price>219</price>
 </offer>
-<offer id="amt-245084" available="true">
+<offer id="amt-245084" available="false">
 <price>499</price>
 </offer>
 <offer id="amt-192584" available="true">
@@ -16087,7 +16084,7 @@
 <offer id="amt-243441" available="true">
 <price>359</price>
 </offer>
-<offer id="amt-243442" available="true">
+<offer id="amt-243442" available="false">
 <price>459</price>
 </offer>
 <offer id="amt-189334" available="true">
@@ -16609,7 +16606,7 @@
 <offer id="amt-191523" available="true">
 <price>339</price>
 </offer>
-<offer id="amt-133894" available="true">
+<offer id="amt-133894" available="false">
 <price>729</price>
 </offer>
 <offer id="amt-193926" available="true">
@@ -17485,9 +17482,6 @@
 <offer id="amt-149682" available="true">
 <price>89</price>
 </offer>
-<offer id="amt-190261" available="false">
-<price>559</price>
-</offer>
 <offer id="amt-150780" available="true">
 <price>59</price>
 </offer>
@@ -17577,9 +17571,6 @@
 </offer>
 <offer id="amt-149671" available="true">
 <price>59</price>
-</offer>
-<offer id="amt-190279" available="false">
-<price>79</price>
 </offer>
 <offer id="amt-149672" available="true">
 <price>59</price>
@@ -17764,9 +17755,6 @@
 <offer id="amt-241655" available="true">
 <price>1909</price>
 </offer>
-<offer id="amt-241658" available="false">
-<price>3069</price>
-</offer>
 <offer id="amt-241659" available="true">
 <price>3499</price>
 </offer>
@@ -17778,9 +17766,6 @@
 </offer>
 <offer id="amt-16151" available="true">
 <price>2529</price>
-</offer>
-<offer id="amt-39854" available="false">
-<price>3659</price>
 </offer>
 <offer id="amt-39855" available="true">
 <price>4119</price>
@@ -18267,6 +18252,12 @@
 </offer>
 <offer id="0463" available="true">
 <price>4664</price>
+</offer>
+<offer id="lp-LP28118" available="true">
+<price>409</price>
+</offer>
+<offer id="lp-LP30941" available="true">
+<price>79</price>
 </offer>
 <offer id="0002" available="true">
 <price>319</price>
@@ -21802,9 +21793,6 @@
 <offer id="1818" available="true">
 <price>69</price>
 </offer>
-<offer id="1820" available="false">
-<price>45</price>
-</offer>
 <offer id="1821" available="true">
 <price>929</price>
 </offer>
@@ -23471,7 +23459,7 @@
 <price>209</price>
 </offer>
 <offer id="482019618" available="true">
-<price>929</price>
+<price>1119</price>
 </offer>
 <offer id="2229911329" available="true">
 <price>319</price>
@@ -25231,9 +25219,6 @@
 <offer id="sdm-0223" available="true">
 <price>35</price>
 </offer>
-<offer id="sdm-0224" available="false">
-<price>59</price>
-</offer>
 <offer id="sdm-0225" available="true">
 <price>35</price>
 </offer>
@@ -26659,15 +26644,6 @@
 <offer id="pns-9733" available="true">
 <price>729</price>
 </offer>
-<offer id="pns-9379" available="false">
-<price>1359</price>
-</offer>
-<offer id="pns-3084" available="false">
-<price>5949</price>
-</offer>
-<offer id="pns-9384" available="false">
-<price>1559</price>
-</offer>
 <offer id="pns-5474" available="true">
 <price>1199</price>
 </offer>
@@ -26676,9 +26652,6 @@
 </offer>
 <offer id="pns-9995" available="true">
 <price>779</price>
-</offer>
-<offer id="pns-9737" available="false">
-<price>589</price>
 </offer>
 <offer id="pns-9728" available="true">
 <price>569</price>
@@ -26701,26 +26674,8 @@
 <offer id="pns-3861" available="true">
 <price>3309</price>
 </offer>
-<offer id="pns-4738" available="false">
-<price>5019</price>
-</offer>
-<offer id="pns-9364" available="false">
-<price>5019</price>
-</offer>
-<offer id="pns-9354" available="false">
-<price>4399</price>
-</offer>
 <offer id="pns-10633" available="true">
 <price>2089</price>
-</offer>
-<offer id="pns-9372" available="false">
-<price>3459</price>
-</offer>
-<offer id="pns-9912" available="false">
-<price>5429</price>
-</offer>
-<offer id="pns-9913" available="false">
-<price>5529</price>
 </offer>
 <offer id="pns-9436" available="true">
 <price>2279</price>
@@ -26758,41 +26713,14 @@
 <offer id="pns-9994" available="true">
 <price>3709</price>
 </offer>
-<offer id="pns-3791" available="false">
-<price>909</price>
-</offer>
-<offer id="pns-3300" available="false">
-<price>2889</price>
-</offer>
-<offer id="pns-9397" available="false">
-<price>1369</price>
-</offer>
 <offer id="pns-8203" available="true">
 <price>699</price>
-</offer>
-<offer id="pns-9689" available="false">
-<price>1189</price>
-</offer>
-<offer id="pns-4820294501290" available="false">
-<price>1289</price>
-</offer>
-<offer id="pns-9741" available="false">
-<price>1389</price>
 </offer>
 <offer id="pns-9396" available="true">
 <price>1189</price>
 </offer>
-<offer id="pns-23001" available="false">
-<price>2369</price>
-</offer>
-<offer id="pns-9869" available="false">
-<price>1289</price>
-</offer>
 <offer id="pns-9742" available="true">
 <price>1219</price>
-</offer>
-<offer id="pns-8652" available="false">
-<price>639</price>
 </offer>
 <offer id="pns-4002" available="true">
 <price>1539</price>
@@ -26854,12 +26782,6 @@
 <offer id="pns-4217" available="true">
 <price>569</price>
 </offer>
-<offer id="pns-8111" available="false">
-<price>2319</price>
-</offer>
-<offer id="pns-19686163" available="false">
-<price>779</price>
-</offer>
 <offer id="pns-9123" available="true">
 <price>5449</price>
 </offer>
@@ -26868,9 +26790,6 @@
 </offer>
 <offer id="pns-3721" available="true">
 <price>6159</price>
-</offer>
-<offer id="pns-62001" available="false">
-<price>1329</price>
 </offer>
 <offer id="pns-4823058208459" available="true">
 <price>35</price>
@@ -26929,24 +26848,6 @@
 <offer id="pns-4820176690678" available="true">
 <price>35</price>
 </offer>
-<offer id="pns-4820176696311" available="false">
-<price>79</price>
-</offer>
-<offer id="pns-4820176696328" available="false">
-<price>89</price>
-</offer>
-<offer id="pns-4820176696335" available="false">
-<price>89</price>
-</offer>
-<offer id="pns-4820176692085" available="false">
-<price>109</price>
-</offer>
-<offer id="pns-4820176693440" available="false">
-<price>59</price>
-</offer>
-<offer id="pns-4820176696403" available="false">
-<price>109</price>
-</offer>
 <offer id="pns-4820176692061" available="true">
 <price>25</price>
 </offer>
@@ -26986,17 +26887,8 @@
 <offer id="pns-4820176692023" available="true">
 <price>25</price>
 </offer>
-<offer id="pns-4823058203584" available="false">
-<price>8</price>
-</offer>
-<offer id="pns-4823058208398" available="false">
-<price>99</price>
-</offer>
 <offer id="pns-4823058201498" available="true">
 <price>8</price>
-</offer>
-<offer id="pns-4823058200330" available="false">
-<price>10</price>
 </offer>
 <offer id="pns-4820176690326" available="true">
 <price>69</price>
@@ -27067,9 +26959,6 @@
 <offer id="pns-4820176693365" available="true">
 <price>35</price>
 </offer>
-<offer id="pns-4820176694133" available="false">
-<price>7</price>
-</offer>
 <offer id="pns-4820176696168" available="true">
 <price>25</price>
 </offer>
@@ -27115,9 +27004,6 @@
 <offer id="pns-4820176690319" available="true">
 <price>45</price>
 </offer>
-<offer id="pns-4823058203546" available="false">
-<price>9</price>
-</offer>
 <offer id="pns-4820176696588" available="true">
 <price>35</price>
 </offer>
@@ -27138,9 +27024,6 @@
 </offer>
 <offer id="pns-4823058202204" available="true">
 <price>25</price>
-</offer>
-<offer id="pns-4820176690784" available="false">
-<price>89</price>
 </offer>
 <offer id="pns-4820176697943" available="true">
 <price>89</price>
@@ -27190,32 +27073,14 @@
 <offer id="pns-4820176693464" available="true">
 <price>59</price>
 </offer>
-<offer id="pns-4820176694065" available="false">
-<price>45</price>
-</offer>
-<offer id="pns-4820176696953" available="false">
-<price>35</price>
-</offer>
-<offer id="pns-4820176692115" available="false">
-<price>35</price>
-</offer>
 <offer id="pns-4820176692177" available="true">
 <price>279</price>
-</offer>
-<offer id="pns-4820176692122" available="false">
-<price>35</price>
 </offer>
 <offer id="pns-4820176692184" available="true">
 <price>279</price>
 </offer>
 <offer id="pns-4823058206691" available="true">
 <price>369</price>
-</offer>
-<offer id="pns-4823058206684" available="false">
-<price>35</price>
-</offer>
-<offer id="pns-4823058201108" available="false">
-<price>45</price>
 </offer>
 <offer id="pns-4820176692672" available="true">
 <price>45</price>
@@ -27229,14 +27094,8 @@
 <offer id="pns-4820176692689" available="true">
 <price>35</price>
 </offer>
-<offer id="pns-4820176693631" available="false">
-<price>35</price>
-</offer>
 <offer id="pns-4823058208541" available="true">
 <price>35</price>
-</offer>
-<offer id="pns-4820176693624" available="false">
-<price>59</price>
 </offer>
 <offer id="pns-4820176690463" available="true">
 <price>59</price>
@@ -27298,19 +27157,10 @@
 <offer id="pns-4820176696915" available="true">
 <price>8</price>
 </offer>
-<offer id="pns-4823058201160" available="false">
-<price>9</price>
-</offer>
 <offer id="pns-4823058200866" available="true">
 <price>109</price>
 </offer>
-<offer id="pns-4820176696120" available="false">
-<price>25</price>
-</offer>
 <offer id="pns-4820176693969" available="true">
-<price>25</price>
-</offer>
-<offer id="pns-4820176696137" available="false">
 <price>25</price>
 </offer>
 <offer id="pns-4823058200590" available="true">
@@ -27342,9 +27192,6 @@
 </offer>
 <offer id="pns-4820176693679" available="true">
 <price>9</price>
-</offer>
-<offer id="pns-4820176692863" available="false">
-<price>45</price>
 </offer>
 <offer id="pns-4823058206127" available="true">
 <price>35</price>
@@ -39925,9 +39772,6 @@
 <offer id="lp-LP29596" available="true">
 <price>229</price>
 </offer>
-<offer id="lp-LP31172" available="false">
-<price>1519</price>
-</offer>
 <offer id="lp-LP31173" available="true">
 <price>2719</price>
 </offer>
@@ -39994,12 +39838,6 @@
 <offer id="lp-LP40613" available="true">
 <price>2.27201e+06</price>
 </offer>
-<offer id="lp-LP40616" available="false">
-<price>166389</price>
-</offer>
-<offer id="lp-LP40617" available="false">
-<price>166389</price>
-</offer>
 <offer id="lp-LP40686" available="true">
 <price>160259</price>
 </offer>
@@ -40011,9 +39849,6 @@
 </offer>
 <offer id="lp-LP42191" available="true">
 <price>2339</price>
-</offer>
-<offer id="lp-LP42381" available="false">
-<price>153579</price>
 </offer>
 <offer id="lp-LP6550" available="true">
 <price>1379</price>
@@ -41242,9 +41077,6 @@
 <offer id="lp-LP20267" available="true">
 <price>16439</price>
 </offer>
-<offer id="lp-LP20290" available="false">
-<price>179</price>
-</offer>
 <offer id="lp-LP20373" available="true">
 <price>4029</price>
 </offer>
@@ -41398,9 +41230,6 @@
 <offer id="xt-2363589018" available="true">
 <price>1059</price>
 </offer>
-<offer id="xt-2363589020" available="false">
-<price>1059</price>
-</offer>
 <offer id="xt-2363589025" available="true">
 <price>799</price>
 </offer>
@@ -41412,9 +41241,6 @@
 </offer>
 <offer id="xt-2363589034" available="true">
 <price>809</price>
-</offer>
-<offer id="xt-2830983862" available="false">
-<price>949</price>
 </offer>
 <offer id="xt-2830983863" available="true">
 <price>1059</price>
@@ -42190,7 +42016,7 @@
 <offer id="lg-D3000L100MWML" available="true">
 <price>2559</price>
 </offer>
-<offer id="lg-D3000L100MWW" available="true">
+<offer id="lg-D3000L100MWW" available="false">
 <price>2559</price>
 </offer>
 <offer id="lg-D400LED2MW" available="true">
@@ -44410,9 +44236,6 @@
 <offer id="amt-192926" available="true">
 <price>339</price>
 </offer>
-<offer id="amt-244815" available="false">
-<price>38809</price>
-</offer>
 <offer id="amt-177323" available="true">
 <price>379</price>
 </offer>
@@ -44637,9 +44460,6 @@
 </offer>
 <offer id="amt-119303" available="true">
 <price>4279</price>
-</offer>
-<offer id="amt-235335" available="false">
-<price>819</price>
 </offer>
 <offer id="amt-141916" available="true">
 <price>2939</price>
@@ -44959,9 +44779,6 @@
 <offer id="amt-100102N" available="true">
 <price>3779</price>
 </offer>
-<offer id="amt-43110" available="false">
-<price>1589</price>
-</offer>
 <offer id="amt-230483" available="true">
 <price>1689</price>
 </offer>
@@ -45057,9 +44874,6 @@
 </offer>
 <offer id="amt-150642" available="true">
 <price>41149</price>
-</offer>
-<offer id="amt-181683" available="false">
-<price>2649</price>
 </offer>
 <offer id="amt-90217N" available="true">
 <price>1389</price>
@@ -45213,9 +45027,6 @@
 </offer>
 <offer id="amt-160114" available="true">
 <price>26199</price>
-</offer>
-<offer id="amt-195710" available="false">
-<price>429</price>
 </offer>
 <offer id="amt-56503" available="true">
 <price>649</price>
@@ -45496,9 +45307,6 @@
 <offer id="amt-123076" available="true">
 <price>37209</price>
 </offer>
-<offer id="amt-123072" available="false">
-<price>20419</price>
-</offer>
 <offer id="amt-54730" available="true">
 <price>21559</price>
 </offer>
@@ -45579,6 +45387,9 @@
 </offer>
 <offer id="amt-181978" available="true">
 <price>8019</price>
+</offer>
+<offer id="amt-182526" available="true">
+<price>8399</price>
 </offer>
 <offer id="amt-181980" available="true">
 <price>10279</price>
@@ -45696,9 +45507,6 @@
 </offer>
 <offer id="lp-LP42382" available="true">
 <price>72789</price>
-</offer>
-<offer id="lp-LP42383" available="false">
-<price>81469</price>
 </offer>
 <offer id="lp-LP42928" available="true">
 <price>688299</price>
@@ -46002,6 +45810,3156 @@
 </offer>
 <offer id="lg-CM-121E" available="true">
 <price>3039</price>
+</offer>
+<offer id="lp-LP14334" available="true">
+<price>259</price>
+</offer>
+<offer id="lp-LP14335" available="true">
+<price>259</price>
+</offer>
+<offer id="lp-LP8846" available="true">
+<price>189</price>
+</offer>
+<offer id="lp-LP8850" available="true">
+<price>189</price>
+</offer>
+<offer id="lp-LP17041" available="true">
+<price>299</price>
+</offer>
+<offer id="lp-LP36227" available="true">
+<price>4809</price>
+</offer>
+<offer id="lp-LP19465" available="true">
+<price>119</price>
+</offer>
+<offer id="lp-LP19466" available="true">
+<price>79</price>
+</offer>
+<offer id="lp-LP19467" available="true">
+<price>129</price>
+</offer>
+<offer id="lp-LP19468" available="true">
+<price>219</price>
+</offer>
+<offer id="lp-LP19469" available="true">
+<price>359</price>
+</offer>
+<offer id="lp-LP19470" available="true">
+<price>489</price>
+</offer>
+<offer id="lp-LP19472" available="true">
+<price>909</price>
+</offer>
+<offer id="lp-LP19686" available="true">
+<price>25</price>
+</offer>
+<offer id="lp-LP19687" available="true">
+<price>59</price>
+</offer>
+<offer id="lp-LP19688" available="true">
+<price>59</price>
+</offer>
+<offer id="lp-LP19689" available="true">
+<price>89</price>
+</offer>
+<offer id="lp-LP19690" available="true">
+<price>89</price>
+</offer>
+<offer id="lp-LP19691" available="true">
+<price>159</price>
+</offer>
+<offer id="lp-LP19693" available="true">
+<price>39</price>
+</offer>
+<offer id="lp-LP20130" available="true">
+<price>409</price>
+</offer>
+<offer id="lp-LP20133" available="true">
+<price>529</price>
+</offer>
+<offer id="lp-LP20142" available="true">
+<price>249</price>
+</offer>
+<offer id="lp-LP20143" available="true">
+<price>379</price>
+</offer>
+<offer id="lp-LP20144" available="true">
+<price>599</price>
+</offer>
+<offer id="lp-LP20690" available="true">
+<price>499</price>
+</offer>
+<offer id="lp-LP22478" available="true">
+<price>5679</price>
+</offer>
+<offer id="lp-LP22973" available="true">
+<price>429</price>
+</offer>
+<offer id="lp-LP22974" available="true">
+<price>379</price>
+</offer>
+<offer id="lp-LP23692" available="true">
+<price>119</price>
+</offer>
+<offer id="lp-LP23808" available="true">
+<price>8599</price>
+</offer>
+<offer id="lp-LP23809" available="true">
+<price>669</price>
+</offer>
+<offer id="lp-LP23810" available="true">
+<price>849</price>
+</offer>
+<offer id="lp-LP23812" available="true">
+<price>6769</price>
+</offer>
+<offer id="lp-LP23815" available="true">
+<price>579</price>
+</offer>
+<offer id="lp-LP24064" available="true">
+<price>25</price>
+</offer>
+<offer id="lp-LP29732" available="true">
+<price>129</price>
+</offer>
+<offer id="lp-LP30252" available="true">
+<price>59</price>
+</offer>
+<offer id="lp-LP3571" available="true">
+<price>1009</price>
+</offer>
+<offer id="lp-LP3572" available="true">
+<price>1079</price>
+</offer>
+<offer id="lp-LP3587" available="true">
+<price>1239</price>
+</offer>
+<offer id="lp-LP3588" available="true">
+<price>949</price>
+</offer>
+<offer id="lp-LP3589" available="true">
+<price>3669</price>
+</offer>
+<offer id="lp-LP3590" available="true">
+<price>3489</price>
+</offer>
+<offer id="lp-LP3649" available="true">
+<price>79</price>
+</offer>
+<offer id="lp-LP3651" available="true">
+<price>79</price>
+</offer>
+<offer id="lp-LP37266" available="true">
+<price>79</price>
+</offer>
+<offer id="lp-LP5466" available="true">
+<price>199</price>
+</offer>
+<offer id="lp-LP8762" available="true">
+<price>1399</price>
+</offer>
+<offer id="lp-LP9461" available="true">
+<price>89</price>
+</offer>
+<offer id="lg-CX-6622" available="true">
+<price>1889</price>
+</offer>
+<offer id="lg-HB202A" available="true">
+<price>549</price>
+</offer>
+<offer id="lg-HJT008SBST" available="true">
+<price>1819</price>
+</offer>
+<offer id="lg-HP-11-10G" available="true">
+<price>789</price>
+</offer>
+<offer id="lg-HP-11-10GR" available="true">
+<price>789</price>
+</offer>
+<offer id="lg-HP-11-10W" available="true">
+<price>789</price>
+</offer>
+<offer id="lg-HP-11-11BL" available="true">
+<price>1199</price>
+</offer>
+<offer id="lg-HP-11-14" available="true">
+<price>2179</price>
+</offer>
+<offer id="lg-HP-11-15W" available="true">
+<price>869</price>
+</offer>
+<offer id="lg-HP-11-16" available="true">
+<price>2289</price>
+</offer>
+<offer id="lg-HP-11-16GR" available="true">
+<price>2289</price>
+</offer>
+<offer id="lg-HP-11-17W" available="true">
+<price>2109</price>
+</offer>
+<offer id="lg-HP-11-18" available="true">
+<price>2179</price>
+</offer>
+<offer id="lg-HP-11-19" available="true">
+<price>109</price>
+</offer>
+<offer id="lg-HP-11-20" available="true">
+<price>109</price>
+</offer>
+<offer id="lg-HP-11-22" available="true">
+<price>239</price>
+</offer>
+<offer id="lg-HP-11-23" available="true">
+<price>279</price>
+</offer>
+<offer id="lg-HP-11-24" available="true">
+<price>79</price>
+</offer>
+<offer id="lg-HP-11-25" available="true">
+<price>89</price>
+</offer>
+<offer id="lg-HP-11-29B" available="true">
+<price>2229</price>
+</offer>
+<offer id="lg-HP-11-29BL" available="true">
+<price>2229</price>
+</offer>
+<offer id="lg-HP-11-29G" available="true">
+<price>2229</price>
+</offer>
+<offer id="lg-HP-11-29W" available="true">
+<price>2229</price>
+</offer>
+<offer id="lg-HP-11-4" available="true">
+<price>2179</price>
+</offer>
+<offer id="lg-HP-11-5" available="true">
+<price>2849</price>
+</offer>
+<offer id="lg-HP-11-6" available="true">
+<price>509</price>
+</offer>
+<offer id="lg-HP-11-6697BB" available="true">
+<price>2099</price>
+</offer>
+<offer id="lg-HP-11-6697BSV" available="true">
+<price>2099</price>
+</offer>
+<offer id="lg-HP-11-6703BB" available="true">
+<price>2209</price>
+</offer>
+<offer id="lg-HP-11-6703BSV" available="true">
+<price>2209</price>
+</offer>
+<offer id="lg-HP-11-7" available="true">
+<price>679</price>
+</offer>
+<offer id="lg-HP-11-8" available="true">
+<price>849</price>
+</offer>
+<offer id="lg-HP-11-9" available="true">
+<price>1179</price>
+</offer>
+<offer id="lg-HP-3P" available="true">
+<price>3879</price>
+</offer>
+<offer id="lg-HP-3PBL" available="true">
+<price>3799</price>
+</offer>
+<offer id="lg-HP-4BL" available="true">
+<price>21399</price>
+</offer>
+<offer id="lg-HP-4PBL" available="true">
+<price>21399</price>
+</offer>
+<offer id="lg-HP-4R" available="true">
+<price>21399</price>
+</offer>
+<offer id="lg-HP-6" available="true">
+<price>439</price>
+</offer>
+<offer id="lg-HP-8-70" available="true">
+<price>89</price>
+</offer>
+<offer id="lg-HP-AP-20" available="true">
+<price>6459</price>
+</offer>
+<offer id="lg-HP-AP-23" available="true">
+<price>2229</price>
+</offer>
+<offer id="lg-HP-AP-25P" available="true">
+<price>2989</price>
+</offer>
+<offer id="lg-HP-AP-26P" available="true">
+<price>2229</price>
+</offer>
+<offer id="lg-HP-AP-28" available="true">
+<price>6459</price>
+</offer>
+<offer id="lg-HP-DS3-1" available="true">
+<price>839</price>
+</offer>
+<offer id="lg-HP-GM231" available="true">
+<price>499</price>
+</offer>
+<offer id="lg-HP-SC-002-white" available="true">
+<price>2229</price>
+</offer>
+<offer id="lg-HP-UR-1" available="true">
+<price>4019</price>
+</offer>
+<offer id="lg-HP-V-009" available="true">
+<price>1199</price>
+</offer>
+<offer id="lg-HP-V-029" available="true">
+<price>1799</price>
+</offer>
+<offer id="lg-HP-V-030" available="true">
+<price>899</price>
+</offer>
+<offer id="lg-HP-V-031" available="true">
+<price>829</price>
+</offer>
+<offer id="lg-HP-V-071" available="true">
+<price>879</price>
+</offer>
+<offer id="lg-HP-V-082" available="true">
+<price>1279</price>
+</offer>
+<offer id="lg-HP-V-105" available="true">
+<price>1979</price>
+</offer>
+<offer id="lg-HP-V-151" available="true">
+<price>1609</price>
+</offer>
+<offer id="lg-HP-V-155" available="true">
+<price>1559</price>
+</offer>
+<offer id="lg-HP-V-179" available="true">
+<price>1269</price>
+</offer>
+<offer id="lg-HP-V-191" available="true">
+<price>849</price>
+</offer>
+<offer id="lg-HP-V-256" available="true">
+<price>3799</price>
+</offer>
+<offer id="lg-HP-V-282" available="true">
+<price>1439</price>
+</offer>
+<offer id="lg-HP-V-306" available="true">
+<price>1679</price>
+</offer>
+<offer id="lg-HP-V-493" available="true">
+<price>2309</price>
+</offer>
+<offer id="lg-HP-V-596" available="true">
+<price>799</price>
+</offer>
+<offer id="lg-HP-V-644" available="true">
+<price>3639</price>
+</offer>
+<offer id="lg-HP-V-683" available="true">
+<price>1609</price>
+</offer>
+<offer id="lg-HP-V-695" available="true">
+<price>2519</price>
+</offer>
+<offer id="lg-HP-V-699W" available="true">
+<price>1509</price>
+</offer>
+<offer id="lg-HP-V-923" available="true">
+<price>1979</price>
+</offer>
+<offer id="lg-HP-V-961" available="true">
+<price>1589</price>
+</offer>
+<offer id="lg-HP-V-986" available="true">
+<price>909</price>
+</offer>
+<offer id="lg-HP7951B" available="true">
+<price>1399</price>
+</offer>
+<offer id="lg-HP7952G" available="true">
+<price>1399</price>
+</offer>
+<offer id="lg-HP7954W" available="true">
+<price>1279</price>
+</offer>
+<offer id="lg-HPBH16985P" available="true">
+<price>279</price>
+</offer>
+<offer id="lg-HPBH17128P" available="true">
+<price>409</price>
+</offer>
+<offer id="lg-HPBH17128W" available="true">
+<price>409</price>
+</offer>
+<offer id="lg-HPBH17200P" available="true">
+<price>199</price>
+</offer>
+<offer id="lg-HPBH17201P" available="true">
+<price>199</price>
+</offer>
+<offer id="lg-HPBH17202P" available="true">
+<price>199</price>
+</offer>
+<offer id="lg-HPKP6049B" available="true">
+<price>1219</price>
+</offer>
+<offer id="lg-HPKP6049W" available="true">
+<price>1219</price>
+</offer>
+<offer id="lg-HPSD865" available="true">
+<price>949</price>
+</offer>
+<offer id="lg-HPV494B" available="true">
+<price>1659</price>
+</offer>
+<offer id="lg-HPV530" available="true">
+<price>1139</price>
+</offer>
+<offer id="lg-HPV613" available="true">
+<price>589</price>
+</offer>
+<offer id="lg-HPV671" available="true">
+<price>2749</price>
+</offer>
+<offer id="lg-HPV677" available="true">
+<price>2269</price>
+</offer>
+<offer id="lg-HPV706P" available="true">
+<price>809</price>
+</offer>
+<offer id="lg-JE204" available="true">
+<price>1219</price>
+</offer>
+<offer id="lg-KJ-510" available="true">
+<price>2159</price>
+</offer>
+<offer id="lg-LB58006" available="true">
+<price>1189</price>
+</offer>
+<offer id="lg-LZ599" available="true">
+<price>1399</price>
+</offer>
+<offer id="lg-PH770BLG" available="true">
+<price>3039</price>
+</offer>
+<offer id="lg-PH770G" available="true">
+<price>3039</price>
+</offer>
+<offer id="lg-PH770GGOLD" available="true">
+<price>3039</price>
+</offer>
+<offer id="lg-PH770P" available="true">
+<price>3039</price>
+</offer>
+<offer id="lg-PH770PBL" available="true">
+<price>3039</price>
+</offer>
+<offer id="lg-PH770V" available="true">
+<price>3039</price>
+</offer>
+<offer id="lg-RCY-173i" available="true">
+<price>479</price>
+</offer>
+<offer id="lg-SD903" available="true">
+<price>1619</price>
+</offer>
+<offer id="lg-SK-01023BL" available="true">
+<price>2009</price>
+</offer>
+<offer id="lg-SK-01023M" available="true">
+<price>2009</price>
+</offer>
+<offer id="lg-SK-02012B" available="true">
+<price>1569</price>
+</offer>
+<offer id="lg-SK-02012G" available="true">
+<price>1569</price>
+</offer>
+<offer id="lg-SK-03024" available="true">
+<price>15009</price>
+</offer>
+<offer id="lg-SK-03029" available="true">
+<price>3809</price>
+</offer>
+<offer id="lg-SK-03030" available="true">
+<price>2479</price>
+</offer>
+<offer id="lg-SK-03037" available="true">
+<price>9359</price>
+</offer>
+<offer id="lg-SK-03038" available="true">
+<price>6839</price>
+</offer>
+<offer id="lg-SK-03047" available="true">
+<price>7429</price>
+</offer>
+<offer id="lg-SK-03075" available="true">
+<price>1899</price>
+</offer>
+<offer id="lg-SK-04010" available="true">
+<price>8509</price>
+</offer>
+<offer id="lg-SK-04026" available="true">
+<price>1029</price>
+</offer>
+<offer id="lg-SK-04032" available="true">
+<price>25239</price>
+</offer>
+<offer id="lg-SK-05001" available="true">
+<price>10019</price>
+</offer>
+<offer id="lg-SK-07003" available="true">
+<price>2569</price>
+</offer>
+<offer id="lg-SK-07004" available="true">
+<price>2309</price>
+</offer>
+<offer id="lg-SK-07010" available="true">
+<price>3619</price>
+</offer>
+<offer id="lg-SK-07018" available="true">
+<price>3029</price>
+</offer>
+<offer id="lg-SK-07022" available="true">
+<price>1439</price>
+</offer>
+<offer id="lg-SK-07023" available="true">
+<price>839</price>
+</offer>
+<offer id="lg-SK-07053" available="true">
+<price>4459</price>
+</offer>
+<offer id="lg-SK-07068" available="true">
+<price>849</price>
+</offer>
+<offer id="lg-SK-07069" available="true">
+<price>2049</price>
+</offer>
+<offer id="lg-SK-08026" available="true">
+<price>2429</price>
+</offer>
+<offer id="lg-SK-08085" available="true">
+<price>2189</price>
+</offer>
+<offer id="lg-SK-08105" available="true">
+<price>2869</price>
+</offer>
+<offer id="lg-SK-08137" available="true">
+<price>3239</price>
+</offer>
+<offer id="lg-SK-08146" available="true">
+<price>7679</price>
+</offer>
+<offer id="lg-SK-08153" available="true">
+<price>2229</price>
+</offer>
+<offer id="lg-SK-087" available="true">
+<price>3379</price>
+</offer>
+<offer id="lg-SK-09018G" available="true">
+<price>1479</price>
+</offer>
+<offer id="lg-SK-094" available="true">
+<price>9289</price>
+</offer>
+<offer id="lg-SK-10018" available="true">
+<price>7789</price>
+</offer>
+<offer id="lg-SK-1032B" available="true">
+<price>1659</price>
+</offer>
+<offer id="lg-SK-11031" available="true">
+<price>3179</price>
+</offer>
+<offer id="lg-SK-11045" available="true">
+<price>1629</price>
+</offer>
+<offer id="lg-SK-1180" available="true">
+<price>5249</price>
+</offer>
+<offer id="lg-SK-119" available="true">
+<price>799</price>
+</offer>
+<offer id="lg-SK-119GR" available="true">
+<price>799</price>
+</offer>
+<offer id="lg-SK-12003" available="true">
+<price>1719</price>
+</offer>
+<offer id="lg-SK-12008" available="true">
+<price>1559</price>
+</offer>
+<offer id="lg-SK-124" available="true">
+<price>2009</price>
+</offer>
+<offer id="lg-SK-13006" available="true">
+<price>8819</price>
+</offer>
+<offer id="lg-SK-13007" available="true">
+<price>9379</price>
+</offer>
+<offer id="lg-SK-13020" available="true">
+<price>6239</price>
+</offer>
+<offer id="lg-SK-13038" available="true">
+<price>15369</price>
+</offer>
+<offer id="lg-SK-13039" available="true">
+<price>15979</price>
+</offer>
+<offer id="lg-SK-16040" available="true">
+<price>759</price>
+</offer>
+<offer id="lg-SK-1726O" available="true">
+<price>1129</price>
+</offer>
+<offer id="lg-SK-1726P" available="true">
+<price>1169</price>
+</offer>
+<offer id="lg-SK-1736" available="true">
+<price>1439</price>
+</offer>
+<offer id="lg-SK-1737" available="true">
+<price>2229</price>
+</offer>
+<offer id="lg-SK-174" available="true">
+<price>539</price>
+</offer>
+<offer id="lg-SK-187" available="true">
+<price>4619</price>
+</offer>
+<offer id="lg-SK-19019BL" available="true">
+<price>489</price>
+</offer>
+<offer id="lg-SK-19023B" available="true">
+<price>399</price>
+</offer>
+<offer id="lg-SK-19023BL" available="true">
+<price>399</price>
+</offer>
+<offer id="lg-SK-19023ML" available="true">
+<price>399</price>
+</offer>
+<offer id="lg-SK-19027M" available="true">
+<price>399</price>
+</offer>
+<offer id="lg-SK-19029GR" available="true">
+<price>489</price>
+</offer>
+<offer id="lg-SK-19029V" available="true">
+<price>489</price>
+</offer>
+<offer id="lg-SK-19041" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-SK-19047" available="true">
+<price>1569</price>
+</offer>
+<offer id="lg-SK-2213" available="true">
+<price>1179</price>
+</offer>
+<offer id="lg-SK-2214" available="true">
+<price>1159</price>
+</offer>
+<offer id="lg-SK-2215" available="true">
+<price>1239</price>
+</offer>
+<offer id="lg-SK-273BG" available="true">
+<price>1159</price>
+</offer>
+<offer id="lg-SK-3024" available="true">
+<price>989</price>
+</offer>
+<offer id="lg-SK-3027W" available="true">
+<price>799</price>
+</offer>
+<offer id="lg-SK-3069R" available="true">
+<price>1799</price>
+</offer>
+<offer id="lg-SK-3072" available="true">
+<price>1749</price>
+</offer>
+<offer id="lg-SK-3390" available="true">
+<price>7729</price>
+</offer>
+<offer id="lg-SK-5110" available="true">
+<price>1019</price>
+</offer>
+<offer id="lg-SK-520P" available="true">
+<price>3019</price>
+</offer>
+<offer id="lg-SK-6002B" available="true">
+<price>1659</price>
+</offer>
+<offer id="lg-SK-6003B" available="true">
+<price>1809</price>
+</offer>
+<offer id="lg-SK-6004-Black" available="true">
+<price>2609</price>
+</offer>
+<offer id="lg-SK-6004-White" available="true">
+<price>2609</price>
+</offer>
+<offer id="lg-SK-6112B" available="true">
+<price>1509</price>
+</offer>
+<offer id="lg-SK-6112R" available="true">
+<price>1579</price>
+</offer>
+<offer id="lg-SK-6627" available="true">
+<price>1439</price>
+</offer>
+<offer id="lg-SK-6632" available="true">
+<price>1449</price>
+</offer>
+<offer id="lg-SK-6862" available="true">
+<price>8159</price>
+</offer>
+<offer id="lg-SK-749" available="true">
+<price>709</price>
+</offer>
+<offer id="lg-SK-758-4" available="true">
+<price>2689</price>
+</offer>
+<offer id="lg-SK-809" available="true">
+<price>1299</price>
+</offer>
+<offer id="lg-SK-855" available="true">
+<price>699</price>
+</offer>
+<offer id="lg-SK-866" available="true">
+<price>479</price>
+</offer>
+<offer id="lg-SK-880" available="true">
+<price>449</price>
+</offer>
+<offer id="lg-SK-BBQ-836" available="true">
+<price>3009</price>
+</offer>
+<offer id="lg-SK-BBQ-837" available="true">
+<price>2349</price>
+</offer>
+<offer id="lg-SK-BBQ-853" available="true">
+<price>759</price>
+</offer>
+<offer id="lg-SK-CF-2217" available="true">
+<price>1479</price>
+</offer>
+<offer id="lg-SK-CZ-626" available="true">
+<price>1199</price>
+</offer>
+<offer id="lg-SK-LF-9988G" available="true">
+<price>699</price>
+</offer>
+<offer id="lg-SK-LF-9988GOLD" available="true">
+<price>699</price>
+</offer>
+<offer id="lg-SK-SH-1061" available="true">
+<price>1029</price>
+</offer>
+<offer id="lg-SK0137" available="true">
+<price>2729</price>
+</offer>
+<offer id="lg-SK092" available="true">
+<price>4929</price>
+</offer>
+<offer id="lg-SK10005" available="true">
+<price>9519</price>
+</offer>
+<offer id="lg-SK10008" available="true">
+<price>9709</price>
+</offer>
+<offer id="lg-SK10011" available="true">
+<price>15389</price>
+</offer>
+<offer id="lg-SK10024" available="true">
+<price>5789</price>
+</offer>
+<offer id="lg-SK1027CST" available="true">
+<price>1679</price>
+</offer>
+<offer id="lg-SK1033W" available="true">
+<price>1579</price>
+</offer>
+<offer id="lg-SK1047" available="true">
+<price>1729</price>
+</offer>
+<offer id="lg-SK1204" available="true">
+<price>1389</price>
+</offer>
+<offer id="lg-SK13016B" available="true">
+<price>11299</price>
+</offer>
+<offer id="lg-SK13016W" available="true">
+<price>10869</price>
+</offer>
+<offer id="lg-SK13017B" available="true">
+<price>5479</price>
+</offer>
+<offer id="lg-SK13017W" available="true">
+<price>5479</price>
+</offer>
+<offer id="lg-SK1729BST" available="true">
+<price>1749</price>
+</offer>
+<offer id="lg-SK1732" available="true">
+<price>629</price>
+</offer>
+<offer id="lg-SK1732B" available="true">
+<price>629</price>
+</offer>
+<offer id="lg-SK1733BR" available="true">
+<price>489</price>
+</offer>
+<offer id="lg-SK186SS" available="true">
+<price>3459</price>
+</offer>
+<offer id="lg-SK1922" available="true">
+<price>1569</price>
+</offer>
+<offer id="lg-SK2203" available="true">
+<price>1789</price>
+</offer>
+<offer id="lg-SK3010" available="true">
+<price>6069</price>
+</offer>
+<offer id="lg-SK3391R" available="true">
+<price>7829</price>
+</offer>
+<offer id="lg-SK4005BR" available="true">
+<price>4249</price>
+</offer>
+<offer id="lg-SK4005P" available="true">
+<price>4419</price>
+</offer>
+<offer id="lg-SK50118" available="true">
+<price>2879</price>
+</offer>
+<offer id="lg-SK5208" available="true">
+<price>1579</price>
+</offer>
+<offer id="lg-SK520M" available="true">
+<price>3019</price>
+</offer>
+<offer id="lg-SK8013" available="true">
+<price>7589</price>
+</offer>
+<offer id="lg-SK8027" available="true">
+<price>5859</price>
+</offer>
+<offer id="lg-SK879P" available="true">
+<price>289</price>
+</offer>
+<offer id="lg-SK9911" available="true">
+<price>1099</price>
+</offer>
+<offer id="lg-SKLF9957" available="true">
+<price>1149</price>
+</offer>
+<offer id="lg-SKLF9970" available="true">
+<price>2019</price>
+</offer>
+<offer id="lg-SKLF9970GR" available="true">
+<price>1959</price>
+</offer>
+<offer id="lg-SKLF9972" available="true">
+<price>2219</price>
+</offer>
+<offer id="lg-SKLF9976" available="true">
+<price>2319</price>
+</offer>
+<offer id="lg-SKLF9976GL" available="true">
+<price>2379</price>
+</offer>
+<offer id="lg-SKSH1055" available="true">
+<price>2959</price>
+</offer>
+<offer id="lg-SKYM7032B" available="true">
+<price>2789</price>
+</offer>
+<offer id="lg-SKYM7032W" available="true">
+<price>2789</price>
+</offer>
+<offer id="lg-SKZG8029" available="true">
+<price>9279</price>
+</offer>
+<offer id="lg-SL2055AWBL" available="true">
+<price>2129</price>
+</offer>
+<offer id="lg-SM-3012" available="true">
+<price>899</price>
+</offer>
+<offer id="lg-SM-5011" available="true">
+<price>1249</price>
+</offer>
+<offer id="lg-SM-5011-7" available="true">
+<price>2779</price>
+</offer>
+<offer id="lg-V452TU" available="true">
+<price>1929</price>
+</offer>
+<offer id="lg-V962SL" available="true">
+<price>1389</price>
+</offer>
+<offer id="lg-WJ800" available="true">
+<price>4149</price>
+</offer>
+<offer id="lg-WJ801" available="true">
+<price>6859</price>
+</offer>
+<offer id="lg-X10BE" available="true">
+<price>7719</price>
+</offer>
+<offer id="lg-X10BL" available="true">
+<price>7449</price>
+</offer>
+<offer id="lg-X10G" available="true">
+<price>7679</price>
+</offer>
+<offer id="lg-X9BL" available="true">
+<price>7489</price>
+</offer>
+<offer id="lg-X9P" available="true">
+<price>7489</price>
+</offer>
+<offer id="lg-X9PBL" available="true">
+<price>7489</price>
+</offer>
+<offer id="lg-HP-5-1" available="true">
+<price>1619</price>
+</offer>
+<offer id="lg-HP-5-11MF" available="true">
+<price>2139</price>
+</offer>
+<offer id="lg-HP-5-33" available="true">
+<price>549</price>
+</offer>
+<offer id="lg-HP-5-35" available="true">
+<price>609</price>
+</offer>
+<offer id="lg-HP-5-37" available="true">
+<price>589</price>
+</offer>
+<offer id="lg-HP-5-38M" available="true">
+<price>589</price>
+</offer>
+<offer id="lg-HP-5-39" available="true">
+<price>659</price>
+</offer>
+<offer id="lg-HP-5-3MF" available="true">
+<price>1669</price>
+</offer>
+<offer id="lg-HP-5-41" available="true">
+<price>639</price>
+</offer>
+<offer id="lg-HP-5-45" available="true">
+<price>599</price>
+</offer>
+<offer id="lg-HP-5-46" available="true">
+<price>599</price>
+</offer>
+<offer id="lg-HP-5-47" available="true">
+<price>669</price>
+</offer>
+<offer id="lg-HP-5-48" available="true">
+<price>669</price>
+</offer>
+<offer id="lg-HP-5-49" available="true">
+<price>759</price>
+</offer>
+<offer id="lg-HP-5-5" available="true">
+<price>1849</price>
+</offer>
+<offer id="lg-HP-5-50" available="true">
+<price>759</price>
+</offer>
+<offer id="lg-HP-5-55" available="true">
+<price>889</price>
+</offer>
+<offer id="lg-HP-5-9MF" available="true">
+<price>2069</price>
+</offer>
+<offer id="lg-HP-A1B" available="true">
+<price>909</price>
+</offer>
+<offer id="lg-HP-A1P" available="true">
+<price>909</price>
+</offer>
+<offer id="lg-HP-A1W" available="true">
+<price>909</price>
+</offer>
+<offer id="lg-HP-A1Y" available="true">
+<price>909</price>
+</offer>
+<offer id="lg-HP-B1" available="true">
+<price>1139</price>
+</offer>
+<offer id="lg-HP-C1" available="true">
+<price>909</price>
+</offer>
+<offer id="lg-HP-E1" available="true">
+<price>1089</price>
+</offer>
+<offer id="lg-HP-N40" available="true">
+<price>4459</price>
+</offer>
+<offer id="lg-HP-N56" available="true">
+<price>2459</price>
+</offer>
+<offer id="lg-HP-N57" available="true">
+<price>3239</price>
+</offer>
+<offer id="lg-P11-QQ6" available="true">
+<price>2569</price>
+</offer>
+<offer id="lg-UR522" available="true">
+<price>249</price>
+</offer>
+<offer id="lg-X104" available="true">
+<price>1789</price>
+</offer>
+<offer id="lg-X105" available="true">
+<price>1469</price>
+</offer>
+<offer id="lg-509-23P" available="true">
+<price>239</price>
+</offer>
+<offer id="lg-509-28BEGR" available="true">
+<price>239</price>
+</offer>
+<offer id="lg-509-28BRV" available="true">
+<price>239</price>
+</offer>
+<offer id="lg-509-28WBR" available="true">
+<price>239</price>
+</offer>
+<offer id="lg-509-28WV" available="true">
+<price>239</price>
+</offer>
+<offer id="lg-520-27-50BR" available="true">
+<price>599</price>
+</offer>
+<offer id="lg-7230" available="true">
+<price>1819</price>
+</offer>
+<offer id="lg-HP-55-10BR" available="true">
+<price>189</price>
+</offer>
+<offer id="lg-HP-55-10P" available="true">
+<price>189</price>
+</offer>
+<offer id="lg-HP-55-11BR" available="true">
+<price>189</price>
+</offer>
+<offer id="lg-HP-55-15B" available="true">
+<price>189</price>
+</offer>
+<offer id="lg-HP-55-15BR" available="true">
+<price>189</price>
+</offer>
+<offer id="lg-HP-55-15GR" available="true">
+<price>189</price>
+</offer>
+<offer id="lg-HP-55-15P" available="true">
+<price>189</price>
+</offer>
+<offer id="lg-HP-55-16BR" available="true">
+<price>189</price>
+</offer>
+<offer id="lg-HP-55-16GR" available="true">
+<price>189</price>
+</offer>
+<offer id="lg-HP-55-16P" available="true">
+<price>189</price>
+</offer>
+<offer id="lg-HP-55-16PP" available="true">
+<price>189</price>
+</offer>
+<offer id="lg-HP-55-16V" available="true">
+<price>189</price>
+</offer>
+<offer id="lg-HP-55-16Y" available="true">
+<price>189</price>
+</offer>
+<offer id="lg-HP-55-17BR" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-18BR" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-18P" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-19" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-1BL" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-1P" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-1W" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-20" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-20GR" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-21BL" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-21P" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-21V" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-22BR" available="true">
+<price>119</price>
+</offer>
+<offer id="lg-HP-55-24CAP" available="true">
+<price>119</price>
+</offer>
+<offer id="lg-HP-55-24CROC" available="true">
+<price>119</price>
+</offer>
+<offer id="lg-HP-55-24DUCK" available="true">
+<price>119</price>
+</offer>
+<offer id="lg-HP-55-24TURT" available="true">
+<price>119</price>
+</offer>
+<offer id="lg-HP-55-25B" available="true">
+<price>119</price>
+</offer>
+<offer id="lg-HP-55-25V" available="true">
+<price>119</price>
+</offer>
+<offer id="lg-HP-55-27" available="true">
+<price>119</price>
+</offer>
+<offer id="lg-HP-55-28" available="true">
+<price>119</price>
+</offer>
+<offer id="lg-HP-55-29BR" available="true">
+<price>139</price>
+</offer>
+<offer id="lg-HP-55-2BR" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-30BR" available="true">
+<price>179</price>
+</offer>
+<offer id="lg-HP-55-31BAG" available="true">
+<price>179</price>
+</offer>
+<offer id="lg-HP-55-31BEAR" available="true">
+<price>179</price>
+</offer>
+<offer id="lg-HP-55-31COL" available="true">
+<price>179</price>
+</offer>
+<offer id="lg-HP-55-31HEART" available="true">
+<price>179</price>
+</offer>
+<offer id="lg-HP-55-31LAP" available="true">
+<price>179</price>
+</offer>
+<offer id="lg-HP-55-32BL" available="true">
+<price>179</price>
+</offer>
+<offer id="lg-HP-55-32P" available="true">
+<price>179</price>
+</offer>
+<offer id="lg-HP-55-32R" available="true">
+<price>179</price>
+</offer>
+<offer id="lg-HP-55-32V" available="true">
+<price>179</price>
+</offer>
+<offer id="lg-HP-55-33BEAR" available="true">
+<price>179</price>
+</offer>
+<offer id="lg-HP-55-33CAT" available="true">
+<price>179</price>
+</offer>
+<offer id="lg-HP-55-33HEART" available="true">
+<price>179</price>
+</offer>
+<offer id="lg-HP-55-33KV" available="true">
+<price>179</price>
+</offer>
+<offer id="lg-HP-55-33MOUS" available="true">
+<price>179</price>
+</offer>
+<offer id="lg-HP-55-34BR" available="true">
+<price>179</price>
+</offer>
+<offer id="lg-HP-55-3BR" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-4GR" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-4P" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-4V" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-5BL" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-5P" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-6" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-6B" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-6P" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-6V" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-7BR" available="true">
+<price>289</price>
+</offer>
+<offer id="lg-HP-55-7P" available="true">
+<price>289</price>
+</offer>
+<offer id="lg-HP-55-7V" available="true">
+<price>289</price>
+</offer>
+<offer id="lg-HP-55-8BL" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-8P" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-8V" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-8Y" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-9B" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-9P" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-9PP" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-55-9V" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-S-1NDBL" available="true">
+<price>959</price>
+</offer>
+<offer id="lg-HP-S-1NDP" available="true">
+<price>959</price>
+</offer>
+<offer id="lg-HP-S-2ND" available="true">
+<price>819</price>
+</offer>
+<offer id="lg-HP-S-3NDO" available="true">
+<price>1169</price>
+</offer>
+<offer id="lg-HP-S-4NDBL" available="true">
+<price>1369</price>
+</offer>
+<offer id="lg-HP-S-4NDV" available="true">
+<price>1429</price>
+</offer>
+<offer id="lg-HP-S-5NDBL" available="true">
+<price>849</price>
+</offer>
+<offer id="lg-HP-S-5NDP" available="true">
+<price>849</price>
+</offer>
+<offer id="lg-HP-S-5NDY" available="true">
+<price>849</price>
+</offer>
+<offer id="lg-HP-5-57" available="true">
+<price>779</price>
+</offer>
+<offer id="lg-HP-5-58" available="true">
+<price>939</price>
+</offer>
+<offer id="lg-HP-5-59" available="true">
+<price>1339</price>
+</offer>
+<offer id="lg-HP-5-60" available="true">
+<price>2279</price>
+</offer>
+<offer id="lg-HP-5-61" available="true">
+<price>2999</price>
+</offer>
+<offer id="lg-HP-5-62" available="true">
+<price>3319</price>
+</offer>
+<offer id="lg-HP-5-63" available="true">
+<price>4309</price>
+</offer>
+<offer id="lg-HP-5-64" available="true">
+<price>1609</price>
+</offer>
+<offer id="lg-HP-5-65" available="true">
+<price>2009</price>
+</offer>
+<offer id="lg-HP-5-66" available="true">
+<price>2639</price>
+</offer>
+<offer id="lg-HP-5-67" available="true">
+<price>3119</price>
+</offer>
+<offer id="lg-HP-5-68" available="true">
+<price>3899</price>
+</offer>
+<offer id="lg-HP-5-69" available="true">
+<price>2399</price>
+</offer>
+<offer id="lg-HP-5-70" available="true">
+<price>3339</price>
+</offer>
+<offer id="lg-HP-5-71" available="true">
+<price>4229</price>
+</offer>
+<offer id="lg-HP-5-72" available="true">
+<price>5339</price>
+</offer>
+<offer id="lg-HP-5-73" available="true">
+<price>1899</price>
+</offer>
+<offer id="lg-HP-5-74" available="true">
+<price>2319</price>
+</offer>
+<offer id="lg-HP-5-75" available="true">
+<price>2869</price>
+</offer>
+<offer id="lg-HP-5-76" available="true">
+<price>3399</price>
+</offer>
+<offer id="lg-HP-5-77" available="true">
+<price>3839</price>
+</offer>
+<offer id="lg-HP-JG-4" available="true">
+<price>289</price>
+</offer>
+<offer id="lg-HP-JG-5" available="true">
+<price>1239</price>
+</offer>
+<offer id="lg-HP-L-10" available="true">
+<price>599</price>
+</offer>
+<offer id="lg-HP-L-12" available="true">
+<price>869</price>
+</offer>
+<offer id="lg-HP-L-13" available="true">
+<price>799</price>
+</offer>
+<offer id="lg-HP-L-18" available="true">
+<price>249</price>
+</offer>
+<offer id="lg-HP-L-19" available="true">
+<price>249</price>
+</offer>
+<offer id="lg-HP-L-20" available="true">
+<price>249</price>
+</offer>
+<offer id="lg-HP-L-21" available="true">
+<price>669</price>
+</offer>
+<offer id="lg-HP-L-3" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-L-4" available="true">
+<price>469</price>
+</offer>
+<offer id="lg-HP-L-5" available="true">
+<price>839</price>
+</offer>
+<offer id="lg-HP-L-7" available="true">
+<price>299</price>
+</offer>
+<offer id="lg-HP-L-8" available="true">
+<price>539</price>
+</offer>
+<offer id="lg-HP-L-9" available="true">
+<price>369</price>
+</offer>
+<offer id="lg-SJ-0043" available="true">
+<price>439</price>
+</offer>
+<offer id="lg-HP-23-12M" available="true">
+<price>639</price>
+</offer>
+<offer id="lg-HP-23-12V" available="true">
+<price>659</price>
+</offer>
+<offer id="lg-HP-23-13BE" available="true">
+<price>1139</price>
+</offer>
+<offer id="lg-HP-23-13BL" available="true">
+<price>1099</price>
+</offer>
+<offer id="lg-HP-23-13GR" available="true">
+<price>1099</price>
+</offer>
+<offer id="lg-HP-23-13R" available="true">
+<price>1099</price>
+</offer>
+<offer id="lg-HP-23-13V" available="true">
+<price>1099</price>
+</offer>
+<offer id="lg-HP-23-13W" available="true">
+<price>1099</price>
+</offer>
+<offer id="lg-HP-23-13Y" available="true">
+<price>1099</price>
+</offer>
+<offer id="lg-HP-23-14ML" available="true">
+<price>959</price>
+</offer>
+<offer id="lg-HP-23-14Y" available="true">
+<price>959</price>
+</offer>
+<offer id="lg-HP-23-15B" available="true">
+<price>1429</price>
+</offer>
+<offer id="lg-HP-23-15BL" available="true">
+<price>1429</price>
+</offer>
+<offer id="lg-HP-23-15GR" available="true">
+<price>1429</price>
+</offer>
+<offer id="lg-HP-23-15O" available="true">
+<price>1429</price>
+</offer>
+<offer id="lg-HP-23-16BR" available="true">
+<price>659</price>
+</offer>
+<offer id="lg-HP-23-16G" available="true">
+<price>659</price>
+</offer>
+<offer id="lg-HP-23-16GR" available="true">
+<price>659</price>
+</offer>
+<offer id="lg-HP-23-16R" available="true">
+<price>659</price>
+</offer>
+<offer id="lg-HP-23-16V" available="true">
+<price>659</price>
+</offer>
+<offer id="lg-HP-23-1BL" available="true">
+<price>1069</price>
+</offer>
+<offer id="lg-HP-23-1GR" available="true">
+<price>1069</price>
+</offer>
+<offer id="lg-HP-23-1LBL" available="true">
+<price>1069</price>
+</offer>
+<offer id="lg-HP-23-1M" available="true">
+<price>1069</price>
+</offer>
+<offer id="lg-HP-23-2B" available="true">
+<price>559</price>
+</offer>
+<offer id="lg-HP-23-2BL" available="true">
+<price>559</price>
+</offer>
+<offer id="lg-HP-23-2R" available="true">
+<price>559</price>
+</offer>
+<offer id="lg-HP-23-4BL" available="true">
+<price>549</price>
+</offer>
+<offer id="lg-HP-23-4G" available="true">
+<price>549</price>
+</offer>
+<offer id="lg-HP-23-4GR" available="true">
+<price>569</price>
+</offer>
+<offer id="lg-HP-23-4R" available="true">
+<price>569</price>
+</offer>
+<offer id="lg-HP-23-5" available="true">
+<price>569</price>
+</offer>
+<offer id="lg-HP-23-6B" available="true">
+<price>2019</price>
+</offer>
+<offer id="lg-HP-23-6G" available="true">
+<price>1939</price>
+</offer>
+<offer id="lg-HP-23-7BE" available="true">
+<price>509</price>
+</offer>
+<offer id="lg-HP-23-7BL" available="true">
+<price>509</price>
+</offer>
+<offer id="lg-HP-23-8BL" available="true">
+<price>1719</price>
+</offer>
+<offer id="lg-HP-23-8G" available="true">
+<price>1719</price>
+</offer>
+<offer id="lg-HP-23-9R" available="true">
+<price>289</price>
+</offer>
+<offer id="lg-HP-35015-10BE" available="true">
+<price>989</price>
+</offer>
+<offer id="lg-HP-35015-10G" available="true">
+<price>989</price>
+</offer>
+<offer id="lg-HP-35015-10GR" available="true">
+<price>989</price>
+</offer>
+<offer id="lg-HP-35015-12" available="true">
+<price>1179</price>
+</offer>
+<offer id="lg-HP-35015-13BL" available="true">
+<price>499</price>
+</offer>
+<offer id="lg-HP-35015-13P" available="true">
+<price>499</price>
+</offer>
+<offer id="lg-HP-35015-14" available="true">
+<price>319</price>
+</offer>
+<offer id="lg-HP-35015-15" available="true">
+<price>479</price>
+</offer>
+<offer id="lg-HP-35015-16" available="true">
+<price>479</price>
+</offer>
+<offer id="lg-HP-35015-17" available="true">
+<price>519</price>
+</offer>
+<offer id="lg-HP-35015-18" available="true">
+<price>1759</price>
+</offer>
+<offer id="lg-HP-35015-2" available="true">
+<price>379</price>
+</offer>
+<offer id="lg-HP-35015-23" available="true">
+<price>379</price>
+</offer>
+<offer id="lg-HP-35015-25" available="true">
+<price>329</price>
+</offer>
+<offer id="lg-HP-35015-27BL" available="true">
+<price>89</price>
+</offer>
+<offer id="lg-HP-35015-27O" available="true">
+<price>89</price>
+</offer>
+<offer id="lg-HP-35015-28" available="true">
+<price>519</price>
+</offer>
+<offer id="lg-HP-35015-29O" available="true">
+<price>189</price>
+</offer>
+<offer id="lg-HP-35015-31" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-HP-35015-34M" available="true">
+<price>109</price>
+</offer>
+<offer id="lg-HP-35015-34V" available="true">
+<price>109</price>
+</offer>
+<offer id="lg-HP-35015-36" available="true">
+<price>409</price>
+</offer>
+<offer id="lg-HP-35015-37" available="true">
+<price>199</price>
+</offer>
+<offer id="lg-HP-35015-38" available="true">
+<price>249</price>
+</offer>
+<offer id="lg-HP-35015-4" available="true">
+<price>399</price>
+</offer>
+<offer id="lg-HP-35015-43" available="true">
+<price>249</price>
+</offer>
+<offer id="lg-HP-35015-45" available="true">
+<price>1719</price>
+</offer>
+<offer id="lg-HP-35015-46" available="true">
+<price>2859</price>
+</offer>
+<offer id="lg-HP-35015-48DG" available="true">
+<price>439</price>
+</offer>
+<offer id="lg-HP-35015-49" available="true">
+<price>189</price>
+</offer>
+<offer id="lg-HP-35015-50" available="true">
+<price>709</price>
+</offer>
+<offer id="lg-HP-35015-52" available="true">
+<price>99</price>
+</offer>
+<offer id="lg-HP-35015-53" available="true">
+<price>119</price>
+</offer>
+<offer id="lg-HP-35015-54" available="true">
+<price>99</price>
+</offer>
+<offer id="lg-HP-35015-55" available="true">
+<price>489</price>
+</offer>
+<offer id="lg-HP-35015-56" available="true">
+<price>399</price>
+</offer>
+<offer id="lg-HP-35015-57" available="true">
+<price>469</price>
+</offer>
+<offer id="lg-HP-35015-6" available="true">
+<price>599</price>
+</offer>
+<offer id="lg-HP-35015-62" available="true">
+<price>389</price>
+</offer>
+<offer id="lg-HP-35015-63" available="true">
+<price>219</price>
+</offer>
+<offer id="lg-HP-35015-64" available="true">
+<price>1279</price>
+</offer>
+<offer id="lg-HP-35015-65" available="true">
+<price>1099</price>
+</offer>
+<offer id="lg-HP-35015-66BE" available="true">
+<price>829</price>
+</offer>
+<offer id="lg-HP-35015-66COFFE" available="true">
+<price>829</price>
+</offer>
+<offer id="lg-HP-35015-67G" available="true">
+<price>989</price>
+</offer>
+<offer id="lg-HP-35015-67GR" available="true">
+<price>989</price>
+</offer>
+<offer id="lg-HP-35015-69G" available="true">
+<price>539</price>
+</offer>
+<offer id="lg-HP-35015-70BE" available="true">
+<price>749</price>
+</offer>
+<offer id="lg-HP-35015-70G" available="true">
+<price>749</price>
+</offer>
+<offer id="lg-HP-35015-71" available="true">
+<price>679</price>
+</offer>
+<offer id="lg-HP-35015-72" available="true">
+<price>469</price>
+</offer>
+<offer id="lg-HP-35015-73" available="true">
+<price>649</price>
+</offer>
+<offer id="lg-HP-35015-74" available="true">
+<price>2329</price>
+</offer>
+<offer id="lg-HP-35015-75" available="true">
+<price>2239</price>
+</offer>
+<offer id="lg-HP-35015-76" available="true">
+<price>129</price>
+</offer>
+<offer id="lg-HP-35015-77" available="true">
+<price>589</price>
+</offer>
+<offer id="lg-HP-35015-78" available="true">
+<price>3489</price>
+</offer>
+<offer id="lg-HP-35015-79" available="true">
+<price>239</price>
+</offer>
+<offer id="lg-HP-35015-7G" available="true">
+<price>479</price>
+</offer>
+<offer id="lg-HP-35015-7GR" available="true">
+<price>479</price>
+</offer>
+<offer id="lg-HP-35015-7Y" available="true">
+<price>479</price>
+</offer>
+<offer id="lg-HP-35015-8G" available="true">
+<price>669</price>
+</offer>
+<offer id="lg-HP-35015-8GR" available="true">
+<price>669</price>
+</offer>
+<offer id="lg-HP-35015-9BR" available="true">
+<price>679</price>
+</offer>
+<offer id="lg-HP-45-10" available="true">
+<price>149</price>
+</offer>
+<offer id="lg-HP-51-5" available="true">
+<price>439</price>
+</offer>
+<offer id="lg-HP-51-7" available="true">
+<price>599</price>
+</offer>
+<offer id="lg-HP-8-75" available="true">
+<price>1289</price>
+</offer>
+<offer id="lg-HPLN2" available="true">
+<price>869</price>
+</offer>
+<offer id="lg-HPLN3" available="true">
+<price>869</price>
+</offer>
+<offer id="lg-NL-001-40" available="true">
+<price>229</price>
+</offer>
+<offer id="lg-NL-001-60" available="true">
+<price>279</price>
+</offer>
+<offer id="lg-64486-27" available="true">
+<price>539</price>
+</offer>
+<offer id="lg-64486-36" available="true">
+<price>1319</price>
+</offer>
+<offer id="lg-64486-73" available="true">
+<price>1049</price>
+</offer>
+<offer id="lg-HP-16-1" available="true">
+<price>2659</price>
+</offer>
+<offer id="lg-HP-16-11" available="true">
+<price>1769</price>
+</offer>
+<offer id="lg-HP-16-12" available="true">
+<price>1979</price>
+</offer>
+<offer id="lg-HP-16-13" available="true">
+<price>2369</price>
+</offer>
+<offer id="lg-HP-16-14" available="true">
+<price>2229</price>
+</offer>
+<offer id="lg-HP-16-15" available="true">
+<price>1289</price>
+</offer>
+<offer id="lg-HP-16-16" available="true">
+<price>1559</price>
+</offer>
+<offer id="lg-HP-16-17" available="true">
+<price>1409</price>
+</offer>
+<offer id="lg-HP-16-18" available="true">
+<price>1669</price>
+</offer>
+<offer id="lg-HP-16-19" available="true">
+<price>1189</price>
+</offer>
+<offer id="lg-HP-16-2" available="true">
+<price>1869</price>
+</offer>
+<offer id="lg-HP-16-20" available="true">
+<price>1049</price>
+</offer>
+<offer id="lg-HP-16-21" available="true">
+<price>1479</price>
+</offer>
+<offer id="lg-HP-16-22" available="true">
+<price>2269</price>
+</offer>
+<offer id="lg-HP-16-24" available="true">
+<price>2639</price>
+</offer>
+<offer id="lg-HP-16-3" available="true">
+<price>2819</price>
+</offer>
+<offer id="lg-HP-16-5" available="true">
+<price>1799</price>
+</offer>
+<offer id="lg-HP-16-6" available="true">
+<price>2959</price>
+</offer>
+<offer id="lg-HP-16-9" available="true">
+<price>1929</price>
+</offer>
+<offer id="lg-HP-17-1" available="true">
+<price>439</price>
+</offer>
+<offer id="lg-HP-17-10" available="true">
+<price>469</price>
+</offer>
+<offer id="lg-HP-17-11" available="true">
+<price>329</price>
+</offer>
+<offer id="lg-HP-17-12" available="true">
+<price>319</price>
+</offer>
+<offer id="lg-HP-17-13" available="true">
+<price>319</price>
+</offer>
+<offer id="lg-HP-17-16" available="true">
+<price>179</price>
+</offer>
+<offer id="lg-HP-17-18" available="true">
+<price>149</price>
+</offer>
+<offer id="lg-HP-17-2" available="true">
+<price>439</price>
+</offer>
+<offer id="lg-HP-17-21" available="true">
+<price>199</price>
+</offer>
+<offer id="lg-HP-17-22" available="true">
+<price>199</price>
+</offer>
+<offer id="lg-HP-17-24" available="true">
+<price>299</price>
+</offer>
+<offer id="lg-HP-17-26" available="true">
+<price>439</price>
+</offer>
+<offer id="lg-HP-17-27" available="true">
+<price>429</price>
+</offer>
+<offer id="lg-HP-17-3" available="true">
+<price>439</price>
+</offer>
+<offer id="lg-HP-17-34" available="true">
+<price>199</price>
+</offer>
+<offer id="lg-HP-17-35" available="true">
+<price>199</price>
+</offer>
+<offer id="lg-HP-17-36" available="true">
+<price>199</price>
+</offer>
+<offer id="lg-HP-17-37" available="true">
+<price>229</price>
+</offer>
+<offer id="lg-HP-17-38" available="true">
+<price>229</price>
+</offer>
+<offer id="lg-HP-17-39" available="true">
+<price>229</price>
+</offer>
+<offer id="lg-HP-17-4" available="true">
+<price>359</price>
+</offer>
+<offer id="lg-HP-17-43" available="true">
+<price>789</price>
+</offer>
+<offer id="lg-HP-17-44" available="true">
+<price>809</price>
+</offer>
+<offer id="lg-HP-17-45" available="true">
+<price>429</price>
+</offer>
+<offer id="lg-HP-17-46" available="true">
+<price>439</price>
+</offer>
+<offer id="lg-HP-17-47" available="true">
+<price>1019</price>
+</offer>
+<offer id="lg-HP-17-48" available="true">
+<price>1019</price>
+</offer>
+<offer id="lg-HP-17-5" available="true">
+<price>349</price>
+</offer>
+<offer id="lg-HP-17-58" available="true">
+<price>639</price>
+</offer>
+<offer id="lg-HP-17-62" available="true">
+<price>479</price>
+</offer>
+<offer id="lg-HP-17-64" available="true">
+<price>359</price>
+</offer>
+<offer id="lg-HP-17-8" available="true">
+<price>199</price>
+</offer>
+<offer id="lg-HP-17-9" available="true">
+<price>199</price>
+</offer>
+<offer id="lg-HP-18-1P" available="true">
+<price>569</price>
+</offer>
+<offer id="lg-HP-18-1TU" available="true">
+<price>549</price>
+</offer>
+<offer id="lg-HP-18-1TUP" available="true">
+<price>569</price>
+</offer>
+<offer id="lg-HP-18-1Y" available="true">
+<price>569</price>
+</offer>
+<offer id="lg-HP-19-103" available="true">
+<price>669</price>
+</offer>
+<offer id="lg-HP-19-104" available="true">
+<price>669</price>
+</offer>
+<offer id="lg-HP-19-105" available="true">
+<price>639</price>
+</offer>
+<offer id="lg-HP-19-115" available="true">
+<price>909</price>
+</offer>
+<offer id="lg-HP-19-116" available="true">
+<price>909</price>
+</offer>
+<offer id="lg-HP-19-163" available="true">
+<price>549</price>
+</offer>
+<offer id="lg-HP-19-166" available="true">
+<price>649</price>
+</offer>
+<offer id="lg-HP-19-168" available="true">
+<price>549</price>
+</offer>
+<offer id="lg-HP-19-171" available="true">
+<price>629</price>
+</offer>
+<offer id="lg-HP-19-172" available="true">
+<price>809</price>
+</offer>
+<offer id="lg-HP-19-175" available="true">
+<price>709</price>
+</offer>
+<offer id="lg-HP-19-176" available="true">
+<price>649</price>
+</offer>
+<offer id="lg-HP-19-178-1" available="true">
+<price>429</price>
+</offer>
+<offer id="lg-HP-19-178-3" available="true">
+<price>429</price>
+</offer>
+<offer id="lg-HP-19-178-4" available="true">
+<price>429</price>
+</offer>
+<offer id="lg-HP-19-179" available="true">
+<price>669</price>
+</offer>
+<offer id="lg-HP-19-180" available="true">
+<price>959</price>
+</offer>
+<offer id="lg-HP-19-182" available="true">
+<price>879</price>
+</offer>
+<offer id="lg-HP-19-184" available="true">
+<price>719</price>
+</offer>
+<offer id="lg-HP-19-187" available="true">
+<price>669</price>
+</offer>
+<offer id="lg-HP-19-188" available="true">
+<price>959</price>
+</offer>
+<offer id="lg-HP-19-189" available="true">
+<price>959</price>
+</offer>
+<offer id="lg-HP-19-190" available="true">
+<price>879</price>
+</offer>
+<offer id="lg-HP-19-191" available="true">
+<price>839</price>
+</offer>
+<offer id="lg-HP-19-192" available="true">
+<price>719</price>
+</offer>
+<offer id="lg-HP-19-194" available="true">
+<price>669</price>
+</offer>
+<offer id="lg-HP-19-196" available="true">
+<price>589</price>
+</offer>
+<offer id="lg-HP-19-197" available="true">
+<price>809</price>
+</offer>
+<offer id="lg-HP-19-2" available="true">
+<price>1939</price>
+</offer>
+<offer id="lg-HP-19-200" available="true">
+<price>839</price>
+</offer>
+<offer id="lg-HP-19-202" available="true">
+<price>669</price>
+</offer>
+<offer id="lg-HP-19-203" available="true">
+<price>489</price>
+</offer>
+<offer id="lg-HP-19-205" available="true">
+<price>709</price>
+</offer>
+<offer id="lg-HP-19-206" available="true">
+<price>489</price>
+</offer>
+<offer id="lg-HP-19-207" available="true">
+<price>649</price>
+</offer>
+<offer id="lg-HP-19-208" available="true">
+<price>839</price>
+</offer>
+<offer id="lg-HP-19-209" available="true">
+<price>819</price>
+</offer>
+<offer id="lg-HP-19-210" available="true">
+<price>879</price>
+</offer>
+<offer id="lg-HP-19-211" available="true">
+<price>879</price>
+</offer>
+<offer id="lg-HP-19-213" available="true">
+<price>669</price>
+</offer>
+<offer id="lg-HP-19-221" available="true">
+<price>489</price>
+</offer>
+<offer id="lg-HP-19-224" available="true">
+<price>789</price>
+</offer>
+<offer id="lg-HP-19-225" available="true">
+<price>839</price>
+</offer>
+<offer id="lg-HP-19-234" available="true">
+<price>809</price>
+</offer>
+<offer id="lg-HP-19-235" available="true">
+<price>629</price>
+</offer>
+<offer id="lg-HP-19-237" available="true">
+<price>949</price>
+</offer>
+<offer id="lg-HP-19-238" available="true">
+<price>909</price>
+</offer>
+<offer id="lg-HP-19-239" available="true">
+<price>909</price>
+</offer>
+<offer id="lg-HP-19-243" available="true">
+<price>629</price>
+</offer>
+<offer id="lg-HP-19-244" available="true">
+<price>949</price>
+</offer>
+<offer id="lg-HP-19-246" available="true">
+<price>909</price>
+</offer>
+<offer id="lg-HP-19-247" available="true">
+<price>909</price>
+</offer>
+<offer id="lg-HP-19-248" available="true">
+<price>859</price>
+</offer>
+<offer id="lg-HP-19-250" available="true">
+<price>799</price>
+</offer>
+<offer id="lg-HP-19-251" available="true">
+<price>649</price>
+</offer>
+<offer id="lg-HP-19-252" available="true">
+<price>909</price>
+</offer>
+<offer id="lg-HP-19-253" available="true">
+<price>949</price>
+</offer>
+<offer id="lg-HP-19-254" available="true">
+<price>949</price>
+</offer>
+<offer id="lg-HP-19-255" available="true">
+<price>909</price>
+</offer>
+<offer id="lg-HP-19-256" available="true">
+<price>839</price>
+</offer>
+<offer id="lg-HP-19-259" available="true">
+<price>629</price>
+</offer>
+<offer id="lg-HP-19-261" available="true">
+<price>949</price>
+</offer>
+<offer id="lg-HP-19-263" available="true">
+<price>909</price>
+</offer>
+<offer id="lg-HP-19-264" available="true">
+<price>859</price>
+</offer>
+<offer id="lg-HP-19-266" available="true">
+<price>799</price>
+</offer>
+<offer id="lg-HP-19-267" available="true">
+<price>669</price>
+</offer>
+<offer id="lg-HP-19-268" available="true">
+<price>809</price>
+</offer>
+<offer id="lg-HP-19-273" available="true">
+<price>669</price>
+</offer>
+<offer id="lg-HP-19-274" available="true">
+<price>809</price>
+</offer>
+<offer id="lg-HP-19-276" available="true">
+<price>809</price>
+</offer>
+<offer id="lg-HP-19-279" available="true">
+<price>669</price>
+</offer>
+<offer id="lg-HP-19-280" available="true">
+<price>809</price>
+</offer>
+<offer id="lg-HP-19-281" available="true">
+<price>809</price>
+</offer>
+<offer id="lg-HP-19-282" available="true">
+<price>809</price>
+</offer>
+<offer id="lg-HP-19-287" available="true">
+<price>2629</price>
+</offer>
+<offer id="lg-HP-19-29" available="true">
+<price>1679</price>
+</offer>
+<offer id="lg-HP-19-302" available="true">
+<price>2009</price>
+</offer>
+<offer id="lg-HP-19-303" available="true">
+<price>2629</price>
+</offer>
+<offer id="lg-HP-19-42" available="true">
+<price>1109</price>
+</offer>
+<offer id="lg-HP-19-43" available="true">
+<price>1209</price>
+</offer>
+<offer id="lg-HP-19-5" available="true">
+<price>1009</price>
+</offer>
+<offer id="lg-HP-19-67" available="true">
+<price>909</price>
+</offer>
+<offer id="lg-HP-19-69" available="true">
+<price>839</price>
+</offer>
+<offer id="lg-HP-19-71" available="true">
+<price>799</price>
+</offer>
+<offer id="lg-HP-19-7114BL" available="true">
+<price>809</price>
+</offer>
+<offer id="lg-HP-19-7115G" available="true">
+<price>839</price>
+</offer>
+<offer id="lg-HP-19-7116G" available="true">
+<price>839</price>
+</offer>
+<offer id="lg-HP-19-7118G" available="true">
+<price>629</price>
+</offer>
+<offer id="lg-HP-19-AY-1" available="true">
+<price>409</price>
+</offer>
+<offer id="lg-HP-19-AY-2" available="true">
+<price>409</price>
+</offer>
+<offer id="lg-HP-19-AY-3" available="true">
+<price>529</price>
+</offer>
+<offer id="lg-HP-19-AY-4" available="true">
+<price>529</price>
+</offer>
+<offer id="lg-HP-19-AY-5" available="true">
+<price>529</price>
+</offer>
+<offer id="lg-HP-19-FX7" available="true">
+<price>1059</price>
+</offer>
+<offer id="lg-HP-19-L1" available="true">
+<price>329</price>
+</offer>
+<offer id="lg-HP-19-L2" available="true">
+<price>329</price>
+</offer>
+<offer id="lg-HP-19-L3" available="true">
+<price>329</price>
+</offer>
+<offer id="lg-HP-19-L4" available="true">
+<price>329</price>
+</offer>
+<offer id="lg-HP-19-LJB-1" available="true">
+<price>529</price>
+</offer>
+<offer id="lg-HP-19-LJB-2" available="true">
+<price>529</price>
+</offer>
+<offer id="lg-HP-19-LJB-3" available="true">
+<price>519</price>
+</offer>
+<offer id="lg-HP-19-PYF-1" available="true">
+<price>279</price>
+</offer>
+<offer id="lg-HP-19-PYF-2" available="true">
+<price>329</price>
+</offer>
+<offer id="lg-HP-19-PYF-3" available="true">
+<price>279</price>
+</offer>
+<offer id="lg-HP-19-PYF-4" available="true">
+<price>329</price>
+</offer>
+<offer id="lg-HP-19-TH-1" available="true">
+<price>339</price>
+</offer>
+<offer id="lg-HP-19-TH-2" available="true">
+<price>339</price>
+</offer>
+<offer id="lg-HP-19-TH-3" available="true">
+<price>339</price>
+</offer>
+<offer id="lg-HP-19-TH-4" available="true">
+<price>339</price>
+</offer>
+<offer id="lg-HP-34-28" available="true">
+<price>3309</price>
+</offer>
+<offer id="lg-HP-34-49" available="true">
+<price>2249</price>
+</offer>
+<offer id="lg-HP-34-50" available="true">
+<price>1869</price>
+</offer>
+<offer id="lg-HP-34-51" available="true">
+<price>1039</price>
+</offer>
+<offer id="lg-HP-34-52" available="true">
+<price>989</price>
+</offer>
+<offer id="lg-HP-34-53" available="true">
+<price>1139</price>
+</offer>
+<offer id="lg-HP-34-54" available="true">
+<price>1389</price>
+</offer>
+<offer id="lg-HP-34-55" available="true">
+<price>1819</price>
+</offer>
+<offer id="lg-HP-34-62" available="true">
+<price>1159</price>
+</offer>
+<offer id="lg-HP-34-67" available="true">
+<price>2339</price>
+</offer>
+<offer id="lg-HP-34-68" available="true">
+<price>2339</price>
+</offer>
+<offer id="lg-HP-34-70" available="true">
+<price>1919</price>
+</offer>
+<offer id="lg-HP-34-72" available="true">
+<price>819</price>
+</offer>
+<offer id="lg-HP-34-73" available="true">
+<price>669</price>
+</offer>
+<offer id="lg-HP-34-75" available="true">
+<price>489</price>
+</offer>
+<offer id="lg-HP-GP-39" available="true">
+<price>2979</price>
+</offer>
+<offer id="lg-HP-GP-40" available="true">
+<price>2739</price>
+</offer>
+<offer id="lg-HP-GP-41" available="true">
+<price>1359</price>
+</offer>
+<offer id="lg-HP-GP-42" available="true">
+<price>1309</price>
+</offer>
+<offer id="lg-HP-GP-43" available="true">
+<price>1429</price>
+</offer>
+<offer id="lg-HP-GP-44" available="true">
+<price>1359</price>
+</offer>
+<offer id="lg-HP-GP-45" available="true">
+<price>1289</price>
+</offer>
+<offer id="lg-HP-GP-46" available="true">
+<price>1219</price>
+</offer>
+<offer id="lg-HP-GP-47" available="true">
+<price>1589</price>
+</offer>
+<offer id="lg-HP-YH-37" available="true">
+<price>739</price>
+</offer>
+<offer id="lg-HP-YH-44" available="true">
+<price>1149</price>
+</offer>
+<offer id="lg-HP-YH-66" available="true">
+<price>1049</price>
+</offer>
+<offer id="lg-HP-YH-9" available="true">
+<price>639</price>
+</offer>
+<offer id="lg-HP038G" available="true">
+<price>549</price>
+</offer>
+<offer id="lg-HP038GR" available="true">
+<price>549</price>
+</offer>
+<offer id="lg-HP1605" available="true">
+<price>1139</price>
+</offer>
+<offer id="lg-HP1607" available="true">
+<price>1279</price>
+</offer>
+<offer id="lg-HP1608" available="true">
+<price>819</price>
+</offer>
+<offer id="lg-HP1610" available="true">
+<price>1279</price>
+</offer>
+<offer id="lg-HP4146" available="true">
+<price>909</price>
+</offer>
+<offer id="lg-HP4149" available="true">
+<price>859</price>
+</offer>
+<offer id="lg-HP4150" available="true">
+<price>759</price>
+</offer>
+<offer id="lg-HP4153" available="true">
+<price>659</price>
+</offer>
+<offer id="lg-HP4154" available="true">
+<price>909</price>
+</offer>
+<offer id="lg-HP4155" available="true">
+<price>609</price>
+</offer>
+<offer id="lg-HP4160" available="true">
+<price>859</price>
+</offer>
+<offer id="lg-HP4164" available="true">
+<price>1179</price>
+</offer>
+<offer id="lg-HP4165" available="true">
+<price>729</price>
+</offer>
+<offer id="lg-HP516" available="true">
+<price>659</price>
+</offer>
+<offer id="lg-HP517" available="true">
+<price>779</price>
+</offer>
+<offer id="lg-HP518" available="true">
+<price>649</price>
+</offer>
+<offer id="lg-HP519" available="true">
+<price>1069</price>
+</offer>
+<offer id="lg-HP544" available="true">
+<price>679</price>
+</offer>
+<offer id="lg-HP545" available="true">
+<price>679</price>
+</offer>
+<offer id="lg-HP546" available="true">
+<price>679</price>
+</offer>
+<offer id="lg-HP548" available="true">
+<price>1959</price>
+</offer>
+<offer id="lg-HP550" available="true">
+<price>1179</price>
+</offer>
+<offer id="lg-HP551" available="true">
+<price>999</price>
+</offer>
+<offer id="lg-HP552" available="true">
+<price>1249</price>
+</offer>
+<offer id="lg-HP553" available="true">
+<price>1279</price>
+</offer>
+<offer id="lg-HP554" available="true">
+<price>1579</price>
+</offer>
+<offer id="lg-HP555" available="true">
+<price>979</price>
+</offer>
+<offer id="lg-HP556" available="true">
+<price>979</price>
+</offer>
+<offer id="lg-HP557" available="true">
+<price>799</price>
+</offer>
+<offer id="lg-HP558" available="true">
+<price>799</price>
+</offer>
+<offer id="lg-HP559" available="true">
+<price>779</price>
+</offer>
+<offer id="lg-HP563" available="true">
+<price>1349</price>
+</offer>
+<offer id="lg-HP564" available="true">
+<price>1349</price>
+</offer>
+<offer id="lg-HP566" available="true">
+<price>1819</price>
+</offer>
+<offer id="lg-HP573" available="true">
+<price>229</price>
+</offer>
+<offer id="lg-HP574" available="true">
+<price>319</price>
+</offer>
+<offer id="lg-HP575" available="true">
+<price>489</price>
+</offer>
+<offer id="lg-HP7115RB" available="true">
+<price>839</price>
+</offer>
+<offer id="lg-HP7116RB" available="true">
+<price>839</price>
+</offer>
+<offer id="lg-HP7118BL" available="true">
+<price>599</price>
+</offer>
+<offer id="lg-HP7118RB" available="true">
+<price>599</price>
+</offer>
+<offer id="lg-HP98" available="true">
+<price>1419</price>
+</offer>
+<offer id="lg-038-9-100" available="true">
+<price>169</price>
+</offer>
+<offer id="lg-120-YH-HG017" available="true">
+<price>269</price>
+</offer>
+<offer id="lg-120-YH-HG023" available="true">
+<price>289</price>
+</offer>
+<offer id="lg-120-YH-HG039" available="true">
+<price>1519</price>
+</offer>
+<offer id="lg-120-YH-HG040" available="true">
+<price>1169</price>
+</offer>
+<offer id="lg-120-YH-HG046" available="true">
+<price>579</price>
+</offer>
+<offer id="lg-120-YH-HG047" available="true">
+<price>579</price>
+</offer>
+<offer id="lg-120-YH-HG048" available="true">
+<price>1389</price>
+</offer>
+<offer id="lg-120-YH-HG049" available="true">
+<price>1129</price>
+</offer>
+<offer id="lg-120-YH-HG050" available="true">
+<price>789</price>
+</offer>
+<offer id="lg-120-YH-HG051" available="true">
+<price>609</price>
+</offer>
+<offer id="lg-120-YH-HG058" available="true">
+<price>1759</price>
+</offer>
+<offer id="lg-120-YH-HG059" available="true">
+<price>1699</price>
+</offer>
+<offer id="lg-2551-1S" available="true">
+<price>759</price>
+</offer>
+<offer id="lg-2552-1S" available="true">
+<price>609</price>
+</offer>
+<offer id="lg-2553-1S" available="true">
+<price>469</price>
+</offer>
+<offer id="lg-64486-21" available="true">
+<price>449</price>
+</offer>
+<offer id="lg-64486-22" available="true">
+<price>479</price>
+</offer>
+<offer id="lg-64486-24" available="true">
+<price>829</price>
+</offer>
+<offer id="lg-64486-50" available="true">
+<price>289</price>
+</offer>
+<offer id="lg-64486-69" available="true">
+<price>799</price>
+</offer>
+<offer id="lg-918-44S" available="true">
+<price>889</price>
+</offer>
+<offer id="lg-ALS-32PCS" available="true">
+<price>20139</price>
+</offer>
+<offer id="lg-AP-1" available="true">
+<price>329</price>
+</offer>
+<offer id="lg-AP-10" available="true">
+<price>779</price>
+</offer>
+<offer id="lg-AP-11" available="true">
+<price>1019</price>
+</offer>
+<offer id="lg-AP-12" available="true">
+<price>749</price>
+</offer>
+<offer id="lg-AP-13" available="true">
+<price>959</price>
+</offer>
+<offer id="lg-AP-14" available="true">
+<price>1139</price>
+</offer>
+<offer id="lg-AP-15" available="true">
+<price>449</price>
+</offer>
+<offer id="lg-AP-16" available="true">
+<price>749</price>
+</offer>
+<offer id="lg-AP-17" available="true">
+<price>1139</price>
+</offer>
+<offer id="lg-AP-20" available="true">
+<price>409</price>
+</offer>
+<offer id="lg-AP-21" available="true">
+<price>699</price>
+</offer>
+<offer id="lg-AP-22" available="true">
+<price>1069</price>
+</offer>
+<offer id="lg-AP-23" available="true">
+<price>789</price>
+</offer>
+<offer id="lg-AP-23-1" available="true">
+<price>989</price>
+</offer>
+<offer id="lg-AP-27" available="true">
+<price>1259</price>
+</offer>
+<offer id="lg-AP-29" available="true">
+<price>959</price>
+</offer>
+<offer id="lg-AP-3" available="true">
+<price>779</price>
+</offer>
+<offer id="lg-AP-4" available="true">
+<price>1139</price>
+</offer>
+<offer id="lg-AP-40" available="true">
+<price>3069</price>
+</offer>
+<offer id="lg-AP-5" available="true">
+<price>329</price>
+</offer>
+<offer id="lg-AP-6" available="true">
+<price>519</price>
+</offer>
+<offer id="lg-AP-7" available="true">
+<price>779</price>
+</offer>
+<offer id="lg-AP-8" available="true">
+<price>1129</price>
+</offer>
+<offer id="lg-AP-9" available="true">
+<price>519</price>
+</offer>
+<offer id="lg-B2W220180" available="true">
+<price>659</price>
+</offer>
+<offer id="lg-B2W250206" available="true">
+<price>819</price>
+</offer>
+<offer id="lg-BWR350180" available="true">
+<price>1009</price>
+</offer>
+<offer id="lg-BWR35018S" available="true">
+<price>969</price>
+</offer>
+<offer id="lg-C11W300" available="true">
+<price>399</price>
+</offer>
+<offer id="lg-C12W350" available="true">
+<price>499</price>
+</offer>
+<offer id="lg-CJY-145" available="true">
+<price>509</price>
+</offer>
+<offer id="lg-CJY-175" available="true">
+<price>719</price>
+</offer>
+<offer id="lg-CR-1-2" available="true">
+<price>419</price>
+</offer>
+<offer id="lg-CR-1-21" available="true">
+<price>839</price>
+</offer>
+<offer id="lg-CR-1-24" available="true">
+<price>469</price>
+</offer>
+<offer id="lg-CR-1-25" available="true">
+<price>469</price>
+</offer>
+<offer id="lg-CR-1-29" available="true">
+<price>599</price>
+</offer>
+<offer id="lg-CR-1-30" available="true">
+<price>599</price>
+</offer>
+<offer id="lg-CR-1-31" available="true">
+<price>569</price>
+</offer>
+<offer id="lg-CR-1-32" available="true">
+<price>419</price>
+</offer>
+<offer id="lg-CR-1-33" available="true">
+<price>549</price>
+</offer>
+<offer id="lg-CR-1-37" available="true">
+<price>239</price>
+</offer>
+<offer id="lg-CR-1-38" available="true">
+<price>639</price>
+</offer>
+<offer id="lg-CR-1-4" available="true">
+<price>289</price>
+</offer>
+<offer id="lg-CR-1-41" available="true">
+<price>509</price>
+</offer>
+<offer id="lg-CR-1-43" available="true">
+<price>299</price>
+</offer>
+<offer id="lg-CR-1-6" available="true">
+<price>659</price>
+</offer>
+<offer id="lg-CR-7-1" available="true">
+<price>649</price>
+</offer>
+<offer id="lg-CR-7-10" available="true">
+<price>879</price>
+</offer>
+<offer id="lg-CR-7-11" available="true">
+<price>1059</price>
+</offer>
+<offer id="lg-CR-7-12" available="true">
+<price>1679</price>
+</offer>
+<offer id="lg-CR-7-2" available="true">
+<price>449</price>
+</offer>
+<offer id="lg-CR-7-3" available="true">
+<price>639</price>
+</offer>
+<offer id="lg-CR-7-4" available="true">
+<price>959</price>
+</offer>
+<offer id="lg-CR-7-5" available="true">
+<price>489</price>
+</offer>
+<offer id="lg-CR-7-6" available="true">
+<price>1049</price>
+</offer>
+<offer id="lg-CR-7-7" available="true">
+<price>1499</price>
+</offer>
+<offer id="lg-CR-7-8" available="true">
+<price>2469</price>
+</offer>
+<offer id="lg-CR-7-9" available="true">
+<price>3209</price>
+</offer>
+<offer id="lg-CR-8-1" available="true">
+<price>849</price>
+</offer>
+<offer id="lg-CR-8-10" available="true">
+<price>879</price>
+</offer>
+<offer id="lg-CR-8-11" available="true">
+<price>1059</price>
+</offer>
+<offer id="lg-CR-8-12" available="true">
+<price>1679</price>
+</offer>
+<offer id="lg-CR-8-2" available="true">
+<price>899</price>
+</offer>
+<offer id="lg-CR-8-3" available="true">
+<price>639</price>
+</offer>
+<offer id="lg-CR-8-4" available="true">
+<price>959</price>
+</offer>
+<offer id="lg-CR-8-5" available="true">
+<price>489</price>
+</offer>
+<offer id="lg-CR-8-6" available="true">
+<price>1049</price>
+</offer>
+<offer id="lg-CR-8-7" available="true">
+<price>1499</price>
+</offer>
+<offer id="lg-CR-8-8" available="true">
+<price>2469</price>
+</offer>
+<offer id="lg-CR-8-9" available="true">
+<price>3209</price>
+</offer>
+<offer id="lg-DD26-25" available="true">
+<price>429</price>
+</offer>
+<offer id="lg-DD26-26" available="true">
+<price>729</price>
+</offer>
+<offer id="lg-DD26-31" available="true">
+<price>939</price>
+</offer>
+<offer id="lg-DD26-33" available="true">
+<price>739</price>
+</offer>
+<offer id="lg-DD26-34" available="true">
+<price>999</price>
+</offer>
+<offer id="lg-DS-32P" available="true">
+<price>12219</price>
+</offer>
+<offer id="lg-FM-34A" available="true">
+<price>489</price>
+</offer>
+<offer id="lg-FM-34C" available="true">
+<price>489</price>
+</offer>
+<offer id="lg-FM-34D" available="true">
+<price>489</price>
+</offer>
+<offer id="lg-FM-42BE" available="true">
+<price>299</price>
+</offer>
+<offer id="lg-FM-42GR" available="true">
+<price>299</price>
+</offer>
+<offer id="lg-FM-42P" available="true">
+<price>299</price>
+</offer>
+<offer id="lg-FM-A23-5" available="true">
+<price>3019</price>
+</offer>
+<offer id="lg-FM-JJ-4" available="true">
+<price>2019</price>
+</offer>
+<offer id="lg-HB-16" available="true">
+<price>5099</price>
+</offer>
+<offer id="lg-HB-24" available="true">
+<price>7369</price>
+</offer>
+<offer id="lg-HB-40-2" available="true">
+<price>709</price>
+</offer>
+<offer id="lg-HB-40-3" available="true">
+<price>1039</price>
+</offer>
+<offer id="lg-HKPP-10" available="true">
+<price>639</price>
+</offer>
+<offer id="lg-HKPP-12" available="true">
+<price>819</price>
+</offer>
+<offer id="lg-HKPP-8" available="true">
+<price>409</price>
+</offer>
+<offer id="lg-HP-1220" available="true">
+<price>3099</price>
+</offer>
+<offer id="lg-HP-15-12" available="true">
+<price>469</price>
+</offer>
+<offer id="lg-HP-15-15" available="true">
+<price>469</price>
+</offer>
+<offer id="lg-HP-15-16" available="true">
+<price>359</price>
+</offer>
+<offer id="lg-HP-15-20" available="true">
+<price>6359</price>
+</offer>
+<offer id="lg-HP-15-21" available="true">
+<price>4919</price>
+</offer>
+<offer id="lg-HP-15-22" available="true">
+<price>4939</price>
+</offer>
+<offer id="lg-HP-15-23" available="true">
+<price>4889</price>
+</offer>
+<offer id="lg-HP-15-25" available="true">
+<price>4649</price>
+</offer>
+<offer id="lg-HP-15-26" available="true">
+<price>7179</price>
+</offer>
+<offer id="lg-HP-15-27" available="true">
+<price>7009</price>
+</offer>
+<offer id="lg-HP-15-28" available="true">
+<price>7419</price>
+</offer>
+<offer id="lg-HP-15-29" available="true">
+<price>7609</price>
+</offer>
+<offer id="lg-HP-15-4" available="true">
+<price>11029</price>
+</offer>
+<offer id="lg-HP-15-5" available="true">
+<price>6789</price>
+</offer>
+<offer id="lg-HP-15-6" available="true">
+<price>6649</price>
+</offer>
+<offer id="lg-HP-15-8" available="true">
+<price>7319</price>
+</offer>
+<offer id="lg-HP-16978-01" available="true">
+<price>519</price>
+</offer>
+<offer id="lg-HP-16978-02" available="true">
+<price>519</price>
+</offer>
+<offer id="lg-HP-16978-03" available="true">
+<price>409</price>
+</offer>
+<offer id="lg-HP-16978-04" available="true">
+<price>599</price>
+</offer>
+<offer id="lg-HP-16978-06" available="true">
+<price>559</price>
+</offer>
+<offer id="lg-HP-16978-08" available="true">
+<price>499</price>
+</offer>
+<offer id="lg-HP-16978-09" available="true">
+<price>559</price>
+</offer>
+<offer id="lg-HP-16978-10" available="true">
+<price>519</price>
+</offer>
+<offer id="lg-HP-16978-11" available="true">
+<price>519</price>
+</offer>
+<offer id="lg-HP-16978-12" available="true">
+<price>409</price>
+</offer>
+<offer id="lg-HP-16978-13" available="true">
+<price>449</price>
+</offer>
+<offer id="lg-HP-16978-14" available="true">
+<price>479</price>
+</offer>
+<offer id="lg-HP-16978-15" available="true">
+<price>389</price>
+</offer>
+<offer id="lg-HP-16978-16" available="true">
+<price>479</price>
+</offer>
+<offer id="lg-HP-16978-19" available="true">
+<price>429</price>
+</offer>
+<offer id="lg-HP-16978-24" available="true">
+<price>2679</price>
+</offer>
+<offer id="lg-HP-16978-26" available="true">
+<price>2679</price>
+</offer>
+<offer id="lg-HP-17-52" available="true">
+<price>359</price>
+</offer>
+<offer id="lg-HP-17-53" available="true">
+<price>369</price>
+</offer>
+<offer id="lg-HP-17-54" available="true">
+<price>369</price>
+</offer>
+<offer id="lg-HP-17-56" available="true">
+<price>639</price>
+</offer>
+<offer id="lg-HP-17-57" available="true">
+<price>639</price>
+</offer>
+<offer id="lg-HP-19-118" available="true">
+<price>1009</price>
+</offer>
+<offer id="lg-HP-19-14" available="true">
+<price>349</price>
+</offer>
+<offer id="lg-HP-19-15-G" available="true">
+<price>239</price>
+</offer>
+<offer id="lg-HP-19-15-Y" available="true">
+<price>179</price>
+</offer>
+<offer id="lg-HP-19-185" available="true">
+<price>959</price>
+</offer>
+<offer id="lg-HP-19-193" available="true">
+<price>959</price>
+</offer>
+<offer id="lg-HP-19-212" available="true">
+<price>959</price>
+</offer>
+<offer id="lg-HP-19-227" available="true">
+<price>959</price>
+</offer>
+<offer id="lg-HP-19-249" available="true">
+<price>969</price>
+</offer>
+<offer id="lg-HP-19-271" available="true">
+<price>959</price>
+</offer>
+<offer id="lg-HP-19-277" available="true">
+<price>959</price>
+</offer>
+<offer id="lg-HP-19-283" available="true">
+<price>959</price>
+</offer>
+<offer id="lg-HP-19-70" available="true">
+<price>1009</price>
+</offer>
+<offer id="lg-HP-20-1" available="true">
+<price>2039</price>
+</offer>
+<offer id="lg-HP-20-11" available="true">
+<price>409</price>
+</offer>
+<offer id="lg-HP-20-16" available="true">
+<price>5159</price>
+</offer>
+<offer id="lg-HP-20-17" available="true">
+<price>5479</price>
+</offer>
+<offer id="lg-HP-20-18" available="true">
+<price>5479</price>
+</offer>
+<offer id="lg-HP-20-2" available="true">
+<price>2569</price>
+</offer>
+<offer id="lg-HP-20-23" available="true">
+<price>5479</price>
+</offer>
+<offer id="lg-HP-20-24" available="true">
+<price>1829</price>
+</offer>
+<offer id="lg-HP-20-26" available="true">
+<price>2049</price>
+</offer>
+<offer id="lg-HP-20-29" available="true">
+<price>4079</price>
+</offer>
+<offer id="lg-HP-20-3" available="true">
+<price>389</price>
+</offer>
+<offer id="lg-HP-20-30" available="true">
+<price>509</price>
+</offer>
+<offer id="lg-HP-20-35" available="true">
+<price>369</price>
+</offer>
+<offer id="lg-HP-20-36" available="true">
+<price>559</price>
+</offer>
+<offer id="lg-HP-20-37" available="true">
+<price>499</price>
+</offer>
+<offer id="lg-HP-20-40" available="true">
+<price>399</price>
+</offer>
+<offer id="lg-HP-20-42" available="true">
+<price>1419</price>
+</offer>
+<offer id="lg-HP-20-44" available="true">
+<price>1639</price>
+</offer>
+<offer id="lg-HP-20-45" available="true">
+<price>1759</price>
+</offer>
+<offer id="lg-HP-20-46" available="true">
+<price>1829</price>
+</offer>
+<offer id="lg-HP-20-47" available="true">
+<price>1829</price>
+</offer>
+<offer id="lg-HP-20-48" available="true">
+<price>1829</price>
+</offer>
+<offer id="lg-HP-20-52" available="true">
+<price>609</price>
+</offer>
+<offer id="lg-HP-20-57" available="true">
+<price>589</price>
+</offer>
+<offer id="lg-HP-20-58" available="true">
+<price>569</price>
+</offer>
+<offer id="lg-HP-20-59" available="true">
+<price>589</price>
+</offer>
+<offer id="lg-HP-20-6" available="true">
+<price>429</price>
+</offer>
+<offer id="lg-HP-20-60" available="true">
+<price>569</price>
+</offer>
+<offer id="lg-HP-20-61" available="true">
+<price>589</price>
+</offer>
+<offer id="lg-HP-20-62" available="true">
+<price>589</price>
+</offer>
+<offer id="lg-HP-20-8" available="true">
+<price>389</price>
+</offer>
+<offer id="lg-HP-34-100" available="true">
+<price>909</price>
+</offer>
+<offer id="lg-HP-34-101" available="true">
+<price>639</price>
+</offer>
+<offer id="lg-HP-34-110" available="true">
+<price>1389</price>
+</offer>
+<offer id="lg-HP-34-111" available="true">
+<price>1869</price>
+</offer>
+<offer id="lg-HP-34-112" available="true">
+<price>1869</price>
+</offer>
+<offer id="lg-HP-34-43" available="true">
+<price>1869</price>
+</offer>
+<offer id="lg-HP-34-59" available="true">
+<price>699</price>
+</offer>
+<offer id="lg-HP-34-60" available="true">
+<price>859</price>
+</offer>
+<offer id="lg-HP-34-61" available="true">
+<price>1159</price>
+</offer>
+<offer id="lg-HP-34-74" available="true">
+<price>629</price>
+</offer>
+<offer id="lg-HP-34-84" available="true">
+<price>2219</price>
+</offer>
+<offer id="lg-HP-34-91" available="true">
+<price>1399</price>
+</offer>
+<offer id="lg-HP-34-93" available="true">
+<price>1239</price>
+</offer>
+<offer id="lg-HP-34-94" available="true">
+<price>1399</price>
+</offer>
+<offer id="lg-HP-7-709N" available="true">
+<price>9359</price>
+</offer>
+<offer id="lg-HP-7-710" available="true">
+<price>9359</price>
+</offer>
+<offer id="lg-HP-7-711" available="true">
+<price>6839</price>
+</offer>
+<offer id="lg-HP-7-712" available="true">
+<price>8299</price>
+</offer>
+<offer id="lg-HP-7-713N" available="true">
+<price>8299</price>
+</offer>
+<offer id="lg-HP-7-714" available="true">
+<price>3399</price>
+</offer>
+<offer id="lg-HP-7-714N" available="true">
+<price>7449</price>
+</offer>
+<offer id="lg-HP-7-715" available="true">
+<price>5329</price>
+</offer>
+<offer id="lg-HP-7-716" available="true">
+<price>5329</price>
+</offer>
+<offer id="lg-HP-7-722" available="true">
+<price>599</price>
+</offer>
+<offer id="lg-HP-7-723" available="true">
+<price>469</price>
+</offer>
+<offer id="lg-HP-7-724" available="true">
+<price>429</price>
+</offer>
+<offer id="lg-HP-7-725" available="true">
+<price>279</price>
+</offer>
+<offer id="lg-HP-7-726" available="true">
+<price>599</price>
+</offer>
+<offer id="lg-HP-7-727" available="true">
+<price>469</price>
+</offer>
+<offer id="lg-HP-7-728" available="true">
+<price>429</price>
+</offer>
+<offer id="lg-HP-7-729" available="true">
+<price>279</price>
+</offer>
+<offer id="lg-HP-7-732" available="true">
+<price>469</price>
+</offer>
+<offer id="lg-HP-7-733" available="true">
+<price>339</price>
+</offer>
+<offer id="lg-HP-7-734" available="true">
+<price>209</price>
+</offer>
+<offer id="lg-HP-7-738" available="true">
+<price>339</price>
+</offer>
+<offer id="lg-HP-7-739" available="true">
+<price>239</price>
+</offer>
+<offer id="lg-HP-7-740" available="true">
+<price>189</price>
 </offer>
 <offer id="PLX-310" available="true">
 <price>10</price>
