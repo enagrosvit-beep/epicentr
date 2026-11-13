@@ -221,7 +221,7 @@
 <price>139</price>
 </offer>
 <offer id="PLX-LN-0586" available="true">
-<price>259</price>
+<price>289</price>
 </offer>
 <offer id="PLX-N427" available="true">
 <price>209</price>
@@ -545,7 +545,7 @@
 <price>649</price>
 </offer>
 <offer id="PLX-20277" available="true">
-<price>129</price>
+<price>99</price>
 </offer>
 <offer id="PLX-20278" available="true">
 <price>129</price>
@@ -560,19 +560,19 @@
 <price>149</price>
 </offer>
 <offer id="PLX-20235" available="true">
-<price>139</price>
+<price>119</price>
 </offer>
 <offer id="PLX-20236" available="true">
 <price>139</price>
 </offer>
 <offer id="PLX-20237" available="true">
-<price>139</price>
+<price>119</price>
 </offer>
 <offer id="PLX-20238" available="true">
 <price>119</price>
 </offer>
 <offer id="PLX-20239" available="true">
-<price>159</price>
+<price>179</price>
 </offer>
 <offer id="PLX-34462" available="true">
 <price>139</price>
@@ -593,7 +593,7 @@
 <price>229</price>
 </offer>
 <offer id="PLX-20251" available="true">
-<price>139</price>
+<price>149</price>
 </offer>
 <offer id="PLX-20252" available="true">
 <price>179</price>
@@ -602,19 +602,19 @@
 <price>179</price>
 </offer>
 <offer id="PLX-20256" available="true">
-<price>149</price>
+<price>139</price>
 </offer>
 <offer id="PLX-20257" available="true">
 <price>159</price>
 </offer>
 <offer id="PLX-22153" available="true">
-<price>129</price>
+<price>139</price>
 </offer>
 <offer id="PLX-34460" available="true">
 <price>179</price>
 </offer>
 <offer id="PLX-22154" available="true">
-<price>99</price>
+<price>109</price>
 </offer>
 <offer id="PLX-24879" available="true">
 <price>109</price>
@@ -623,10 +623,10 @@
 <price>119</price>
 </offer>
 <offer id="PLX-20288" available="true">
-<price>129</price>
+<price>89</price>
 </offer>
 <offer id="PLX-20293" available="true">
-<price>109</price>
+<price>119</price>
 </offer>
 <offer id="PLX-25681" available="true">
 <price>109</price>
@@ -659,10 +659,10 @@
 <price>179</price>
 </offer>
 <offer id="PLX-90016293" available="true">
-<price>369</price>
+<price>389</price>
 </offer>
 <offer id="PLX-90016296" available="true">
-<price>449</price>
+<price>469</price>
 </offer>
 <offer id="PLX-90016224" available="true">
 <price>559</price>
@@ -671,7 +671,7 @@
 <price>389</price>
 </offer>
 <offer id="PLX-90016225" available="true">
-<price>429</price>
+<price>439</price>
 </offer>
 <offer id="PLX-90016227" available="true">
 <price>579</price>
@@ -683,13 +683,13 @@
 <price>529</price>
 </offer>
 <offer id="PLX-90016228" available="true">
-<price>519</price>
+<price>529</price>
 </offer>
 <offer id="PLX-90016234" available="true">
-<price>459</price>
+<price>469</price>
 </offer>
 <offer id="PLX-90016235" available="true">
-<price>449</price>
+<price>469</price>
 </offer>
 <offer id="PLX-90016285" available="true">
 <price>729</price>
@@ -809,7 +809,7 @@
 <price>549</price>
 </offer>
 <offer id="PLX-20447" available="true">
-<price>489</price>
+<price>469</price>
 </offer>
 <offer id="PLX-33322" available="true">
 <price>119</price>
@@ -860,7 +860,7 @@
 <price>449</price>
 </offer>
 <offer id="PLX-20157" available="true">
-<price>479</price>
+<price>469</price>
 </offer>
 <offer id="PLX-20158" available="true">
 <price>449</price>
@@ -1091,7 +1091,7 @@
 <price>709</price>
 </offer>
 <offer id="PLX-90026876" available="true">
-<price>489</price>
+<price>499</price>
 </offer>
 <offer id="PLX-90026877" available="true">
 <price>719</price>
@@ -1127,7 +1127,7 @@
 <price>339</price>
 </offer>
 <offer id="PLX-90025958" available="true">
-<price>309</price>
+<price>339</price>
 </offer>
 <offer id="PLX-90016581" available="true">
 <price>339</price>
@@ -1649,7 +1649,7 @@
 <price>579</price>
 </offer>
 <offer id="PLX-15-141-01" available="true">
-<price>709</price>
+<price>609</price>
 </offer>
 <offer id="PLX-K84089" available="true">
 <price>509</price>
@@ -2795,10 +2795,10 @@
 <price>229</price>
 </offer>
 <offer id="PLX-90026733" available="true">
-<price>219</price>
+<price>249</price>
 </offer>
 <offer id="PLX-90026735" available="true">
-<price>199</price>
+<price>229</price>
 </offer>
 <offer id="PLX-90026737" available="true">
 <price>249</price>
@@ -2825,10 +2825,10 @@
 <price>149</price>
 </offer>
 <offer id="PLX-90026754" available="true">
-<price>419</price>
+<price>429</price>
 </offer>
 <offer id="PLX-90026755" available="true">
-<price>419</price>
+<price>429</price>
 </offer>
 <offer id="PLX-90026752" available="true">
 <price>489</price>
@@ -2846,7 +2846,7 @@
 <price>549</price>
 </offer>
 <offer id="PLX-90026694" available="true">
-<price>529</price>
+<price>539</price>
 </offer>
 <offer id="PLX-90026693" available="true">
 <price>529</price>
@@ -2873,7 +2873,7 @@
 <price>539</price>
 </offer>
 <offer id="PLX-90026700" available="true">
-<price>549</price>
+<price>559</price>
 </offer>
 <offer id="PLX-90026704" available="true">
 <price>639</price>
@@ -2885,10 +2885,10 @@
 <price>489</price>
 </offer>
 <offer id="PLX-90026750" available="true">
-<price>549</price>
+<price>559</price>
 </offer>
 <offer id="PLX-90026709" available="true">
-<price>549</price>
+<price>559</price>
 </offer>
 <offer id="PLX-90026710" available="true">
 <price>609</price>
@@ -2999,7 +2999,7 @@
 <price>429</price>
 </offer>
 <offer id="PLX-90026742" available="true">
-<price>369</price>
+<price>389</price>
 </offer>
 <offer id="PLX-967" available="true">
 <price>409</price>
@@ -3080,7 +3080,7 @@
 <price>1159</price>
 </offer>
 <offer id="PLX-879" available="true">
-<price>389</price>
+<price>399</price>
 </offer>
 <offer id="PLX-880" available="true">
 <price>649</price>
@@ -3368,7 +3368,7 @@
 <price>69</price>
 </offer>
 <offer id="PLX-16-03-003" available="true">
-<price>79</price>
+<price>109</price>
 </offer>
 <offer id="PLX-16-03-004" available="true">
 <price>149</price>
@@ -4547,7 +4547,7 @@
 <price>109</price>
 </offer>
 <offer id="PLX-108729" available="true">
-<price>99</price>
+<price>129</price>
 </offer>
 <offer id="PLX-110300" available="true">
 <price>679</price>
@@ -4577,10 +4577,10 @@
 <price>45</price>
 </offer>
 <offer id="PLX-341502" available="true">
-<price>45</price>
+<price>79</price>
 </offer>
 <offer id="PLX-341602" available="true">
-<price>45</price>
+<price>79</price>
 </offer>
 <offer id="PLX-341702" available="true">
 <price>29</price>
@@ -6011,7 +6011,7 @@
 <price>249</price>
 </offer>
 <offer id="PLX-365" available="true">
-<price>299</price>
+<price>329</price>
 </offer>
 <offer id="PLX-2204" available="true">
 <price>59</price>
@@ -6638,7 +6638,7 @@
 <price>199</price>
 </offer>
 <offer id="PLX-440" available="true">
-<price>309</price>
+<price>339</price>
 </offer>
 <offer id="PLX-3214" available="true">
 <price>419</price>
@@ -6899,10 +6899,10 @@
 <price>989</price>
 </offer>
 <offer id="PLX-54-040" available="true">
-<price>789</price>
+<price>799</price>
 </offer>
 <offer id="PLX-54-034" available="true">
-<price>799</price>
+<price>809</price>
 </offer>
 <offer id="PLX-54-035" available="true">
 <price>749</price>
@@ -6914,7 +6914,7 @@
 <price>1449</price>
 </offer>
 <offer id="PLX-54-027" available="true">
-<price>1569</price>
+<price>1579</price>
 </offer>
 <offer id="PLX-54-029" available="true">
 <price>1449</price>
@@ -6935,25 +6935,25 @@
 <price>189</price>
 </offer>
 <offer id="PLX-32-070" available="true">
-<price>129</price>
+<price>179</price>
 </offer>
 <offer id="PLX-32-069" available="true">
 <price>289</price>
 </offer>
 <offer id="PLX-32-047" available="true">
-<price>129</price>
+<price>169</price>
 </offer>
 <offer id="PLX-32-023" available="true">
-<price>179</price>
+<price>209</price>
 </offer>
 <offer id="PLX-32-072" available="true">
 <price>199</price>
 </offer>
 <offer id="PLX-32-071" available="true">
-<price>209</price>
+<price>239</price>
 </offer>
 <offer id="PLX-21-031" available="true">
-<price>119</price>
+<price>169</price>
 </offer>
 <offer id="PLX-21-014" available="true">
 <price>669</price>
@@ -6983,13 +6983,13 @@
 <price>79</price>
 </offer>
 <offer id="PLX-02-001" available="true">
-<price>89</price>
+<price>129</price>
 </offer>
 <offer id="PLX-02-002" available="true">
 <price>139</price>
 </offer>
 <offer id="PLX-02-025" available="true">
-<price>249</price>
+<price>269</price>
 </offer>
 <offer id="PLX-02-021" available="true">
 <price>79</price>
@@ -7028,7 +7028,7 @@
 <price>129</price>
 </offer>
 <offer id="PLX-17-002" available="true">
-<price>109</price>
+<price>139</price>
 </offer>
 <offer id="PLX-17-019" available="true">
 <price>269</price>
@@ -7049,7 +7049,7 @@
 <price>109</price>
 </offer>
 <offer id="PLX-21-032" available="true">
-<price>429</price>
+<price>439</price>
 </offer>
 <offer id="PLX-21-033" available="true">
 <price>579</price>
@@ -7073,16 +7073,16 @@
 <price>69</price>
 </offer>
 <offer id="PLX-20-001" available="true">
-<price>79</price>
+<price>119</price>
 </offer>
 <offer id="PLX-20-002" available="true">
-<price>89</price>
+<price>129</price>
 </offer>
 <offer id="PLX-21-037" available="true">
-<price>199</price>
+<price>229</price>
 </offer>
 <offer id="PLX-21-034" available="true">
-<price>89</price>
+<price>129</price>
 </offer>
 <offer id="PLX-56-010" available="true">
 <price>149</price>
@@ -7094,10 +7094,10 @@
 <price>99</price>
 </offer>
 <offer id="PLX-56-003" available="true">
-<price>79</price>
+<price>109</price>
 </offer>
 <offer id="PLX-56-004" available="true">
-<price>79</price>
+<price>119</price>
 </offer>
 <offer id="PLX-56-001" available="true">
 <price>69</price>
@@ -7106,7 +7106,7 @@
 <price>79</price>
 </offer>
 <offer id="PLX-56-005" available="true">
-<price>219</price>
+<price>249</price>
 </offer>
 <offer id="PLX-56-006" available="true">
 <price>399</price>
@@ -7124,7 +7124,7 @@
 <price>45</price>
 </offer>
 <offer id="PLX-19-004" available="true">
-<price>59</price>
+<price>89</price>
 </offer>
 <offer id="PLX-19-001" available="true">
 <price>89</price>
@@ -7160,19 +7160,19 @@
 <price>139</price>
 </offer>
 <offer id="PLX-1-09" available="true">
-<price>179</price>
+<price>159</price>
 </offer>
 <offer id="PLX-1-07" available="true">
 <price>89</price>
 </offer>
 <offer id="PLX-1-10" available="true">
-<price>149</price>
+<price>189</price>
 </offer>
 <offer id="PLX-1-11" available="true">
-<price>159</price>
+<price>199</price>
 </offer>
 <offer id="PLX-18-004" available="true">
-<price>59</price>
+<price>89</price>
 </offer>
 <offer id="PLX-18-005" available="true">
 <price>35</price>
@@ -7184,13 +7184,13 @@
 <price>119</price>
 </offer>
 <offer id="PLX-18-002" available="true">
-<price>99</price>
+<price>139</price>
 </offer>
 <offer id="PLX-18-003" available="true">
 <price>89</price>
 </offer>
 <offer id="PLX-21-001" available="true">
-<price>89</price>
+<price>129</price>
 </offer>
 <offer id="PLX-21-003" available="true">
 <price>179</price>
@@ -7205,13 +7205,13 @@
 <price>35</price>
 </offer>
 <offer id="PLX-100-007" available="true">
-<price>69</price>
+<price>99</price>
 </offer>
 <offer id="PLX-100-008" available="true">
 <price>89</price>
 </offer>
 <offer id="PLX-07-016" available="true">
-<price>779</price>
+<price>789</price>
 </offer>
 <offer id="PLX-07-005" available="true">
 <price>139</price>
@@ -7220,7 +7220,7 @@
 <price>119</price>
 </offer>
 <offer id="PLX-07-004" available="true">
-<price>89</price>
+<price>129</price>
 </offer>
 <offer id="PLX-07-007" available="true">
 <price>199</price>
@@ -7235,10 +7235,10 @@
 <price>329</price>
 </offer>
 <offer id="PLX-07-003" available="true">
-<price>419</price>
+<price>429</price>
 </offer>
 <offer id="PLX-07-012" available="true">
-<price>329</price>
+<price>359</price>
 </offer>
 <offer id="PLX-07-015" available="true">
 <price>289</price>
@@ -7280,7 +7280,7 @@
 <price>129</price>
 </offer>
 <offer id="PLX-1-14" available="true">
-<price>99</price>
+<price>139</price>
 </offer>
 <offer id="PLX-100-429" available="true">
 <price>79</price>
@@ -7322,13 +7322,13 @@
 <price>109</price>
 </offer>
 <offer id="PLX-51-029" available="true">
-<price>79</price>
+<price>119</price>
 </offer>
 <offer id="PLX-51-028" available="true">
-<price>79</price>
+<price>119</price>
 </offer>
 <offer id="PLX-51-027" available="true">
-<price>79</price>
+<price>119</price>
 </offer>
 <offer id="PLX-51-034" available="true">
 <price>279</price>
@@ -7337,7 +7337,7 @@
 <price>379</price>
 </offer>
 <offer id="PLX-51-048" available="true">
-<price>649</price>
+<price>659</price>
 </offer>
 <offer id="PLX-51-052" available="true">
 <price>1199</price>
@@ -7361,22 +7361,22 @@
 <price>119</price>
 </offer>
 <offer id="PLX-38-042" available="true">
-<price>109</price>
+<price>139</price>
 </offer>
 <offer id="PLX-38-043" available="true">
-<price>119</price>
+<price>149</price>
 </offer>
 <offer id="PLX-38-010" available="true">
-<price>79</price>
+<price>69</price>
 </offer>
 <offer id="PLX-38-011" available="true">
 <price>119</price>
 </offer>
 <offer id="PLX-38-071" available="true">
-<price>119</price>
+<price>149</price>
 </offer>
 <offer id="PLX-38-072" available="true">
-<price>209</price>
+<price>239</price>
 </offer>
 <offer id="PLX-38-067" available="true">
 <price>529</price>
@@ -7403,13 +7403,13 @@
 <price>1179</price>
 </offer>
 <offer id="PLX-38-053" available="true">
-<price>459</price>
+<price>469</price>
 </offer>
 <offer id="PLX-38-050" available="true">
-<price>289</price>
+<price>319</price>
 </offer>
 <offer id="PLX-38-051" available="true">
-<price>339</price>
+<price>359</price>
 </offer>
 <offer id="PLX-38-052" available="true">
 <price>419</price>
@@ -7421,13 +7421,13 @@
 <price>449</price>
 </offer>
 <offer id="PLX-29-014" available="true">
-<price>179</price>
+<price>209</price>
 </offer>
 <offer id="PLX-29-011" available="true">
-<price>199</price>
+<price>229</price>
 </offer>
 <offer id="PLX-29-017" available="true">
-<price>169</price>
+<price>209</price>
 </offer>
 <offer id="PLX-37-157" available="true">
 <price>69</price>
@@ -7496,7 +7496,7 @@
 <price>429</price>
 </offer>
 <offer id="PLX-32-036" available="true">
-<price>429</price>
+<price>439</price>
 </offer>
 <offer id="PLX-32-029" available="true">
 <price>349</price>
@@ -7511,16 +7511,16 @@
 <price>99</price>
 </offer>
 <offer id="PLX-54-186" available="true">
-<price>69</price>
+<price>99</price>
 </offer>
 <offer id="PLX-54-187" available="true">
 <price>99</price>
 </offer>
 <offer id="PLX-54-225" available="true">
-<price>69</price>
+<price>99</price>
 </offer>
 <offer id="PLX-54-183" available="true">
-<price>69</price>
+<price>99</price>
 </offer>
 <offer id="PLX-54-184" available="true">
 <price>99</price>
@@ -7550,7 +7550,7 @@
 <price>59</price>
 </offer>
 <offer id="PLX-54-131" available="true">
-<price>149</price>
+<price>189</price>
 </offer>
 <offer id="PLX-54-211" available="true">
 <price>439</price>
@@ -7604,25 +7604,25 @@
 <price>289</price>
 </offer>
 <offer id="PLX-54-134" available="true">
-<price>199</price>
+<price>239</price>
 </offer>
 <offer id="PLX-54-139" available="true">
-<price>229</price>
+<price>259</price>
 </offer>
 <offer id="PLX-54-140" available="true">
 <price>409</price>
 </offer>
 <offer id="PLX-54-194" available="true">
-<price>259</price>
+<price>289</price>
 </offer>
 <offer id="PLX-54-179" available="true">
-<price>439</price>
+<price>449</price>
 </offer>
 <offer id="PLX-54-181" available="true">
-<price>459</price>
+<price>479</price>
 </offer>
 <offer id="PLX-37-178" available="true">
-<price>289</price>
+<price>299</price>
 </offer>
 <offer id="PLX-37-179" available="true">
 <price>349</price>
@@ -7634,16 +7634,16 @@
 <price>559</price>
 </offer>
 <offer id="PLX-32-012" available="true">
-<price>369</price>
+<price>389</price>
 </offer>
 <offer id="PLX-37-185" available="true">
-<price>259</price>
+<price>289</price>
 </offer>
 <offer id="PLX-37-182" available="true">
-<price>409</price>
+<price>419</price>
 </offer>
 <offer id="PLX-37-184" available="true">
-<price>179</price>
+<price>199</price>
 </offer>
 <offer id="PLX-37-181" available="true">
 <price>289</price>
@@ -7664,28 +7664,28 @@
 <price>129</price>
 </offer>
 <offer id="PLX-1000-227" available="true">
-<price>79</price>
+<price>109</price>
 </offer>
 <offer id="PLX-37-186" available="true">
-<price>219</price>
+<price>249</price>
 </offer>
 <offer id="PLX-37-188" available="true">
 <price>609</price>
 </offer>
 <offer id="PLX-37-187" available="true">
-<price>399</price>
+<price>409</price>
 </offer>
 <offer id="PLX-1000-040" available="true">
 <price>35</price>
 </offer>
 <offer id="PLX-1000-042" available="true">
-<price>45</price>
+<price>79</price>
 </offer>
 <offer id="PLX-1000-043" available="true">
 <price>35</price>
 </offer>
 <offer id="PLX-34-001" available="true">
-<price>209</price>
+<price>239</price>
 </offer>
 <offer id="PLX-70-092" available="true">
 <price>289</price>
@@ -7697,19 +7697,19 @@
 <price>69</price>
 </offer>
 <offer id="PLX-70-072" available="true">
-<price>59</price>
+<price>89</price>
 </offer>
 <offer id="PLX-70-074" available="true">
 <price>69</price>
 </offer>
 <offer id="PLX-70-078" available="true">
-<price>59</price>
+<price>89</price>
 </offer>
 <offer id="PLX-70-079" available="true">
 <price>59</price>
 </offer>
 <offer id="PLX-70-080" available="true">
-<price>79</price>
+<price>119</price>
 </offer>
 <offer id="PLX-70-082" available="true">
 <price>149</price>
@@ -7718,10 +7718,10 @@
 <price>45</price>
 </offer>
 <offer id="PLX-70-061" available="true">
-<price>59</price>
+<price>89</price>
 </offer>
 <offer id="PLX-70-062" available="true">
-<price>69</price>
+<price>99</price>
 </offer>
 <offer id="PLX-70-063" available="true">
 <price>69</price>
@@ -7736,13 +7736,13 @@
 <price>45</price>
 </offer>
 <offer id="PLX-70-057" available="true">
-<price>69</price>
+<price>99</price>
 </offer>
 <offer id="PLX-70-058" available="true">
 <price>109</price>
 </offer>
 <offer id="PLX-70-059" available="true">
-<price>79</price>
+<price>119</price>
 </offer>
 <offer id="PLX-70-093" available="true">
 <price>249</price>
@@ -7760,7 +7760,7 @@
 <price>269</price>
 </offer>
 <offer id="PLX-70-088" available="true">
-<price>149</price>
+<price>189</price>
 </offer>
 <offer id="PLX-70-083" available="true">
 <price>35</price>
@@ -7769,40 +7769,40 @@
 <price>109</price>
 </offer>
 <offer id="PLX-70-085" available="true">
-<price>59</price>
+<price>99</price>
 </offer>
 <offer id="PLX-70-065" available="true">
 <price>35</price>
 </offer>
 <offer id="PLX-36-011" available="true">
-<price>199</price>
+<price>229</price>
 </offer>
 <offer id="PLX-36-012" available="true">
-<price>209</price>
+<price>239</price>
 </offer>
 <offer id="PLX-39-003" available="true">
-<price>159</price>
+<price>199</price>
 </offer>
 <offer id="PLX-39-004" available="true">
-<price>409</price>
+<price>419</price>
 </offer>
 <offer id="PLX-39-007" available="true">
-<price>269</price>
+<price>289</price>
 </offer>
 <offer id="PLX-39-009" available="true">
-<price>409</price>
+<price>419</price>
 </offer>
 <offer id="PLX-25-005" available="true">
-<price>179</price>
+<price>219</price>
 </offer>
 <offer id="PLX-25-017" available="true">
-<price>269</price>
+<price>289</price>
 </offer>
 <offer id="PLX-25-018" available="true">
-<price>269</price>
+<price>299</price>
 </offer>
 <offer id="PLX-25-020" available="true">
-<price>499</price>
+<price>509</price>
 </offer>
 <offer id="PLX-25-114" available="true">
 <price>699</price>
@@ -7814,7 +7814,7 @@
 <price>1549</price>
 </offer>
 <offer id="PLX-44-001" available="true">
-<price>399</price>
+<price>409</price>
 </offer>
 <offer id="PLX-44-004" available="true">
 <price>579</price>
@@ -7826,10 +7826,10 @@
 <price>939</price>
 </offer>
 <offer id="PLX-37-121" available="true">
-<price>79</price>
+<price>109</price>
 </offer>
 <offer id="PLX-37-122" available="true">
-<price>79</price>
+<price>119</price>
 </offer>
 <offer id="PLX-37-123" available="true">
 <price>129</price>
@@ -7919,7 +7919,7 @@
 <price>339</price>
 </offer>
 <offer id="PLX-36-005" available="true">
-<price>339</price>
+<price>359</price>
 </offer>
 <offer id="PLX-36-006" available="true">
 <price>579</price>
@@ -7949,7 +7949,7 @@
 <price>349</price>
 </offer>
 <offer id="PLX-31-005" available="true">
-<price>229</price>
+<price>259</price>
 </offer>
 <offer id="PLX-31-006" available="true">
 <price>199</price>
@@ -7991,7 +7991,7 @@
 <price>349</price>
 </offer>
 <offer id="PLX-36-030" available="true">
-<price>389</price>
+<price>409</price>
 </offer>
 <offer id="PLX-36-059" available="true">
 <price>689</price>
@@ -8000,7 +8000,7 @@
 <price>699</price>
 </offer>
 <offer id="PLX-36-050" available="true">
-<price>429</price>
+<price>439</price>
 </offer>
 <offer id="PLX-36-047" available="true">
 <price>439</price>
@@ -8015,10 +8015,10 @@
 <price>669</price>
 </offer>
 <offer id="PLX-41-027" available="true">
-<price>129</price>
+<price>179</price>
 </offer>
 <offer id="PLX-41-024" available="true">
-<price>119</price>
+<price>149</price>
 </offer>
 <offer id="PLX-41-025" available="true">
 <price>189</price>
@@ -8027,13 +8027,13 @@
 <price>149</price>
 </offer>
 <offer id="PLX-41-026" available="true">
-<price>139</price>
+<price>179</price>
 </offer>
 <offer id="PLX-25-118" available="true">
 <price>259</price>
 </offer>
 <offer id="PLX-25-119" available="true">
-<price>839</price>
+<price>849</price>
 </offer>
 <offer id="PLX-25-120" available="true">
 <price>1139</price>
@@ -8054,13 +8054,13 @@
 <price>169</price>
 </offer>
 <offer id="PLX-23-014" available="true">
-<price>45</price>
+<price>79</price>
 </offer>
 <offer id="PLX-23-015" available="true">
 <price>449</price>
 </offer>
 <offer id="PLX-23-013" available="true">
-<price>45</price>
+<price>79</price>
 </offer>
 <offer id="PLX-47-013" available="true">
 <price>379</price>
@@ -8072,34 +8072,34 @@
 <price>1099</price>
 </offer>
 <offer id="PLX-47-012" available="true">
-<price>259</price>
+<price>289</price>
 </offer>
 <offer id="PLX-47-017" available="true">
 <price>429</price>
 </offer>
 <offer id="PLX-47-002" available="true">
-<price>349</price>
+<price>369</price>
 </offer>
 <offer id="PLX-47-018" available="true">
-<price>449</price>
+<price>469</price>
 </offer>
 <offer id="PLX-47-003" available="true">
-<price>369</price>
+<price>389</price>
 </offer>
 <offer id="PLX-47-005" available="true">
 <price>349</price>
 </offer>
 <offer id="PLX-47-006" available="true">
-<price>249</price>
+<price>279</price>
 </offer>
 <offer id="PLX-47-007" available="true">
 <price>249</price>
 </offer>
 <offer id="PLX-47-009" available="true">
-<price>339</price>
+<price>359</price>
 </offer>
 <offer id="PLX-33-003" available="true">
-<price>179</price>
+<price>219</price>
 </offer>
 <offer id="PLX-25-001" available="true">
 <price>439</price>
@@ -8108,16 +8108,16 @@
 <price>1019</price>
 </offer>
 <offer id="PLX-70-146" available="true">
-<price>239</price>
+<price>259</price>
 </offer>
 <offer id="PLX-70-145" available="true">
 <price>349</price>
 </offer>
 <offer id="PLX-53-058" available="true">
-<price>59</price>
+<price>89</price>
 </offer>
 <offer id="PLX-53-053" available="true">
-<price>79</price>
+<price>119</price>
 </offer>
 <offer id="PLX-53-049" available="true">
 <price>109</price>
@@ -8159,7 +8159,7 @@
 <price>239</price>
 </offer>
 <offer id="PLX-53-007" available="true">
-<price>89</price>
+<price>129</price>
 </offer>
 <offer id="PLX-53-009" available="true">
 <price>139</price>
@@ -8177,7 +8177,7 @@
 <price>249</price>
 </offer>
 <offer id="PLX-35-004" available="true">
-<price>269</price>
+<price>279</price>
 </offer>
 <offer id="PLX-35-025" available="true">
 <price>219</price>
@@ -8186,7 +8186,7 @@
 <price>259</price>
 </offer>
 <offer id="PLX-35-021" available="true">
-<price>129</price>
+<price>169</price>
 </offer>
 <offer id="PLX-35-016" available="true">
 <price>339</price>
@@ -8195,10 +8195,10 @@
 <price>599</price>
 </offer>
 <offer id="PLX-35-030" available="true">
-<price>299</price>
+<price>329</price>
 </offer>
 <offer id="PLX-35-006" available="true">
-<price>239</price>
+<price>269</price>
 </offer>
 <offer id="PLX-35-022" available="true">
 <price>279</price>
@@ -8210,7 +8210,7 @@
 <price>59</price>
 </offer>
 <offer id="PLX-10-001" available="true">
-<price>45</price>
+<price>79</price>
 </offer>
 <offer id="PLX-08-005" available="true">
 <price>79</price>
@@ -8225,28 +8225,28 @@
 <price>39</price>
 </offer>
 <offer id="PLX-08-002" available="true">
-<price>45</price>
+<price>79</price>
 </offer>
 <offer id="PLX-08-003" available="true">
 <price>35</price>
 </offer>
 <offer id="PLX-08-004" available="true">
-<price>59</price>
+<price>89</price>
 </offer>
 <offer id="PLX-59-001" available="true">
-<price>99</price>
+<price>139</price>
 </offer>
 <offer id="PLX-58-001" available="true">
 <price>299</price>
 </offer>
 <offer id="PLX-58-002" available="true">
-<price>279</price>
+<price>299</price>
 </offer>
 <offer id="PLX-12-001" available="true">
 <price>109</price>
 </offer>
 <offer id="PLX-12-002" available="true">
-<price>89</price>
+<price>129</price>
 </offer>
 <offer id="PLX-12-003" available="true">
 <price>149</price>
@@ -8267,10 +8267,10 @@
 <price>439</price>
 </offer>
 <offer id="PLX-26-003" available="true">
-<price>169</price>
+<price>199</price>
 </offer>
 <offer id="PLX-26-015" available="true">
-<price>779</price>
+<price>789</price>
 </offer>
 <offer id="PLX-32-007" available="true">
 <price>139</price>
@@ -8288,7 +8288,7 @@
 <price>45</price>
 </offer>
 <offer id="PLX-61-001" available="true">
-<price>129</price>
+<price>169</price>
 </offer>
 <offer id="PLX-1000-335" available="true">
 <price>45</price>
@@ -8303,7 +8303,7 @@
 <price>649</price>
 </offer>
 <offer id="PLX-70-028" available="true">
-<price>989</price>
+<price>999</price>
 </offer>
 <offer id="PLX-70-040" available="true">
 <price>1999</price>
@@ -8315,7 +8315,7 @@
 <price>319</price>
 </offer>
 <offer id="PLX-70-142" available="true">
-<price>229</price>
+<price>239</price>
 </offer>
 <offer id="PLX-70-141" available="true">
 <price>259</price>
@@ -8336,34 +8336,34 @@
 <price>349</price>
 </offer>
 <offer id="PLX-70-024" available="true">
-<price>639</price>
+<price>649</price>
 </offer>
 <offer id="PLX-70-025" available="true">
 <price>559</price>
 </offer>
 <offer id="PLX-70-020" available="true">
-<price>199</price>
+<price>229</price>
 </offer>
 <offer id="PLX-70-012" available="true">
 <price>499</price>
 </offer>
 <offer id="PLX-70-034" available="true">
-<price>189</price>
+<price>219</price>
 </offer>
 <offer id="PLX-70-032" available="true">
-<price>149</price>
+<price>189</price>
 </offer>
 <offer id="PLX-70-030" available="true">
-<price>149</price>
+<price>189</price>
 </offer>
 <offer id="PLX-70-029" available="true">
 <price>169</price>
 </offer>
 <offer id="PLX-70-031" available="true">
-<price>149</price>
+<price>189</price>
 </offer>
 <offer id="PLX-70-019" available="true">
-<price>289</price>
+<price>319</price>
 </offer>
 <offer id="PLX-70-017" available="true">
 <price>379</price>
@@ -8372,7 +8372,7 @@
 <price>549</price>
 </offer>
 <offer id="PLX-70-001" available="true">
-<price>349</price>
+<price>369</price>
 </offer>
 <offer id="PLX-70-023" available="true">
 <price>719</price>
@@ -8381,13 +8381,13 @@
 <price>459</price>
 </offer>
 <offer id="PLX-70-003" available="true">
-<price>489</price>
+<price>499</price>
 </offer>
 <offer id="PLX-70-004" available="true">
 <price>429</price>
 </offer>
 <offer id="PLX-111-095" available="true">
-<price>199</price>
+<price>229</price>
 </offer>
 <offer id="PLX-36-045" available="true">
 <price>1069</price>
@@ -8402,7 +8402,7 @@
 <price>489</price>
 </offer>
 <offer id="PLX-36-002" available="true">
-<price>639</price>
+<price>649</price>
 </offer>
 <offer id="PLX-36-043" available="true">
 <price>1009</price>
@@ -8426,10 +8426,10 @@
 <price>59</price>
 </offer>
 <offer id="PLX-101-073" available="true">
-<price>69</price>
+<price>99</price>
 </offer>
 <offer id="PLX-101-074" available="true">
-<price>79</price>
+<price>109</price>
 </offer>
 <offer id="PLX-101-039" available="true">
 <price>89</price>
@@ -8438,7 +8438,7 @@
 <price>249</price>
 </offer>
 <offer id="PLX-101-002" available="true">
-<price>99</price>
+<price>139</price>
 </offer>
 <offer id="PLX-101-001" available="true">
 <price>59</price>
@@ -8450,13 +8450,13 @@
 <price>45</price>
 </offer>
 <offer id="PLX-101-037" available="true">
-<price>45</price>
+<price>79</price>
 </offer>
 <offer id="PLX-101-030" available="true">
-<price>69</price>
+<price>99</price>
 </offer>
 <offer id="PLX-101-031" available="true">
-<price>45</price>
+<price>79</price>
 </offer>
 <offer id="PLX-101-005" available="true">
 <price>199</price>
@@ -8471,7 +8471,7 @@
 <price>119</price>
 </offer>
 <offer id="PLX-101-150" available="true">
-<price>109</price>
+<price>139</price>
 </offer>
 <offer id="PLX-101-161" available="true">
 <price>199</price>
@@ -8510,13 +8510,13 @@
 <price>229</price>
 </offer>
 <offer id="PLX-101-291" available="true">
-<price>269</price>
+<price>289</price>
 </offer>
 <offer id="PLX-101-023" available="true">
 <price>69</price>
 </offer>
 <offer id="PLX-101-024" available="true">
-<price>69</price>
+<price>99</price>
 </offer>
 <offer id="PLX-101-025" available="true">
 <price>109</price>
@@ -8525,7 +8525,7 @@
 <price>129</price>
 </offer>
 <offer id="PLX-101-027" available="true">
-<price>129</price>
+<price>169</price>
 </offer>
 <offer id="PLX-101-018" available="true">
 <price>59</price>
@@ -8546,13 +8546,13 @@
 <price>109</price>
 </offer>
 <offer id="PLX-101-071" available="true">
-<price>109</price>
+<price>149</price>
 </offer>
 <offer id="PLX-101-292" available="true">
 <price>169</price>
 </offer>
 <offer id="PLX-101-013" available="true">
-<price>45</price>
+<price>79</price>
 </offer>
 <offer id="PLX-101-014" available="true">
 <price>69</price>
@@ -8564,7 +8564,7 @@
 <price>179</price>
 </offer>
 <offer id="PLX-101-017" available="true">
-<price>79</price>
+<price>119</price>
 </offer>
 <offer id="PLX-101-069" available="true">
 <price>209</price>
@@ -8576,25 +8576,25 @@
 <price>189</price>
 </offer>
 <offer id="PLX-101-199" available="true">
-<price>209</price>
+<price>229</price>
 </offer>
 <offer id="PLX-101-202" available="true">
-<price>259</price>
+<price>269</price>
 </offer>
 <offer id="PLX-101-201" available="true">
-<price>279</price>
+<price>299</price>
 </offer>
 <offer id="PLX-101-198" available="true">
 <price>169</price>
 </offer>
 <offer id="PLX-101-077" available="true">
-<price>69</price>
+<price>99</price>
 </offer>
 <offer id="PLX-101-179" available="true">
 <price>509</price>
 </offer>
 <offer id="PLX-101-080" available="true">
-<price>199</price>
+<price>229</price>
 </offer>
 <offer id="PLX-101-078" available="true">
 <price>69</price>
@@ -8603,16 +8603,16 @@
 <price>199</price>
 </offer>
 <offer id="PLX-101-100" available="true">
-<price>99</price>
+<price>139</price>
 </offer>
 <offer id="PLX-101-101" available="true">
-<price>179</price>
+<price>209</price>
 </offer>
 <offer id="PLX-101-102" available="true">
 <price>529</price>
 </offer>
 <offer id="PLX-101-104" available="true">
-<price>209</price>
+<price>229</price>
 </offer>
 <offer id="PLX-101-010" available="true">
 <price>89</price>
@@ -8645,7 +8645,7 @@
 <price>249</price>
 </offer>
 <offer id="PLX-101-115" available="true">
-<price>79</price>
+<price>109</price>
 </offer>
 <offer id="PLX-101-113" available="true">
 <price>149</price>
@@ -8657,10 +8657,10 @@
 <price>119</price>
 </offer>
 <offer id="PLX-101-051" available="true">
-<price>79</price>
+<price>119</price>
 </offer>
 <offer id="PLX-101-052" available="true">
-<price>159</price>
+<price>189</price>
 </offer>
 <offer id="PLX-101-053" available="true">
 <price>269</price>
@@ -8681,13 +8681,13 @@
 <price>45</price>
 </offer>
 <offer id="PLX-52-001" available="true">
-<price>69</price>
+<price>45</price>
 </offer>
 <offer id="PLX-52-002" available="true">
 <price>69</price>
 </offer>
 <offer id="PLX-22-008" available="true">
-<price>279</price>
+<price>299</price>
 </offer>
 <offer id="PLX-22-009" available="true">
 <price>319</price>
@@ -8699,7 +8699,7 @@
 <price>299</price>
 </offer>
 <offer id="PLX-22-002" available="true">
-<price>149</price>
+<price>189</price>
 </offer>
 <offer id="PLX-22-003" available="true">
 <price>259</price>
@@ -8708,7 +8708,7 @@
 <price>329</price>
 </offer>
 <offer id="PLX-22-005" available="true">
-<price>359</price>
+<price>379</price>
 </offer>
 <offer id="PLX-22-020" available="true">
 <price>99</price>
@@ -8729,7 +8729,7 @@
 <price>279</price>
 </offer>
 <offer id="PLX-70-095" available="true">
-<price>172</price>
+<price>179</price>
 </offer>
 <offer id="PLX-70-096" available="true">
 <price>329</price>
@@ -8744,7 +8744,7 @@
 <price>1929</price>
 </offer>
 <offer id="PLX-70-106" available="true">
-<price>199</price>
+<price>229</price>
 </offer>
 <offer id="PLX-20-019" available="true">
 <price>199</price>
@@ -8759,13 +8759,13 @@
 <price>339</price>
 </offer>
 <offer id="PLX-100-398" available="true">
-<price>449</price>
+<price>469</price>
 </offer>
 <offer id="PLX-100-396" available="true">
 <price>249</price>
 </offer>
 <offer id="PLX-100-455" available="true">
-<price>159</price>
+<price>189</price>
 </offer>
 <offer id="PLX-100-472" available="true">
 <price>149</price>
@@ -8789,13 +8789,13 @@
 <price>219</price>
 </offer>
 <offer id="PLX-35-034" available="true">
-<price>179</price>
+<price>219</price>
 </offer>
 <offer id="PLX-35-032" available="true">
-<price>179</price>
+<price>219</price>
 </offer>
 <offer id="PLX-53-056" available="true">
-<price>279</price>
+<price>299</price>
 </offer>
 <offer id="PLX-53-057" available="true">
 <price>379</price>
@@ -8804,7 +8804,7 @@
 <price>369</price>
 </offer>
 <offer id="PLX-54-071" available="true">
-<price>259</price>
+<price>279</price>
 </offer>
 <offer id="PLX-54-173" available="true">
 <price>209</price>
@@ -11543,7 +11543,7 @@
 <price>119</price>
 </offer>
 <offer id="PLX-10-565" available="true">
-<price>739</price>
+<price>749</price>
 </offer>
 <offer id="PLX-HT-31-010" available="true">
 <price>59</price>
@@ -12176,7 +12176,7 @@
 <price>369</price>
 </offer>
 <offer id="PLX-90025960" available="true">
-<price>289</price>
+<price>319</price>
 </offer>
 <offer id="PLX-03-42-003" available="true">
 <price>79</price>
@@ -12200,7 +12200,7 @@
 <price>489</price>
 </offer>
 <offer id="PLX-10-27" available="true">
-<price>299</price>
+<price>246</price>
 </offer>
 <offer id="PLX-10-38" available="true">
 <price>809</price>
@@ -12575,7 +12575,7 @@
 <price>529</price>
 </offer>
 <offer id="PLX-15-47-008" available="true">
-<price>579</price>
+<price>569</price>
 </offer>
 <offer id="PLX-15-103-001" available="true">
 <price>909</price>
@@ -12812,7 +12812,7 @@
 <price>59</price>
 </offer>
 <offer id="PLX-301000" available="true">
-<price>45</price>
+<price>79</price>
 </offer>
 <offer id="PLX-300000" available="true">
 <price>69</price>
@@ -12881,7 +12881,7 @@
 <price>79</price>
 </offer>
 <offer id="PLX-100-100" available="true">
-<price>149</price>
+<price>189</price>
 </offer>
 <offer id="PLX-100-125" available="true">
 <price>199</price>
@@ -13046,7 +13046,7 @@
 <price>259</price>
 </offer>
 <offer id="PLX-HT-46-002" available="true">
-<price>229</price>
+<price>259</price>
 </offer>
 <offer id="PLX-11-415" available="true">
 <price>279</price>
@@ -13256,7 +13256,7 @@
 <price>249</price>
 </offer>
 <offer id="PLX-21-012" available="true">
-<price>259</price>
+<price>242</price>
 </offer>
 <offer id="PLX-57-003" available="true">
 <price>79</price>
@@ -13274,16 +13274,16 @@
 <price>59</price>
 </offer>
 <offer id="PLX-21-007" available="true">
-<price>159</price>
+<price>199</price>
 </offer>
 <offer id="PLX-21-008" available="true">
-<price>209</price>
+<price>239</price>
 </offer>
 <offer id="PLX-21-006" available="true">
 <price>219</price>
 </offer>
 <offer id="PLX-21-005" available="true">
-<price>149</price>
+<price>189</price>
 </offer>
 <offer id="PLX-100-428" available="true">
 <price>59</price>
@@ -13292,13 +13292,13 @@
 <price>89</price>
 </offer>
 <offer id="PLX-51-008" available="true">
-<price>69</price>
+<price>99</price>
 </offer>
 <offer id="PLX-51-009" available="true">
 <price>129</price>
 </offer>
 <offer id="PLX-51-010" available="true">
-<price>79</price>
+<price>109</price>
 </offer>
 <offer id="PLX-51-012" available="true">
 <price>129</price>
@@ -13307,7 +13307,7 @@
 <price>79</price>
 </offer>
 <offer id="PLX-51-059" available="true">
-<price>79</price>
+<price>109</price>
 </offer>
 <offer id="PLX-51-061" available="true">
 <price>129</price>
@@ -13343,7 +13343,7 @@
 <price>499</price>
 </offer>
 <offer id="PLX-51-046" available="true">
-<price>479</price>
+<price>489</price>
 </offer>
 <offer id="PLX-51-049" available="true">
 <price>579</price>
@@ -13361,7 +13361,7 @@
 <price>549</price>
 </offer>
 <offer id="PLX-51-063" available="true">
-<price>419</price>
+<price>429</price>
 </offer>
 <offer id="PLX-38-022" available="true">
 <price>599</price>
@@ -13370,7 +13370,7 @@
 <price>289</price>
 </offer>
 <offer id="PLX-38-012" available="true">
-<price>249</price>
+<price>269</price>
 </offer>
 <offer id="PLX-49-003" available="true">
 <price>1669</price>
@@ -13379,7 +13379,7 @@
 <price>1669</price>
 </offer>
 <offer id="PLX-50-004" available="true">
-<price>319</price>
+<price>339</price>
 </offer>
 <offer id="PLX-50-002" available="true">
 <price>199</price>
@@ -13451,13 +13451,13 @@
 <price>209</price>
 </offer>
 <offer id="PLX-30-005" available="true">
-<price>109</price>
+<price>139</price>
 </offer>
 <offer id="PLX-30-006" available="true">
 <price>149</price>
 </offer>
 <offer id="PLX-30-003" available="true">
-<price>109</price>
+<price>139</price>
 </offer>
 <offer id="PLX-30-002" available="true">
 <price>179</price>
@@ -13469,13 +13469,13 @@
 <price>119</price>
 </offer>
 <offer id="PLX-32-035" available="true">
-<price>489</price>
+<price>499</price>
 </offer>
 <offer id="PLX-32-037" available="true">
 <price>659</price>
 </offer>
 <offer id="PLX-32-034" available="true">
-<price>329</price>
+<price>349</price>
 </offer>
 <offer id="PLX-32-027" available="true">
 <price>369</price>
@@ -13484,10 +13484,10 @@
 <price>329</price>
 </offer>
 <offer id="PLX-32-041" available="true">
-<price>259</price>
+<price>279</price>
 </offer>
 <offer id="PLX-32-039" available="true">
-<price>329</price>
+<price>349</price>
 </offer>
 <offer id="PLX-54-109" available="true">
 <price>289</price>
@@ -13556,16 +13556,16 @@
 <price>199</price>
 </offer>
 <offer id="PLX-54-105" available="true">
-<price>199</price>
+<price>189</price>
 </offer>
 <offer id="PLX-54-004" available="true">
-<price>79</price>
+<price>109</price>
 </offer>
 <offer id="PLX-54-093" available="true">
 <price>169</price>
 </offer>
 <offer id="PLX-54-094" available="true">
-<price>89</price>
+<price>129</price>
 </offer>
 <offer id="PLX-54-090" available="true">
 <price>189</price>
@@ -13574,37 +13574,37 @@
 <price>119</price>
 </offer>
 <offer id="PLX-54-092" available="true">
-<price>109</price>
+<price>149</price>
 </offer>
 <offer id="PLX-54-005" available="true">
 <price>79</price>
 </offer>
 <offer id="PLX-54-006" available="true">
-<price>109</price>
+<price>79</price>
 </offer>
 <offer id="PLX-54-001" available="true">
-<price>79</price>
+<price>109</price>
 </offer>
 <offer id="PLX-54-002" available="true">
 <price>99</price>
 </offer>
 <offer id="PLX-54-003" available="true">
-<price>79</price>
+<price>109</price>
 </offer>
 <offer id="PLX-54-106" available="true">
-<price>279</price>
+<price>299</price>
 </offer>
 <offer id="PLX-54-177" available="true">
 <price>409</price>
 </offer>
 <offer id="PLX-54-136" available="true">
-<price>199</price>
+<price>219</price>
 </offer>
 <offer id="PLX-54-154" available="true">
-<price>129</price>
+<price>169</price>
 </offer>
 <offer id="PLX-54-137" available="true">
-<price>139</price>
+<price>179</price>
 </offer>
 <offer id="PLX-54-135" available="true">
 <price>279</price>
@@ -13613,7 +13613,7 @@
 <price>359</price>
 </offer>
 <offer id="PLX-54-143" available="true">
-<price>419</price>
+<price>429</price>
 </offer>
 <offer id="PLX-54-141" available="true">
 <price>409</price>
@@ -13634,16 +13634,16 @@
 <price>519</price>
 </offer>
 <offer id="PLX-54-152" available="true">
-<price>939</price>
+<price>949</price>
 </offer>
 <offer id="PLX-54-153" available="true">
-<price>1199</price>
+<price>1209</price>
 </offer>
 <offer id="PLX-32-019" available="true">
-<price>629</price>
+<price>639</price>
 </offer>
 <offer id="PLX-32-009" available="true">
-<price>409</price>
+<price>429</price>
 </offer>
 <offer id="PLX-32-010" available="true">
 <price>469</price>
@@ -13652,7 +13652,7 @@
 <price>45</price>
 </offer>
 <offer id="PLX-1000-044" available="true">
-<price>45</price>
+<price>79</price>
 </offer>
 <offer id="PLX-70-073" available="true">
 <price>59</price>
@@ -13664,7 +13664,7 @@
 <price>119</price>
 </offer>
 <offer id="PLX-70-067" available="true">
-<price>69</price>
+<price>99</price>
 </offer>
 <offer id="PLX-70-068" available="true">
 <price>119</price>
@@ -13688,40 +13688,40 @@
 <price>189</price>
 </offer>
 <offer id="PLX-100-028" available="true">
-<price>149</price>
+<price>189</price>
 </offer>
 <offer id="PLX-39-005" available="true">
-<price>179</price>
+<price>209</price>
 </offer>
 <offer id="PLX-39-006" available="true">
 <price>439</price>
 </offer>
 <offer id="PLX-39-001" available="true">
-<price>169</price>
+<price>209</price>
 </offer>
 <offer id="PLX-39-002" available="true">
-<price>319</price>
+<price>349</price>
 </offer>
 <offer id="PLX-55-003" available="true">
 <price>249</price>
 </offer>
 <offer id="PLX-25-010" available="true">
-<price>259</price>
+<price>289</price>
 </offer>
 <offer id="PLX-25-009" available="true">
-<price>209</price>
-</offer>
-<offer id="PLX-25-006" available="true">
 <price>239</price>
 </offer>
+<offer id="PLX-25-006" available="true">
+<price>269</price>
+</offer>
 <offer id="PLX-25-007" available="true">
-<price>219</price>
+<price>249</price>
 </offer>
 <offer id="PLX-25-008" available="true">
 <price>349</price>
 </offer>
 <offer id="PLX-25-011" available="true">
-<price>79</price>
+<price>119</price>
 </offer>
 <offer id="PLX-44-007" available="true">
 <price>569</price>
@@ -13736,7 +13736,7 @@
 <price>1019</price>
 </offer>
 <offer id="PLX-44-013" available="true">
-<price>649</price>
+<price>659</price>
 </offer>
 <offer id="PLX-44-014" available="true">
 <price>839</price>
@@ -13895,16 +13895,16 @@
 <price>99</price>
 </offer>
 <offer id="PLX-36-031" available="true">
-<price>449</price>
+<price>469</price>
 </offer>
 <offer id="PLX-36-049" available="true">
 <price>339</price>
 </offer>
 <offer id="PLX-36-015" available="true">
-<price>199</price>
+<price>229</price>
 </offer>
 <offer id="PLX-36-016" available="true">
-<price>229</price>
+<price>249</price>
 </offer>
 <offer id="PLX-36-017" available="true">
 <price>399</price>
@@ -13913,10 +13913,10 @@
 <price>359</price>
 </offer>
 <offer id="PLX-36-019" available="true">
-<price>349</price>
+<price>369</price>
 </offer>
 <offer id="PLX-36-020" available="true">
-<price>419</price>
+<price>429</price>
 </offer>
 <offer id="PLX-23-008" available="true">
 <price>69</price>
@@ -13937,10 +13937,10 @@
 <price>45</price>
 </offer>
 <offer id="PLX-23-002" available="true">
-<price>69</price>
+<price>99</price>
 </offer>
 <offer id="PLX-47-014" available="true">
-<price>329</price>
+<price>359</price>
 </offer>
 <offer id="PLX-47-015" available="true">
 <price>1249</price>
@@ -13949,16 +13949,16 @@
 <price>269</price>
 </offer>
 <offer id="PLX-47-001" available="true">
-<price>329</price>
+<price>349</price>
 </offer>
 <offer id="PLX-47-010" available="true">
 <price>379</price>
 </offer>
 <offer id="PLX-33-001" available="true">
-<price>239</price>
+<price>269</price>
 </offer>
 <offer id="PLX-33-002" available="true">
-<price>189</price>
+<price>219</price>
 </offer>
 <offer id="PLX-33-007" available="true">
 <price>35</price>
@@ -14027,13 +14027,13 @@
 <price>469</price>
 </offer>
 <offer id="PLX-01-016" available="true">
-<price>819</price>
+<price>829</price>
 </offer>
 <offer id="PLX-01-012" available="true">
 <price>539</price>
 </offer>
 <offer id="PLX-01-013" available="true">
-<price>879</price>
+<price>889</price>
 </offer>
 <offer id="PLX-01-0177" available="true">
 <price>1309</price>
@@ -14048,10 +14048,10 @@
 <price>829</price>
 </offer>
 <offer id="PLX-35-001" available="true">
-<price>259</price>
+<price>289</price>
 </offer>
 <offer id="PLX-35-002" available="true">
-<price>289</price>
+<price>319</price>
 </offer>
 <offer id="PLX-35-003" available="true">
 <price>349</price>
@@ -14066,7 +14066,7 @@
 <price>219</price>
 </offer>
 <offer id="PLX-03-008" available="true">
-<price>109</price>
+<price>79</price>
 </offer>
 <offer id="PLX-03-010" available="true">
 <price>149</price>
@@ -14105,7 +14105,7 @@
 <price>45</price>
 </offer>
 <offer id="PLX-05-002" available="true">
-<price>45</price>
+<price>25</price>
 </offer>
 <offer id="PLX-05-005" available="true">
 <price>45</price>
@@ -14171,7 +14171,7 @@
 <price>25</price>
 </offer>
 <offer id="PLX-04-003" available="true">
-<price>45</price>
+<price>79</price>
 </offer>
 <offer id="PLX-04-002" available="true">
 <price>69</price>
@@ -14186,7 +14186,7 @@
 <price>69</price>
 </offer>
 <offer id="PLX-26-013" available="true">
-<price>829</price>
+<price>839</price>
 </offer>
 <offer id="PLX-26-004" available="true">
 <price>739</price>
@@ -14273,7 +14273,7 @@
 <price>379</price>
 </offer>
 <offer id="PLX-37-002" available="true">
-<price>309</price>
+<price>329</price>
 </offer>
 <offer id="PLX-37-020" available="true">
 <price>789</price>
@@ -14297,22 +14297,22 @@
 <price>799</price>
 </offer>
 <offer id="PLX-70-015" available="true">
-<price>399</price>
+<price>409</price>
 </offer>
 <offer id="PLX-70-042" available="true">
 <price>529</price>
 </offer>
 <offer id="PLX-55-001" available="true">
-<price>289</price>
+<price>319</price>
 </offer>
 <offer id="PLX-55-002" available="true">
 <price>329</price>
 </offer>
 <offer id="PLX-36-039" available="true">
-<price>439</price>
+<price>449</price>
 </offer>
 <offer id="PLX-36-040" available="true">
-<price>509</price>
+<price>519</price>
 </offer>
 <offer id="PLX-36-042" available="true">
 <price>1279</price>
@@ -14321,7 +14321,7 @@
 <price>609</price>
 </offer>
 <offer id="PLX-36-008" available="true">
-<price>1429</price>
+<price>1439</price>
 </offer>
 <offer id="PLX-36-007" available="true">
 <price>1639</price>
@@ -14333,25 +14333,25 @@
 <price>209</price>
 </offer>
 <offer id="PLX-41-011" available="true">
-<price>189</price>
+<price>219</price>
 </offer>
 <offer id="PLX-41-013" available="true">
-<price>209</price>
+<price>239</price>
 </offer>
 <offer id="PLX-41-014" available="true">
-<price>219</price>
+<price>249</price>
 </offer>
 <offer id="PLX-41-015" available="true">
 <price>259</price>
 </offer>
 <offer id="PLX-41-016" available="true">
-<price>239</price>
-</offer>
-<offer id="PLX-41-017" available="true">
 <price>269</price>
 </offer>
+<offer id="PLX-41-017" available="true">
+<price>289</price>
+</offer>
 <offer id="PLX-41-018" available="true">
-<price>249</price>
+<price>279</price>
 </offer>
 <offer id="PLX-41-006" available="true">
 <price>229</price>
@@ -14405,7 +14405,7 @@
 <price>25</price>
 </offer>
 <offer id="PLX-101-082" available="true">
-<price>45</price>
+<price>79</price>
 </offer>
 <offer id="PLX-101-084" available="true">
 <price>35</price>
@@ -14528,7 +14528,7 @@
 <price>109</price>
 </offer>
 <offer id="PLX-101-054" available="true">
-<price>359</price>
+<price>379</price>
 </offer>
 <offer id="PLX-22-007" available="true">
 <price>289</price>
@@ -14549,7 +14549,7 @@
 <price>879</price>
 </offer>
 <offer id="PLX-22-017" available="true">
-<price>319</price>
+<price>349</price>
 </offer>
 <offer id="PLX-22-015" available="true">
 <price>359</price>
@@ -14558,31 +14558,31 @@
 <price>369</price>
 </offer>
 <offer id="PLX-100-106" available="true">
-<price>149</price>
+<price>189</price>
 </offer>
 <offer id="PLX-100-099" available="true">
-<price>159</price>
+<price>189</price>
 </offer>
 <offer id="PLX-100-096" available="true">
 <price>209</price>
 </offer>
 <offer id="PLX-100-101" available="true">
-<price>159</price>
+<price>189</price>
 </offer>
 <offer id="PLX-100-098" available="true">
-<price>149</price>
+<price>189</price>
 </offer>
 <offer id="PLX-200-011" available="true">
-<price>159</price>
+<price>199</price>
 </offer>
 <offer id="PLX-200-012" available="true">
 <price>179</price>
 </offer>
 <offer id="PLX-200-013" available="true">
-<price>209</price>
+<price>239</price>
 </offer>
 <offer id="PLX-200-014" available="true">
-<price>229</price>
+<price>259</price>
 </offer>
 <offer id="PLX-100-107" available="true">
 <price>419</price>
@@ -14666,7 +14666,7 @@
 <price>25</price>
 </offer>
 <offer id="PLX-100-463" available="true">
-<price>129</price>
+<price>169</price>
 </offer>
 <offer id="PLX-100-078" available="true">
 <price>79</price>
@@ -14678,7 +14678,7 @@
 <price>35</price>
 </offer>
 <offer id="PLX-100-074" available="true">
-<price>59</price>
+<price>89</price>
 </offer>
 <offer id="PLX-54-174" available="true">
 <price>199</price>
@@ -14687,7 +14687,7 @@
 <price>229</price>
 </offer>
 <offer id="PLX-54-165" available="true">
-<price>179</price>
+<price>219</price>
 </offer>
 <offer id="PLX-54-170" available="true">
 <price>189</price>
@@ -14702,19 +14702,19 @@
 <price>259</price>
 </offer>
 <offer id="PLX-54-160" available="true">
-<price>169</price>
+<price>199</price>
 </offer>
 <offer id="PLX-54-161" available="true">
 <price>249</price>
 </offer>
 <offer id="PLX-54-167" available="true">
-<price>179</price>
+<price>209</price>
 </offer>
 <offer id="PLX-54-168" available="true">
-<price>199</price>
+<price>239</price>
 </offer>
 <offer id="PLX-54-169" available="true">
-<price>229</price>
+<price>259</price>
 </offer>
 <offer id="PLX-54-171" available="true">
 <price>139</price>
@@ -14930,7 +14930,7 @@
 <price>69</price>
 </offer>
 <offer id="PLX-2316" available="true">
-<price>79</price>
+<price>119</price>
 </offer>
 <offer id="PLX-200/10" available="true">
 <price>59</price>
@@ -15137,7 +15137,7 @@
 <price>719</price>
 </offer>
 <offer id="2612105534" available="true">
-<price>229</price>
+<price>249</price>
 </offer>
 <offer id="21-012" available="true">
 <price>169</price>
@@ -15200,7 +15200,7 @@
 <price>259</price>
 </offer>
 <offer id="101-076" available="true">
-<price>69</price>
+<price>79</price>
 </offer>
 <offer id="2610796288" available="true">
 <price>259</price>
@@ -15362,7 +15362,7 @@
 <price>1089</price>
 </offer>
 <offer id="PLX-RS-0570" available="true">
-<price>229</price>
+<price>259</price>
 </offer>
 <offer id="PLX-2884" available="true">
 <price>339</price>
@@ -15383,7 +15383,7 @@
 <price>249</price>
 </offer>
 <offer id="PLX-26-009" available="true">
-<price>989</price>
+<price>999</price>
 </offer>
 <offer id="PLX-1251" available="true">
 <price>69</price>
@@ -15455,7 +15455,7 @@
 <price>89</price>
 </offer>
 <offer id="PLX-90026703" available="true">
-<price>549</price>
+<price>559</price>
 </offer>
 <offer id="PLX-31107" available="true">
 <price>689</price>
@@ -15470,7 +15470,7 @@
 <price>259</price>
 </offer>
 <offer id="PLX-101-098" available="true">
-<price>79</price>
+<price>119</price>
 </offer>
 <offer id="PLX-90026712" available="true">
 <price>819</price>
@@ -16522,9 +16522,6 @@
 <offer id="amt-181769" available="true">
 <price>359</price>
 </offer>
-<offer id="amt-188503" available="false">
-<price>339</price>
-</offer>
 <offer id="amt-188507" available="true">
 <price>509</price>
 </offer>
@@ -16803,9 +16800,6 @@
 </offer>
 <offer id="amt-226078" available="true">
 <price>459</price>
-</offer>
-<offer id="amt-188518" available="false">
-<price>249</price>
 </offer>
 <offer id="amt-184695" available="true">
 <price>109</price>
@@ -17256,9 +17250,6 @@
 </offer>
 <offer id="amt-262877" available="true">
 <price>8609</price>
-</offer>
-<offer id="amt-88220N" available="false">
-<price>16299</price>
 </offer>
 <offer id="amt-189105" available="true">
 <price>229</price>
@@ -18419,7 +18410,7 @@
 <price>529</price>
 </offer>
 <offer id="0066" available="true">
-<price>69</price>
+<price>59</price>
 </offer>
 <offer id="0067" available="true">
 <price>209</price>
@@ -18656,7 +18647,7 @@
 <price>709</price>
 </offer>
 <offer id="0202" available="true">
-<price>379</price>
+<price>359</price>
 </offer>
 <offer id="0388" available="true">
 <price>929</price>
@@ -18683,13 +18674,13 @@
 <price>289</price>
 </offer>
 <offer id="0209" available="true">
-<price>39</price>
+<price>40</price>
 </offer>
 <offer id="0210" available="true">
 <price>249</price>
 </offer>
 <offer id="0211" available="true">
-<price>35</price>
+<price>39</price>
 </offer>
 <offer id="0212" available="true">
 <price>239</price>
@@ -18989,7 +18980,7 @@
 <price>509</price>
 </offer>
 <offer id="0391" available="true">
-<price>379</price>
+<price>359</price>
 </offer>
 <offer id="0392" available="true">
 <price>1139</price>
@@ -19187,7 +19178,7 @@
 <price>45</price>
 </offer>
 <offer id="0472" available="true">
-<price>149</price>
+<price>169</price>
 </offer>
 <offer id="0473" available="true">
 <price>179</price>
@@ -19352,7 +19343,7 @@
 <price>59</price>
 </offer>
 <offer id="0701" available="true">
-<price>35</price>
+<price>39</price>
 </offer>
 <offer id="0702" available="true">
 <price>299</price>
@@ -19394,7 +19385,7 @@
 <price>389</price>
 </offer>
 <offer id="0723" available="true">
-<price>179</price>
+<price>169</price>
 </offer>
 <offer id="0724" available="true">
 <price>269</price>
@@ -19445,7 +19436,7 @@
 <price>139</price>
 </offer>
 <offer id="0741" available="true">
-<price>139</price>
+<price>119</price>
 </offer>
 <offer id="2375" available="true">
 <price>859</price>
@@ -19700,7 +19691,7 @@
 <price>439</price>
 </offer>
 <offer id="0878" available="true">
-<price>20</price>
+<price>25</price>
 </offer>
 <offer id="482026720" available="true">
 <price>599</price>
@@ -19841,7 +19832,7 @@
 <price>219</price>
 </offer>
 <offer id="0938" available="true">
-<price>25</price>
+<price>29</price>
 </offer>
 <offer id="0940" available="true">
 <price>99</price>
@@ -19898,7 +19889,7 @@
 <price>699</price>
 </offer>
 <offer id="0975" available="true">
-<price>20</price>
+<price>25</price>
 </offer>
 <offer id="0976" available="true">
 <price>69</price>
@@ -20014,9 +20005,6 @@
 <offer id="1044" available="true">
 <price>45</price>
 </offer>
-<offer id="1045" available="false">
-<price>45</price>
-</offer>
 <offer id="1047" available="true">
 <price>45</price>
 </offer>
@@ -20063,7 +20051,7 @@
 <price>5789</price>
 </offer>
 <offer id="1063" available="true">
-<price>45</price>
+<price>39</price>
 </offer>
 <offer id="1065" available="true">
 <price>59</price>
@@ -20089,9 +20077,6 @@
 <offer id="1073" available="true">
 <price>29</price>
 </offer>
-<offer id="1074" available="false">
-<price>25</price>
-</offer>
 <offer id="1075" available="true">
 <price>89</price>
 </offer>
@@ -20104,9 +20089,6 @@
 <offer id="1079" available="true">
 <price>45</price>
 </offer>
-<offer id="1080" available="false">
-<price>25</price>
-</offer>
 <offer id="1081" available="true">
 <price>25</price>
 </offer>
@@ -20116,13 +20098,7 @@
 <offer id="1083" available="true">
 <price>45</price>
 </offer>
-<offer id="1084" available="false">
-<price>25</price>
-</offer>
 <offer id="1085" available="true">
-<price>25</price>
-</offer>
-<offer id="1086" available="false">
 <price>25</price>
 </offer>
 <offer id="1087" available="true">
@@ -20174,7 +20150,7 @@
 <price>59</price>
 </offer>
 <offer id="1104" available="true">
-<price>25</price>
+<price>11</price>
 </offer>
 <offer id="1105" available="true">
 <price>79</price>
@@ -20251,12 +20227,6 @@
 <offer id="1142" available="true">
 <price>45</price>
 </offer>
-<offer id="1143" available="false">
-<price>25</price>
-</offer>
-<offer id="1144" available="false">
-<price>69</price>
-</offer>
 <offer id="1145" available="true">
 <price>69</price>
 </offer>
@@ -20298,9 +20268,6 @@
 </offer>
 <offer id="1160" available="true">
 <price>69</price>
-</offer>
-<offer id="1161" available="false">
-<price>45</price>
 </offer>
 <offer id="1162" available="true">
 <price>59</price>
@@ -20381,7 +20348,7 @@
 <price>109</price>
 </offer>
 <offer id="1188" available="true">
-<price>139</price>
+<price>99</price>
 </offer>
 <offer id="1189" available="true">
 <price>1059</price>
@@ -20464,9 +20431,6 @@
 <offer id="1261" available="true">
 <price>29</price>
 </offer>
-<offer id="1262" available="false">
-<price>69</price>
-</offer>
 <offer id="1264" available="true">
 <price>69</price>
 </offer>
@@ -20483,7 +20447,7 @@
 <price>35</price>
 </offer>
 <offer id="1269" available="true">
-<price>69</price>
+<price>59</price>
 </offer>
 <offer id="1270" available="true">
 <price>1459</price>
@@ -20496,9 +20460,6 @@
 </offer>
 <offer id="1275" available="true">
 <price>25</price>
-</offer>
-<offer id="1276" available="false">
-<price>69</price>
 </offer>
 <offer id="1278" available="true">
 <price>79</price>
@@ -20522,7 +20483,7 @@
 <price>99</price>
 </offer>
 <offer id="1286" available="true">
-<price>35</price>
+<price>39</price>
 </offer>
 <offer id="1288" available="true">
 <price>25</price>
@@ -20582,9 +20543,6 @@
 <price>79</price>
 </offer>
 <offer id="1308" available="true">
-<price>45</price>
-</offer>
-<offer id="1309" available="false">
 <price>45</price>
 </offer>
 <offer id="1310" available="true">
@@ -20659,9 +20617,6 @@
 <offer id="1338" available="true">
 <price>59</price>
 </offer>
-<offer id="1339" available="false">
-<price>109</price>
-</offer>
 <offer id="1340" available="true">
 <price>89</price>
 </offer>
@@ -20678,9 +20633,6 @@
 <price>179</price>
 </offer>
 <offer id="1347" available="true">
-<price>25</price>
-</offer>
-<offer id="1348" available="false">
 <price>25</price>
 </offer>
 <offer id="1351" available="true">
@@ -20734,16 +20686,10 @@
 <offer id="1368" available="true">
 <price>25</price>
 </offer>
-<offer id="1370" available="false">
-<price>35</price>
-</offer>
 <offer id="1371" available="true">
 <price>69</price>
 </offer>
 <offer id="1372" available="true">
-<price>25</price>
-</offer>
-<offer id="1374" available="false">
 <price>25</price>
 </offer>
 <offer id="1375" available="true">
@@ -20809,9 +20755,6 @@
 <offer id="1400" available="true">
 <price>25</price>
 </offer>
-<offer id="1401" available="false">
-<price>25</price>
-</offer>
 <offer id="1402" available="true">
 <price>45</price>
 </offer>
@@ -20860,9 +20803,6 @@
 <offer id="1417" available="true">
 <price>79</price>
 </offer>
-<offer id="1418" available="false">
-<price>119</price>
-</offer>
 <offer id="1419" available="true">
 <price>79</price>
 </offer>
@@ -20874,9 +20814,6 @@
 </offer>
 <offer id="1423" available="true">
 <price>69</price>
-</offer>
-<offer id="1424" available="false">
-<price>79</price>
 </offer>
 <offer id="1425" available="true">
 <price>119</price>
@@ -20898,9 +20835,6 @@
 </offer>
 <offer id="1431" available="true">
 <price>209</price>
-</offer>
-<offer id="1432" available="false">
-<price>119</price>
 </offer>
 <offer id="1433" available="true">
 <price>59</price>
@@ -20974,9 +20908,6 @@
 <offer id="1459" available="true">
 <price>45</price>
 </offer>
-<offer id="1460" available="false">
-<price>89</price>
-</offer>
 <offer id="1462" available="true">
 <price>45</price>
 </offer>
@@ -20990,9 +20921,6 @@
 <price>45</price>
 </offer>
 <offer id="1468" available="true">
-<price>45</price>
-</offer>
-<offer id="1470" available="false">
 <price>45</price>
 </offer>
 <offer id="1474" available="true">
@@ -21009,9 +20937,6 @@
 </offer>
 <offer id="1486" available="true">
 <price>69</price>
-</offer>
-<offer id="1488" available="false">
-<price>79</price>
 </offer>
 <offer id="1489" available="true">
 <price>45</price>
@@ -21133,9 +21058,6 @@
 <offer id="1548" available="true">
 <price>35</price>
 </offer>
-<offer id="1550" available="false">
-<price>25</price>
-</offer>
 <offer id="1551" available="true">
 <price>59</price>
 </offer>
@@ -21217,9 +21139,6 @@
 <offer id="1579" available="true">
 <price>139</price>
 </offer>
-<offer id="1580" available="false">
-<price>69</price>
-</offer>
 <offer id="1581" available="true">
 <price>25</price>
 </offer>
@@ -21234,9 +21153,6 @@
 </offer>
 <offer id="1585" available="true">
 <price>25</price>
-</offer>
-<offer id="1586" available="false">
-<price>89</price>
 </offer>
 <offer id="1587" available="true">
 <price>89</price>
@@ -21260,9 +21176,6 @@
 <price>45</price>
 </offer>
 <offer id="1595" available="true">
-<price>25</price>
-</offer>
-<offer id="1596" available="false">
 <price>25</price>
 </offer>
 <offer id="1597" available="true">
@@ -21325,9 +21238,6 @@
 <offer id="1618" available="true">
 <price>25</price>
 </offer>
-<offer id="1619" available="false">
-<price>35</price>
-</offer>
 <offer id="1620" available="true">
 <price>45</price>
 </offer>
@@ -21364,9 +21274,6 @@
 <offer id="1635" available="true">
 <price>59</price>
 </offer>
-<offer id="1636" available="false">
-<price>45</price>
-</offer>
 <offer id="1637" available="true">
 <price>79</price>
 </offer>
@@ -21394,17 +21301,11 @@
 <offer id="1645" available="true">
 <price>35</price>
 </offer>
-<offer id="1646" available="false">
-<price>35</price>
-</offer>
 <offer id="1647" available="true">
 <price>79</price>
 </offer>
 <offer id="1648" available="true">
 <price>99</price>
-</offer>
-<offer id="1649" available="false">
-<price>79</price>
 </offer>
 <offer id="1650" available="true">
 <price>59</price>
@@ -21432,9 +21333,6 @@
 </offer>
 <offer id="1658" available="true">
 <price>59</price>
-</offer>
-<offer id="1659" available="false">
-<price>69</price>
 </offer>
 <offer id="1661" available="true">
 <price>25</price>
@@ -21464,7 +21362,7 @@
 <price>69</price>
 </offer>
 <offer id="1670" available="true">
-<price>35</price>
+<price>39</price>
 </offer>
 <offer id="1671" available="true">
 <price>1179</price>
@@ -21489,9 +21387,6 @@
 </offer>
 <offer id="1679" available="true">
 <price>269</price>
-</offer>
-<offer id="1680" available="false">
-<price>25</price>
 </offer>
 <offer id="1681" available="true">
 <price>79</price>
@@ -21522,12 +21417,6 @@
 </offer>
 <offer id="1692" available="true">
 <price>299</price>
-</offer>
-<offer id="1693" available="false">
-<price>79</price>
-</offer>
-<offer id="1694" available="false">
-<price>59</price>
 </offer>
 <offer id="1695" available="true">
 <price>59</price>
@@ -21595,12 +21484,6 @@
 <offer id="1718" available="true">
 <price>45</price>
 </offer>
-<offer id="1724" available="false">
-<price>25</price>
-</offer>
-<offer id="1726" available="false">
-<price>45</price>
-</offer>
 <offer id="1727" available="true">
 <price>45</price>
 </offer>
@@ -21619,26 +21502,17 @@
 <offer id="1733" available="true">
 <price>45</price>
 </offer>
-<offer id="1735" available="false">
-<price>169</price>
-</offer>
 <offer id="1738" available="true">
 <price>45</price>
 </offer>
 <offer id="1739" available="true">
 <price>79</price>
 </offer>
-<offer id="1742" available="false">
-<price>45</price>
-</offer>
 <offer id="1746" available="true">
 <price>25</price>
 </offer>
 <offer id="1748" available="true">
 <price>35</price>
-</offer>
-<offer id="1753" available="false">
-<price>25</price>
 </offer>
 <offer id="1754" available="true">
 <price>69</price>
@@ -21663,9 +21537,6 @@
 </offer>
 <offer id="1770" available="true">
 <price>59</price>
-</offer>
-<offer id="1771" available="false">
-<price>25</price>
 </offer>
 <offer id="1772" available="true">
 <price>59</price>
@@ -21715,17 +21586,11 @@
 <offer id="1789" available="true">
 <price>79</price>
 </offer>
-<offer id="1790" available="false">
-<price>25</price>
-</offer>
 <offer id="1791" available="true">
 <price>25</price>
 </offer>
 <offer id="1793" available="true">
 <price>69</price>
-</offer>
-<offer id="1794" available="false">
-<price>89</price>
 </offer>
 <offer id="1795" available="true">
 <price>59</price>
@@ -21753,9 +21618,6 @@
 </offer>
 <offer id="1803" available="true">
 <price>25</price>
-</offer>
-<offer id="1804" available="false">
-<price>89</price>
 </offer>
 <offer id="1805" available="true">
 <price>69</price>
@@ -21813,12 +21675,6 @@
 </offer>
 <offer id="1825" available="true">
 <price>59</price>
-</offer>
-<offer id="1826" available="false">
-<price>25</price>
-</offer>
-<offer id="1827" available="false">
-<price>99</price>
 </offer>
 <offer id="1828" available="true">
 <price>25</price>
@@ -21949,9 +21805,6 @@
 <offer id="1874" available="true">
 <price>35</price>
 </offer>
-<offer id="1875" available="false">
-<price>59</price>
-</offer>
 <offer id="1876" available="true">
 <price>119</price>
 </offer>
@@ -22006,14 +21859,8 @@
 <offer id="1895" available="true">
 <price>99</price>
 </offer>
-<offer id="1896" available="false">
-<price>79</price>
-</offer>
 <offer id="1897" available="true">
 <price>35</price>
-</offer>
-<offer id="1898" available="false">
-<price>25</price>
 </offer>
 <offer id="1899" available="true">
 <price>35</price>
@@ -22042,9 +21889,6 @@
 <offer id="1907" available="true">
 <price>40</price>
 </offer>
-<offer id="1908" available="false">
-<price>25</price>
-</offer>
 <offer id="1910" available="true">
 <price>69</price>
 </offer>
@@ -22053,9 +21897,6 @@
 </offer>
 <offer id="1912" available="true">
 <price>69</price>
-</offer>
-<offer id="1913" available="false">
-<price>89</price>
 </offer>
 <offer id="1914" available="true">
 <price>25</price>
@@ -22108,9 +21949,6 @@
 <offer id="1932" available="true">
 <price>89</price>
 </offer>
-<offer id="1933" available="false">
-<price>299</price>
-</offer>
 <offer id="1934" available="true">
 <price>79</price>
 </offer>
@@ -22119,9 +21957,6 @@
 </offer>
 <offer id="1936" available="true">
 <price>45</price>
-</offer>
-<offer id="1937" available="false">
-<price>69</price>
 </offer>
 <offer id="1938" available="true">
 <price>79</price>
@@ -22141,9 +21976,6 @@
 <offer id="1943" available="true">
 <price>69</price>
 </offer>
-<offer id="1944" available="false">
-<price>89</price>
-</offer>
 <offer id="1945" available="true">
 <price>129</price>
 </offer>
@@ -22151,9 +21983,6 @@
 <price>45</price>
 </offer>
 <offer id="1947" available="true">
-<price>59</price>
-</offer>
-<offer id="1948" available="false">
 <price>59</price>
 </offer>
 <offer id="1949" available="true">
@@ -22185,9 +22014,6 @@
 </offer>
 <offer id="1958" available="true">
 <price>69</price>
-</offer>
-<offer id="1959" available="false">
-<price>45</price>
 </offer>
 <offer id="1960" available="true">
 <price>35</price>
@@ -22225,9 +22051,6 @@
 <offer id="1979" available="true">
 <price>30</price>
 </offer>
-<offer id="1985" available="false">
-<price>59</price>
-</offer>
 <offer id="1986" available="true">
 <price>45</price>
 </offer>
@@ -22259,7 +22082,7 @@
 <price>79</price>
 </offer>
 <offer id="2010" available="true">
-<price>39</price>
+<price>45</price>
 </offer>
 <offer id="2011" available="true">
 <price>69</price>
@@ -22300,12 +22123,6 @@
 <offer id="2025" available="true">
 <price>45</price>
 </offer>
-<offer id="2026" available="false">
-<price>59</price>
-</offer>
-<offer id="2028" available="false">
-<price>109</price>
-</offer>
 <offer id="2029" available="true">
 <price>25</price>
 </offer>
@@ -22319,12 +22136,6 @@
 <price>14</price>
 </offer>
 <offer id="2033" available="true">
-<price>45</price>
-</offer>
-<offer id="2034" available="false">
-<price>45</price>
-</offer>
-<offer id="2035" available="false">
 <price>45</price>
 </offer>
 <offer id="2036" available="true">
@@ -23435,7 +23246,7 @@
 <price>819</price>
 </offer>
 <offer id="2250714408" available="true">
-<price>79</price>
+<price>59</price>
 </offer>
 <offer id="2957657165" available="true">
 <price>999</price>
@@ -23459,7 +23270,7 @@
 <price>209</price>
 </offer>
 <offer id="482019618" available="true">
-<price>929</price>
+<price>1119</price>
 </offer>
 <offer id="2229911329" available="true">
 <price>319</price>
@@ -23639,7 +23450,7 @@
 <price>359</price>
 </offer>
 <offer id="2227233205" available="true">
-<price>349</price>
+<price>369</price>
 </offer>
 <offer id="2315974265" available="true">
 <price>45</price>
@@ -23672,7 +23483,7 @@
 <price>59</price>
 </offer>
 <offer id="482019542" available="true">
-<price>35</price>
+<price>39</price>
 </offer>
 <offer id="482018307" available="true">
 <price>25</price>
@@ -23798,7 +23609,7 @@
 <price>79</price>
 </offer>
 <offer id="0105394" available="true">
-<price>49</price>
+<price>45</price>
 </offer>
 <offer id="482019655" available="true">
 <price>35</price>
@@ -23870,7 +23681,7 @@
 <price>45</price>
 </offer>
 <offer id="0104342" available="true">
-<price>25</price>
+<price>20</price>
 </offer>
 <offer id="0104715" available="true">
 <price>25</price>
@@ -24500,7 +24311,7 @@
 <price>25</price>
 </offer>
 <offer id="sdb-0013" available="true">
-<price>169</price>
+<price>129</price>
 </offer>
 <offer id="sdb-0014" available="true">
 <price>109</price>
@@ -24509,7 +24320,7 @@
 <price>179</price>
 </offer>
 <offer id="sdb-0019" available="true">
-<price>45</price>
+<price>25</price>
 </offer>
 <offer id="sdb-0020" available="true">
 <price>339</price>
@@ -24524,7 +24335,7 @@
 <price>25</price>
 </offer>
 <offer id="sdb-0027" available="true">
-<price>949</price>
+<price>799</price>
 </offer>
 <offer id="sdb-0030" available="true">
 <price>29</price>
@@ -24689,7 +24500,7 @@
 <price>569</price>
 </offer>
 <offer id="sdm-0029" available="true">
-<price>3409</price>
+<price>3399</price>
 </offer>
 <offer id="sdm-0030" available="true">
 <price>3179</price>
@@ -24776,7 +24587,7 @@
 <price>25</price>
 </offer>
 <offer id="sdm-0064" available="true">
-<price>99</price>
+<price>69</price>
 </offer>
 <offer id="sdm-0065" available="true">
 <price>35</price>
@@ -24809,7 +24620,7 @@
 <price>59</price>
 </offer>
 <offer id="sdm-0075" available="true">
-<price>89</price>
+<price>59</price>
 </offer>
 <offer id="sdm-0076" available="true">
 <price>39</price>
@@ -24842,13 +24653,13 @@
 <price>45</price>
 </offer>
 <offer id="sdm-0086" available="true">
-<price>99</price>
+<price>69</price>
 </offer>
 <offer id="sdm-0087" available="true">
 <price>109</price>
 </offer>
 <offer id="sdm-0088" available="true">
-<price>99</price>
+<price>69</price>
 </offer>
 <offer id="sdm-0089" available="true">
 <price>59</price>
@@ -24920,7 +24731,7 @@
 <price>99</price>
 </offer>
 <offer id="sdm-0113" available="true">
-<price>99</price>
+<price>69</price>
 </offer>
 <offer id="sdm-0114" available="true">
 <price>99</price>
@@ -25043,19 +24854,19 @@
 <price>109</price>
 </offer>
 <offer id="sdm-0156" available="true">
-<price>99</price>
+<price>79</price>
 </offer>
 <offer id="sdm-0157" available="true">
 <price>289</price>
 </offer>
 <offer id="sdm-0158" available="true">
-<price>109</price>
+<price>79</price>
 </offer>
 <offer id="sdm-0159" available="true">
 <price>299</price>
 </offer>
 <offer id="sdm-0160" available="true">
-<price>99</price>
+<price>79</price>
 </offer>
 <offer id="sdm-0161" available="true">
 <price>139</price>
@@ -25094,7 +24905,7 @@
 <price>289</price>
 </offer>
 <offer id="sdm-0175" available="true">
-<price>229</price>
+<price>199</price>
 </offer>
 <offer id="sdm-0176" available="true">
 <price>299</price>
@@ -25157,7 +24968,7 @@
 <price>59</price>
 </offer>
 <offer id="sdm-0197" available="true">
-<price>109</price>
+<price>79</price>
 </offer>
 <offer id="sdm-0198" available="true">
 <price>109</price>
@@ -25166,7 +24977,7 @@
 <price>25</price>
 </offer>
 <offer id="sdm-0200" available="true">
-<price>109</price>
+<price>79</price>
 </offer>
 <offer id="sdm-0201" available="true">
 <price>119</price>
@@ -25238,7 +25049,7 @@
 <price>35</price>
 </offer>
 <offer id="sdm-0227" available="true">
-<price>99</price>
+<price>69</price>
 </offer>
 <offer id="sdm-0228" available="true">
 <price>319</price>
@@ -25319,7 +25130,7 @@
 <price>179</price>
 </offer>
 <offer id="sdm-0256" available="true">
-<price>199</price>
+<price>159</price>
 </offer>
 <offer id="sdm-0257" available="true">
 <price>59</price>
@@ -25688,7 +25499,7 @@
 <price>299</price>
 </offer>
 <offer id="PLX-70-026" available="true">
-<price>1399</price>
+<price>1409</price>
 </offer>
 <offer id="0284" available="true">
 <price>509</price>
@@ -26321,7 +26132,7 @@
 <price>509</price>
 </offer>
 <offer id="482026652" available="true">
-<price>109</price>
+<price>119</price>
 </offer>
 <offer id="482019762" available="true">
 <price>159</price>
@@ -28496,7 +28307,7 @@
 <price>779</price>
 </offer>
 <offer id="vt-224" available="true">
-<price>209</price>
+<price>229</price>
 </offer>
 <offer id="vt-1570" available="true">
 <price>319</price>
@@ -31316,7 +31127,7 @@
 <price>189</price>
 </offer>
 <offer id="vt-AR2135PG" available="true">
-<price>169</price>
+<price>189</price>
 </offer>
 <offer id="vt-AR4409G" available="true">
 <price>169</price>
@@ -32150,7 +31961,7 @@
 <price>199</price>
 </offer>
 <offer id="vt-AR0315FDG" available="true">
-<price>219</price>
+<price>229</price>
 </offer>
 <offer id="vt-AR0415GB" available="true">
 <price>249</price>
@@ -32192,7 +32003,7 @@
 <price>169</price>
 </offer>
 <offer id="vt-AR2922LGC" available="true">
-<price>319</price>
+<price>359</price>
 </offer>
 <offer id="vt-AR2926LGC" available="true">
 <price>239</price>
@@ -32783,7 +32594,7 @@
 <price>119</price>
 </offer>
 <offer id="32-029" available="true">
-<price>409</price>
+<price>429</price>
 </offer>
 <offer id="482018221" available="true">
 <price>109</price>
@@ -33878,7 +33689,7 @@
 <price>139</price>
 </offer>
 <offer id="PLX-27-007" available="true">
-<price>109</price>
+<price>139</price>
 </offer>
 <offer id="PLX-3086" available="true">
 <price>89</price>
@@ -34691,7 +34502,7 @@
 <price>99</price>
 </offer>
 <offer id="vt-09392" available="true">
-<price>159</price>
+<price>179</price>
 </offer>
 <offer id="vt-N3646" available="true">
 <price>69</price>
@@ -35957,7 +35768,7 @@
 <price>79</price>
 </offer>
 <offer id="vt-KM-10103" available="true">
-<price>519</price>
+<price>589</price>
 </offer>
 <offer id="vt-KM-10087" available="true">
 <price>429</price>
@@ -37028,7 +36839,7 @@
 <price>419</price>
 </offer>
 <offer id="vt-100615L" available="true">
-<price>589</price>
+<price>639</price>
 </offer>
 <offer id="vt-KM-4316" available="true">
 <price>399</price>
@@ -39191,7 +39002,7 @@
 <price>209</price>
 </offer>
 <offer id="PLX-101-153" available="true">
-<price>79</price>
+<price>119</price>
 </offer>
 <offer id="PLX-101-154" available="true">
 <price>89</price>
@@ -39200,7 +39011,7 @@
 <price>199</price>
 </offer>
 <offer id="PLX-101-156" available="true">
-<price>99</price>
+<price>129</price>
 </offer>
 <offer id="PLX-101-157" available="true">
 <price>219</price>
@@ -39233,7 +39044,7 @@
 <price>389</price>
 </offer>
 <offer id="PLX-3-011-001" available="true">
-<price>229</price>
+<price>219</price>
 </offer>
 <offer id="PLX-3-012" available="true">
 <price>99</price>
@@ -39296,10 +39107,10 @@
 <price>269</price>
 </offer>
 <offer id="PLX-34-002" available="true">
-<price>139</price>
+<price>179</price>
 </offer>
 <offer id="PLX-34-003" available="true">
-<price>119</price>
+<price>169</price>
 </offer>
 <offer id="PLX-45-419" available="true">
 <price>129</price>
@@ -39561,9 +39372,6 @@
 </offer>
 <offer id="lp-LP30514" available="true">
 <price>139</price>
-</offer>
-<offer id="lp-LP31338" available="false">
-<price>1039</price>
 </offer>
 <offer id="lp-LP31346" available="true">
 <price>529</price>
@@ -40032,9 +39840,6 @@
 </offer>
 <offer id="lp-LP38626" available="true">
 <price>659</price>
-</offer>
-<offer id="lp-LP38939" available="false">
-<price>6919</price>
 </offer>
 <offer id="lp-LP38994" available="true">
 <price>179</price>
@@ -41168,7 +40973,7 @@
 <price>269</price>
 </offer>
 <offer id="PLX-70-033" available="true">
-<price>149</price>
+<price>189</price>
 </offer>
 <offer id="lg-1000L100MGBL" available="true">
 <price>859</price>
@@ -41740,9 +41545,6 @@
 <offer id="lg-CF1000L100MWW" available="true">
 <price>2679</price>
 </offer>
-<offer id="lg-CF1000L100MWY" available="false">
-<price>2679</price>
-</offer>
 <offer id="lg-CF300L30MBBL" available="true">
 <price>1449</price>
 </offer>
@@ -41947,7 +41749,7 @@
 <offer id="lg-USB100L10MWW" available="true">
 <price>149</price>
 </offer>
-<offer id="lg-USB100L10MWY" available="true">
+<offer id="lg-USB100L10MWY" available="false">
 <price>149</price>
 </offer>
 <offer id="lg-USB173304Y" available="true">
@@ -43124,7 +42926,7 @@
 <price>409</price>
 </offer>
 <offer id="vt-30200-00" available="true">
-<price>249</price>
+<price>219</price>
 </offer>
 <offer id="vt-30201-00" available="true">
 <price>399</price>
@@ -43906,9 +43708,6 @@
 <offer id="amt-255756" available="true">
 <price>11139</price>
 </offer>
-<offer id="amt-191762" available="false">
-<price>2419</price>
-</offer>
 <offer id="amt-240471" available="true">
 <price>2119</price>
 </offer>
@@ -43938,9 +43737,6 @@
 </offer>
 <offer id="amt-41715" available="true">
 <price>4949</price>
-</offer>
-<offer id="amt-16596" available="false">
-<price>5879</price>
 </offer>
 <offer id="amt-110973" available="true">
 <price>9139</price>
@@ -44020,7 +43816,7 @@
 <offer id="amt-120547" available="true">
 <price>6039</price>
 </offer>
-<offer id="amt-119341" available="true">
+<offer id="amt-119341" available="false">
 <price>588589</price>
 </offer>
 <offer id="amt-220363" available="true">
@@ -44049,9 +43845,6 @@
 </offer>
 <offer id="amt-177323" available="true">
 <price>379</price>
-</offer>
-<offer id="amt-250586" available="false">
-<price>84369</price>
 </offer>
 <offer id="amt-220364" available="true">
 <price>149</price>
@@ -44245,9 +44038,6 @@
 <offer id="amt-184448" available="true">
 <price>4739</price>
 </offer>
-<offer id="amt-184447" available="false">
-<price>6949</price>
-</offer>
 <offer id="amt-184445" available="true">
 <price>2329</price>
 </offer>
@@ -44284,7 +44074,7 @@
 <offer id="amt-235306" available="true">
 <price>159</price>
 </offer>
-<offer id="amt-235307" available="true">
+<offer id="amt-235307" available="false">
 <price>449</price>
 </offer>
 <offer id="amt-223822" available="true">
@@ -44530,7 +44320,7 @@
 <offer id="amt-243511" available="true">
 <price>2229</price>
 </offer>
-<offer id="amt-246601" available="true">
+<offer id="amt-246601" available="false">
 <price>3989</price>
 </offer>
 <offer id="amt-243607" available="true">
@@ -44722,7 +44512,7 @@
 <offer id="amt-187836" available="true">
 <price>939</price>
 </offer>
-<offer id="amt-196193" available="true">
+<offer id="amt-196193" available="false">
 <price>2109</price>
 </offer>
 <offer id="amt-181685" available="true">
@@ -45028,9 +44818,6 @@
 <offer id="amt-55573" available="true">
 <price>10829</price>
 </offer>
-<offer id="amt-40346N" available="false">
-<price>1759</price>
-</offer>
 <offer id="amt-119345" available="true">
 <price>5659</price>
 </offer>
@@ -45303,9 +45090,6 @@
 </offer>
 <offer id="vt-040-01-103" available="true">
 <price>279</price>
-</offer>
-<offer id="lp-LP22733" available="false">
-<price>849</price>
 </offer>
 <offer id="lp-LP42382" available="true">
 <price>72789</price>
@@ -48526,9 +48310,6 @@
 <offer id="lg-HP-20-23" available="true">
 <price>5479</price>
 </offer>
-<offer id="lg-HP-20-24" available="false">
-<price>1829</price>
-</offer>
 <offer id="lg-HP-20-26" available="true">
 <price>2049</price>
 </offer>
@@ -49138,7 +48919,7 @@
 <offer id="lg-HP7889" available="true">
 <price>2419</price>
 </offer>
-<offer id="lg-HP96919" available="true">
+<offer id="lg-HP96919" available="false">
 <price>439</price>
 </offer>
 <offer id="lg-HP96922" available="true">
@@ -50872,9 +50653,6 @@
 <offer id="lg-HP-14-50O" available="true">
 <price>1039</price>
 </offer>
-<offer id="lg-HP-14-51W" available="false">
-<price>1389</price>
-</offer>
 <offer id="lg-HP-14-52P" available="true">
 <price>659</price>
 </offer>
@@ -51526,9 +51304,6 @@
 <offer id="lg-HP-34-19" available="true">
 <price>979</price>
 </offer>
-<offer id="lg-HP-34-64" available="false">
-<price>1189</price>
-</offer>
 <offer id="lg-HP-34-65" available="true">
 <price>1189</price>
 </offer>
@@ -51972,9 +51747,6 @@
 </offer>
 <offer id="lg-HP-FLG-7WHITE" available="true">
 <price>7859</price>
-</offer>
-<offer id="lg-HP-FLG-8burgundy" available="false">
-<price>3539</price>
 </offer>
 <offer id="lg-HP-FLG-8green" available="true">
 <price>3539</price>
@@ -55074,6 +54846,9 @@
 </offer>
 <offer id="lg-SG-32-6" available="true">
 <price>199</price>
+</offer>
+<offer id="lg-2561-1AS" available="true">
+<price>1819</price>
 </offer>
 <offer id="PLX-310" available="true">
 <price>10</price>
